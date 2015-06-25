@@ -1,0 +1,1695 @@
+# Wordlist
+
+# DATA
+ID	BRANCH	COGID	DOCULECT	IPA	OLD_TOKENS	NUMBER	LANGUAGENAME	CONCEPT	COGNATE_SCORE	COG	TOKENS
+#
+7942	ASLIAN	3	CheqWong	ʔiŋ	ʔiŋ	63	Cheq-Wong	I, me	1	I, me/1	ʔ i ŋ
+7943	ASLIAN	14	JahHut	ʔihãʔ	ʔihãʔ	63	Jah-Hut	I, me	2	I, me/2	ʔ i h ã ʔ
+7944	ASLIAN	15	Jahai	jɛʔ	jɛʔ	63	Jahai	I, me	3	I, me/3	j ɛ ʔ
+7945	ASLIAN	15	Kensiw	jɛʔ	jɛʔ	63	Kensiw	I, me	3	I, me/3	j ɛ ʔ
+7946	ASLIAN	16	MahMeri	ʔəʔə̤t	ʔəʔə̤t	63	Mah-Meri	I, me	4	I, me/4	ʔ ə ʔ ə̤ t
+7947	ASLIAN	3	Maniq	ʔiɲ	ʔiɲ	63	Maniq	I, me	1	I, me/1	ʔ i ɲ
+7948	ASLIAN	3	Semai	ʔɛŋ	ʔɛŋ	63	Semai	I, me	1	I, me/1	ʔ ɛ ŋ
+7949	ASLIAN	3	Semelai	ʔəɲ	ʔəɲ	63	Semelai	I, me	1	I, me/1	ʔ ə ɲ
+7950	ASLIAN	15	Semelai	jɛ	jɛ	63	Semelai	I, me	3	I, me/3	j ɛ
+7951	ASLIAN	3	Semnam	ʔĩːɲ	ʔĩːɲ	63	Semnam	I, me	1	I, me/1	ʔ ĩː ɲ
+7952	ASLIAN	15	Temiar	jeːʔ	jeːʔ	63	Temiar	I, me	3	I, me/3	j eː ʔ
+7953	ASLIAN	15	Temiar	jʌiʔ	jʌiʔ	63	Temiar	I, me	3	I, me/3	j ʌ i ʔ
+#
+4	ASLIAN	22	Kensiw	samsu	samsu	1	Kensiw	alcohol/liquor	1	alcohol/liquor/1	s a ms u
+#
+137	ASLIAN	74	Semelai	ʔris	ʔris	2	Semelai	alive/live	2	alive/live/2	ʔ r i s
+138	ASLIAN	63	Semnam	gɔːs	gɔːs	2	Semnam	alive/live	1	alive/live/1	g ɔː s
+139	ASLIAN	63	Temiar	gos	gos	2	Temiar	alive/live	1	alive/live/1	g o s
+133	ASLIAN	63	Kensiw	gɔs	gɔs	2	Kensiw	alive/live	1	alive/live/1	g ɔ s
+135	ASLIAN	63	Maniq	gamɔs	gamɔs	2	Maniq	alive/live	1	alive/live/1	g a m ɔ s
+130	ASLIAN	63	CheqWong	gɔs	gɔs	2	Cheq-Wong	alive/live	1	alive/live/1	g ɔ s
+131	ASLIAN	74	JahHut	res	res	2	Jah-Hut	alive/live	2	alive/live/2	r e s
+132	ASLIAN	63	Jahai	gɔs	gɔs	2	Jahai	alive/live	1	alive/live/1	g ɔ s
+134	ASLIAN	74	MahMeri	ɰis	ɰis	2	Mah-Meri	alive/live	2	alive/live/2	ɰ i s
+136	ASLIAN	84	Semai	sui	sui	2	Semai	alive/live	3	alive/live/3	s u i
+#
+257	ASLIAN	100	Jahai	bet	bet	3	Jahai	ant	1	ant/1	b e t
+261	ASLIAN	111	Semai	las	las	3	Semai	ant	2	ant/2	l a s
+262	ASLIAN	111	Semelai	lslɒs	lslɒs	3	Semelai	ant	2	ant/2	ls l ɒ s
+263	ASLIAN	122	Semelai	smut	smut	3	Semelai	ant	3	ant/3	s m u t
+264	ASLIAN	111	Semnam	las	las	3	Semnam	ant	2	ant/2	l a s
+258	ASLIAN	111	Kensiw	les / leʃ	les	3	Kensiw	ant	2	ant/2	l e s
+265	ASLIAN	100	Temiar	bət	bət	3	Temiar	ant	1	ant/1	b ə t
+#
+383	ASLIAN	129	Kensiw	lɔc	lɔc	4	Kensiw	arrow	1	arrow/1	l ɔ c
+389	ASLIAN	129	Temiar	lʌg	lʌg	4	Temiar	arrow	1	arrow/1	l ʌ g
+382	ASLIAN	129	Jahai	pucuk lɔc	pucuk#lɔc	4	Jahai	arrow	1	arrow/1	p u c u k # l ɔ c
+#
+508	ASLIAN	160	Kensiw	tapip	tapip	5	Kensiw	ashes	1	ashes/1	t a p i p
+#
+629	ASLIAN	217	JahHut	deŋ	deŋ	6	Jah-Hut	bamboo	3	bamboo/3	d e ŋ
+631	ASLIAN	196	Kensiw	labɛh	labɛh	6	Kensiw	bamboo	1	bamboo/1	l a b ɛ h
+632	ASLIAN	217	MahMeri	di̤k	di̤k	6	Mah-Meri	bamboo	3	bamboo/3	d i̤ k
+634	ASLIAN	207	Semai	ʔawat	ʔawat	6	Semai	bamboo	2	bamboo/2	ʔ a w a t
+635	ASLIAN	217	Semelai	diŋ	diŋ	6	Semelai	bamboo	3	bamboo/3	d i ŋ
+636	ASLIAN	207	Semnam	ʔawɛ̃ːn	ʔawɛ̃ːn	6	Semnam	bamboo	2	bamboo/2	ʔ a w ɛ̃ː n
+637	ASLIAN	207	Temiar	ʔawat / ʔawen	ʔawat	6	Temiar	bamboo	2	bamboo/2	ʔ a w a t
+#
+764	ASLIAN	263	JahHut	cjək	cjək	7	Jah-Hut	banana	6	banana/6	c j ə k
+765	ASLIAN	258	Jahai	ɟaj	ɟaj	7	Jahai	banana	23	banana/23	ɟ a j
+768	ASLIAN	259	MahMeri	hntɔʔ	hntɔʔ	7	Mah-Meri	banana	24	banana/24	h n t ɔ ʔ
+770	ASLIAN	243	Semai	mamɔʔ	mamɔʔ	7	Semai	banana	1	banana/1	m a m ɔ ʔ
+771	ASLIAN	254	Semelai	tluːj	tluːj	7	Semelai	banana	2	banana/2	t l uː j
+772	ASLIAN	254	Semnam	tluːj	tluːj	7	Semnam	banana	2	banana/2	t l uː j
+773	ASLIAN	254	Temiar	tʌlui	tʌlui	7	Temiar	banana	2	banana/2	t ʌ l u i
+#
+894	ASLIAN	267	Semnam	kacaːŋ	kacaːŋ	8	Semnam	beans/peas	1	beans/peas/1	k a c aː ŋ
+#
+1014	ASLIAN	293	Kensiw	kawap	kawap	9	Kensiw	bear	1	bear/1	k a w a p
+1015	ASLIAN	304	MahMeri	bwa̤k	bwa̤k	9	Mah-Meri	bear	2	bear/2	b w a̤ k
+1020	ASLIAN	308	Temiar	kawɪd	kawɪd	9	Temiar	bear	3	bear/3	k a w ɪ d
+1017	ASLIAN	293	Semai	kawøp	kawøp	9	Semai	bear	1	bear/1	k a w ø p
+1013	ASLIAN	293	Jahai	kawip	kawip	9	Jahai	bear	1	bear/1	k a w i p
+1018	ASLIAN	304	Semelai	brwaŋ	brwaŋ	9	Semelai	bear	2	bear/2	b r w a ŋ
+#
+1136	ASLIAN	345	JahHut	tbʉl	tbʉl	10	Jah-Hut	bee/honeybee	39	bee/honeybee/39	t b ʉ l
+1137	ASLIAN	315	Jahai	lbah lwɛj	lbah#lwɛj	10	Jahai	bee/honeybee	1	bee/honeybee/1	l b a h # l w ɛ j
+1138	ASLIAN	326	Kensiw	padaw	padaw	10	Kensiw	bee/honeybee	2	bee/honeybee/2	p a d a w
+1139	ASLIAN	337	MahMeri	sut	sut	10	Mah-Meri	bee/honeybee	3	bee/honeybee/3	s u t
+1141	ASLIAN	315	Semai	lueɪ	lueɪ	10	Semai	bee/honeybee	1	bee/honeybee/1	l u e ɪ
+1143	ASLIAN	315	Semnam	lwej	lwej	10	Semnam	bee/honeybee	1	bee/honeybee/1	l w e j
+1144	ASLIAN	337	Temiar	sʌmuit	sʌmuit	10	Temiar	bee/honeybee	3	bee/honeybee/3	s ʌ m u i t
+#
+1262	ASLIAN	353	CheqWong	ʔac	ʔac	11	Cheq-Wong	belly/stomach	1	belly/stomach/1	ʔ a c
+1263	ASLIAN	364	JahHut	ləpɛc	ləpɛc	11	Jah-Hut	belly/stomach	2	belly/stomach/2	l ə p ɛ c
+1264	ASLIAN	353	Jahai	ʔɛc	ʔɛc	11	Jahai	belly/stomach	1	belly/stomach/1	ʔ ɛ c
+1265	ASLIAN	353	Kensiw	ʔeɟ	ʔeɟ	11	Kensiw	belly/stomach	1	belly/stomach/1	ʔ e ɟ
+1266	ASLIAN	357	MahMeri	ʔoʔoc	ʔoʔoc	11	Mah-Meri	belly/stomach	13	belly/stomach/13	ʔ o ʔ o c
+1267	ASLIAN	375	Maniq	cɨŋ	cɨŋ	11	Maniq	belly/stomach	3	belly/stomach/3	c ɨ ŋ
+1268	ASLIAN	353	Semai	ʔeɪt	ʔeɪt	11	Semai	belly/stomach	1	belly/stomach/1	ʔ e ɪ t
+1269	ASLIAN	364	Semelai	lpəc	lpəc	11	Semelai	belly/stomach	2	belly/stomach/2	l p ə c
+1270	ASLIAN	386	Semnam	kət	kət	11	Semnam	belly/stomach	4	belly/stomach/4	k ə t
+1271	ASLIAN	353	Temiar	ʔeɟ	ʔeɟ	11	Temiar	belly/stomach	1	belly/stomach/1	ʔ e ɟ
+#
+1395	ASLIAN	405	JahHut	cɛm	cɛm	12	Jah-Hut	bird	2	bird/2	c ɛ m
+1394	ASLIAN	395	CheqWong	kawaw	kawaw	12	Cheq-Wong	bird	1	bird/1	k a w a w
+1396	ASLIAN	395	Jahai	kawaw	kawaw	12	Jahai	bird	1	bird/1	k a w a w
+1397	ASLIAN	395	Kensiw	kawaw	kawaw	12	Kensiw	bird	1	bird/1	k a w a w
+1398	ASLIAN	405	MahMeri	ci̤p	ci̤p	12	Mah-Meri	bird	2	bird/2	c i̤ p
+1399	ASLIAN	395	Maniq	kawaw	kawaw	12	Maniq	bird	1	bird/1	k a w a w
+1400	ASLIAN	405	Semai	cɛːbm	cɛːbm	12	Semai	bird	2	bird/2	c ɛː b m
+1401	ASLIAN	405	Semelai	cim	cim	12	Semelai	bird	2	bird/2	c i m
+1402	ASLIAN	405	Semnam	ceːm	ceːm	12	Semnam	bird	2	bird/2	c eː m
+1403	ASLIAN	405	Temiar	cɛp	cɛp	12	Temiar	bird	2	bird/2	c ɛ p
+#
+1526	ASLIAN	417	Jahai	kdɛk	kdɛk	13	Jahai	bitter	1	bitter/1	k d ɛ k
+1527	ASLIAN	417	Kensiw	kadɛk	kadɛk	13	Kensiw	bitter	1	bitter/1	k a d ɛ k
+1528	ASLIAN	417	MahMeri	kdec	kdec	13	Mah-Meri	bitter	1	bitter/1	k d e c
+1530	ASLIAN	417	Semai	kʌdeɪt	kʌdeɪt	13	Semai	bitter	1	bitter/1	k ʌ d e ɪ t
+1533	ASLIAN	417	Temiar	kʌdeg	kʌdeg	13	Temiar	bitter	1	bitter/1	k ʌ d e g
+1525	ASLIAN	417	JahHut	kdɛk	kdɛk	13	Jah-Hut	bitter	1	bitter/1	k d ɛ k
+1532	ASLIAN	417	Semnam	kdɛk	kdɛk	13	Semnam	bitter	1	bitter/1	k d ɛ k
+#
+1648	ASLIAN	437	JahHut	priɲ	priɲ	14	Jah-Hut	black	16	black/16	p r i ɲ
+1649	ASLIAN	430	Jahai	gcĩh	gcĩh	14	Jahai	black	1	black/1	g c ĩ h
+1650	ASLIAN	441	Kensiw	bəltɛ̃k	bəltɛ̃k	14	Kensiw	black	2	black/2	b ə l t ɛ̃ k
+1651	ASLIAN	470	MahMeri	bəkɔ͂ʔ	bəkɔ͂ʔ	14	Mah-Meri	black	47	black/47	b ə k ɔ͂ ʔ
+1653	ASLIAN	451	Semai	blʔak	blʔak	14	Semai	black	3	black/3	b l ʔ a k
+1654	ASLIAN	462	Semelai	bəlʔur	bəlʔur	14	Semelai	black	4	black/4	b ə l ʔ u r
+1655	ASLIAN	430	Semnam	gcɛ̃h	gcɛ̃h	14	Semnam	black	1	black/1	g c ɛ̃ h
+1656	ASLIAN	471	Temiar	reŋah	reŋah	14	Temiar	black	5	black/5	r e ŋ a h
+#
+1774	ASLIAN	476	CheqWong	mhə̃m	mhə̃m	15	Cheq-Wong	blood	1	blood/1	mh ə̃ m
+1775	ASLIAN	476	JahHut	nəhim	nəhim	15	Jah-Hut	blood	1	blood/1	n ə h i m
+1776	ASLIAN	476	Jahai	bhɨ̃m	bhɨ̃m	15	Jahai	blood	1	blood/1	bh ɨ̃ m
+1778	ASLIAN	476	Kensiw	məhɯm	məhɯm	15	Kensiw	blood	1	blood/1	m ə h ɯ m
+1780	ASLIAN	476	Maniq	mahɨ̃m	mahɨ̃m	15	Maniq	blood	1	blood/1	m a h ɨ̃ m
+1781	ASLIAN	476	Semai	bhiːpm	bhiːpm	15	Semai	blood	1	blood/1	bh iː p m
+1782	ASLIAN	476	Semelai	maham	maham	15	Semelai	blood	1	blood/1	m a h a m
+1779	ASLIAN	476	MahMeri	maham	maham	15	Mah-Meri	blood	1	blood/1	m a h a m
+#
+1903	ASLIAN	481	Kensiw	jake̝ʔ	jake̝ʔ	16	Kensiw	boat	1	boat/1	j a k e̝ ʔ
+#
+2026	ASLIAN	501	Jahai	sɔk	sɔk	17	Jahai	body hair/feathers	1	body hair/feathers/1	s ɔ k
+2027	ASLIAN	501	Kensiw	sok	sok	17	Kensiw	body hair/feathers	1	body hair/feathers/1	s o k
+2028	ASLIAN	501	MahMeri	sup / suk	sup	17	Mah-Meri	body hair/feathers	1	body hair/feathers/1	s u p
+2029	ASLIAN	501	Maniq	sɔk	sɔk	17	Maniq	body hair/feathers	1	body hair/feathers/1	s ɔ k
+2030	ASLIAN	512	Semai	sʌntɔl	sʌntɔl	17	Semai	body hair/feathers	2	body hair/feathers/2	s ʌ n t ɔ l
+2032	ASLIAN	512	Semnam	sntɔːl	sntɔːl	17	Semnam	body hair/feathers	2	body hair/feathers/2	s n t ɔː l
+2034	ASLIAN	501	Alak	sɔk	sɔk	17	Alak	body hair/feathers	1	body hair/feathers/1	s ɔ k
+2035	ASLIAN	501	Alak	sasɔk	sasɔk	17	Alak	body hair/feathers	1	body hair/feathers/1	s a s ɔ k
+2024	ASLIAN	501	CheqWong	sɔk	sɔk	17	Cheq-Wong	body hair/feathers	1	body hair/feathers/1	s ɔ k
+2025	ASLIAN	501	JahHut	sɔk	sɔk	17	Jah-Hut	body hair/feathers	1	body hair/feathers/1	s ɔ k
+2031	ASLIAN	501	Semelai	suk	suk	17	Semelai	body hair/feathers	1	body hair/feathers/1	s u k
+2033	ASLIAN	512	Temiar	sentol	sentol	17	Temiar	body hair/feathers	2	body hair/feathers/2	s e n t o l
+#
+2162	ASLIAN	532	Semnam	ɟʔaːŋ	ɟʔaːŋ	18	Semnam	bone	1	bone/1	ɟ ʔ aː ŋ
+2163	ASLIAN	532	Temiar	ɟəʔaːk	ɟəʔaːk	18	Temiar	bone	1	bone/1	ɟ ə ʔ aː k
+2154	ASLIAN	532	CheqWong	jʔeŋ	jʔeŋ	18	Cheq-Wong	bone	1	bone/1	j ʔ e ŋ
+2155	ASLIAN	532	JahHut	jəʔaŋ	jəʔaŋ	18	Jah-Hut	bone	1	bone/1	j ə ʔ a ŋ
+2156	ASLIAN	532	Jahai	ɟʔeŋ	ɟʔeŋ	18	Jahai	bone	1	bone/1	ɟ ʔ e ŋ
+2157	ASLIAN	532	Kensiw	ʔijeŋ	ʔijeŋ	18	Kensiw	bone	1	bone/1	ʔ i j e ŋ
+2158	ASLIAN	532	MahMeri	jəʔa̤̤k	jəʔa̤̤k	18	Mah-Meri	bone	1	bone/1	j ə ʔ a̤̤ k
+2159	ASLIAN	532	Maniq	ʔiyeŋ	ʔiyeŋ	18	Maniq	bone	1	bone/1	ʔ i y e ŋ
+2160	ASLIAN	532	Semai	ɟʔaːkŋ	ɟʔaːkŋ	18	Semai	bone	1	bone/1	ɟ ʔ aː k ŋ
+2161	ASLIAN	532	Semelai	ɟəʔaŋ	ɟəʔaŋ	18	Semelai	bone	1	bone/1	ɟ ə ʔ a ŋ
+#
+2279	ASLIAN	541	Jahai	lɔc	lɔc	19	Jahai	bow, crossbow	1	bow, crossbow/1	l ɔ c
+2280	ASLIAN	541	Kensiw	lɔc	lɔc	19	Kensiw	bow, crossbow	1	bow, crossbow/1	l ɔ c
+2283	ASLIAN	552	Semai	tʊndɔʔ	tʊndɔʔ	19	Semai	bow, crossbow	2	bow, crossbow/2	t ʊ n d ɔ ʔ
+2286	ASLIAN	541	Temiar	lɔiɟ	lɔiɟ	19	Temiar	bow, crossbow	1	bow, crossbow/1	l ɔ i ɟ
+#
+2419	ASLIAN	571	Semnam	lakuoːm	lakuoːm	20	Semnam	brain	1	brain/1	l a k u oː m
+2413	ASLIAN	571	Jahai	lkɛm	lkɛm	20	Jahai	brain	1	brain/1	l k ɛ m
+2414	ASLIAN	571	Kensiw	lakiam	lakiam	20	Kensiw	brain	1	brain/1	l a k i a m
+2415	ASLIAN	596	MahMeri	ʔatɔk	ʔatɔk	20	Mah-Meri	brain	5	brain/5	ʔ a t ɔ k
+2417	ASLIAN	582	Semai	kʌlop	kʌlop	20	Semai	brain	2	brain/2	k ʌ l o p
+2420	ASLIAN	593	Temiar	ʔumog	ʔumog	20	Temiar	brain	3	brain/3	ʔ u m o g
+#
+2541	ASLIAN	601	Kensiw	jo̝h ʔihuʔ	jo̝h#ʔihuʔ	21	Kensiw	branch	1	branch/1	j o̝ h # ʔ i h u ʔ
+2542	ASLIAN	601	MahMeri	ɰɔh	ɰɔh	21	Mah-Meri	branch	1	branch/1	ɰ ɔ h
+2544	ASLIAN	612	Semai	tabaʔ	tabaʔ	21	Semai	branch	2	branch/2	t a b a ʔ
+2545	ASLIAN	623	Semelai	rɔh	rɔh	21	Semelai	branch	3	branch/3	r ɔ h
+2546	ASLIAN	612	Semnam	tmaʔ	tmaʔ	21	Semnam	branch	2	branch/2	t m a ʔ
+2547	ASLIAN	612	Temiar	tabaʔ	tabaʔ	21	Temiar	branch	2	branch/2	t a b a ʔ
+#
+2678	ASLIAN	662	Temiar	mem	mem	22	Temiar	breast	4	breast/4	m e m
+2669	ASLIAN	642	CheqWong	buʔ	buʔ	22	Cheq-Wong	breast	1	breast/1	b u ʔ
+2670	ASLIAN	642	JahHut	buʔ	buʔ	22	Jah-Hut	breast	1	breast/1	b u ʔ
+2671	ASLIAN	653	Jahai	ʔɛ̃m	ʔɛ̃m	22	Jahai	breast	2	breast/2	ʔ ɛ̃ m
+2672	ASLIAN	653	Kensiw	ʔam	ʔam	22	Kensiw	breast	2	breast/2	ʔ a m
+2673	ASLIAN	661	MahMeri	tuh	tuh	22	Mah-Meri	breast	3	breast/3	t u h
+2674	ASLIAN	662	Maniq	mam	mam	22	Maniq	breast	4	breast/4	m a m
+2675	ASLIAN	661	Semai	ntʌh	ntʌh	22	Semai	breast	3	breast/3	n t ʌ h
+2677	ASLIAN	662	Semnam	mɛːm	mɛːm	22	Semnam	breast	4	breast/4	m ɛː m
+2676	ASLIAN	661	Semelai	tuh	tuh	22	Semelai	breast	3	breast/3	t u h
+#
+2920	ASLIAN	685	CheqWong	wɔŋ	wɔŋ	24	Cheq-Wong	child/son	1	child/son/1	w ɔ ŋ
+2921	ASLIAN	693	JahHut	ʔiwãʔ	ʔiwãʔ	24	Jah-Hut	child/son	2	child/son/2	ʔ i w ã ʔ
+2922	ASLIAN	685	Jahai	wɔŋ	wɔŋ	24	Jahai	child/son	1	child/son/1	w ɔ ŋ
+2923	ASLIAN	685	Kensiw	wɔgŋ	wɔgŋ	24	Kensiw	child/son	1	child/son/1	w ɔ g ŋ
+2924	ASLIAN	694	MahMeri	kənɔn	kənɔn	24	Mah-Meri	child/son	3	child/son/3	k ə n ɔ n
+2925	ASLIAN	685	Maniq	wɔŋ	wɔŋ	24	Maniq	child/son	1	child/son/1	w ɔ ŋ
+2926	ASLIAN	694	Semai	kʌnɔn	kʌnɔn	24	Semai	child/son	3	child/son/3	k ʌ n ɔ n
+2927	ASLIAN	694	Semelai	knkɔn	knkɔn	24	Semelai	child/son	3	child/son/3	k n k ɔ n
+2928	ASLIAN	694	Semnam	kuoːn	kuoːn	24	Semnam	child/son	3	child/son/3	k u oː n
+2929	ASLIAN	694	Temiar	kəwɔt	kəwɔt	24	Temiar	child/son	3	child/son/3	k ə w ɔ t
+#
+3049	ASLIAN	702	CheqWong	ʔɑl	ʔɑl	25	Cheq-Wong	cloud	1	cloud/1	ʔ ɑ l
+3050	ASLIAN	713	JahHut	kabut	kabut	25	Jah-Hut	cloud	2	cloud/2	k a b u t
+3051	ASLIAN	724	Jahai	sagup	sagup	25	Jahai	cloud	3	cloud/3	s a g u p
+3052	ASLIAN	702	Kensiw	ʔal	ʔal	25	Kensiw	cloud	1	cloud/1	ʔ a l
+3053	ASLIAN	713	MahMeri	kabut	kabut	25	Mah-Meri	cloud	2	cloud/2	k a b u t
+3054	ASLIAN	702	Maniq	ʔal	ʔal	25	Maniq	cloud	1	cloud/1	ʔ a l
+3055	ASLIAN	724	Semai	sagup	sagup	25	Semai	cloud	3	cloud/3	s a g u p
+3056	ASLIAN	732	Semelai	tɔm ʔareʔ	tɔm#ʔareʔ	25	Semelai	cloud	4	cloud/4	t ɔ m # ʔ a r e ʔ
+3057	ASLIAN	724	Semnam	saguP	saguP	25	Semnam	cloud	3	cloud/3	s a g u P
+3058	ASLIAN	724	Temiar	sagub	sagub	25	Temiar	cloud	3	cloud/3	s a g u b
+#
+3181	ASLIAN	760	Semelai	sədəc	sədəc	26	Semelai	cold	3	cold/3	s ə d ə c
+3175	ASLIAN	749	JahHut	sŋɛc	sŋɛc	26	Jah-Hut	cold	2	cold/2	s ŋ ɛ c
+3176	ASLIAN	738	Jahai	təmkɛt	təmkɛt	26	Jahai	cold	1	cold/1	t ə m k ɛ t
+3177	ASLIAN	749	Kensiw	həŋɛc	həŋɛc	26	Kensiw	cold	2	cold/2	h ə ŋ ɛ c
+3178	ASLIAN	781	MahMeri	ʔapẽc	ʔapẽc	26	Mah-Meri	cold	5	cold/5	ʔ a p ẽ c
+3180	ASLIAN	749	Semai	sŋɛc	sŋɛc	26	Semai	cold	2	cold/2	s ŋ ɛ c
+3182	ASLIAN	771	Semnam	sɟuːʔ	sɟuːʔ	26	Semnam	cold	4	cold/4	s ɟ uː ʔ
+3183	ASLIAN	749	Temiar	sʌŋeɟ	sʌŋeɟ	26	Temiar	cold	2	cold/2	s ʌ ŋ e ɟ
+#
+3319	ASLIAN	795	Kensiw	ʔeʔ	ʔeʔ	27	Kensiw	dog	3	dog/3	ʔ e ʔ
+3322	ASLIAN	794	Semai	coːʔ	coːʔ	27	Semai	dog	2	dog/2	c oː ʔ
+3316	ASLIAN	792	CheqWong	ʔɛ̃ŋ	ʔɛ̃ŋ	27	Cheq-Wong	dog	1	dog/1	ʔ ɛ̃ ŋ
+3320	ASLIAN	794	MahMeri	caw	caw	27	Mah-Meri	dog	2	dog/2	c a w
+3323	ASLIAN	794	Semelai	cɔ	cɔ	27	Semelai	dog	2	dog/2	c ɔ
+3324	ASLIAN	794	Semnam	cuoːʔ	cuoːʔ	27	Semnam	dog	2	dog/2	c u oː ʔ
+3325	ASLIAN	794	Semnam	ʔacɛ̃ʔ	ʔacɛ̃ʔ	27	Semnam	dog	2	dog/2	ʔ a c ɛ̃ ʔ
+3326	ASLIAN	794	Temiar	cəwɔʔ	cəwɔʔ	27	Temiar	dog	2	dog/2	c ə w ɔ ʔ
+3317	ASLIAN	794	JahHut	cwəʔ	cwəʔ	27	Jah-Hut	dog	2	dog/2	c w ə ʔ
+3318	ASLIAN	794	Jahai	ʔəciʔ	ʔəciʔ	27	Jahai	dog	2	dog/2	ʔ ə c i ʔ
+3321	ASLIAN	795	Maniq	ʔeʔ	ʔeʔ	27	Maniq	dog	3	dog/3	ʔ e ʔ
+#
+3442	ASLIAN	802	Kensiw	kəxe̝gŋ	kəxe̝gŋ	28	Kensiw	dry	1	dry/1	k ə x e̝ g ŋ
+3449	ASLIAN	845	Semai	sʌkul	sʌkul	28	Semai	dry	5	dry/5	s ʌ k u l
+3453	ASLIAN	824	Temiar	sod	sod	28	Temiar	dry	3	dry/3	s o d
+3452	ASLIAN	856	Semnam	sjeːt	sjeːt	28	Semnam	dry	6	dry/6	s j eː t
+3441	ASLIAN	802	Jahai	kriŋ	kriŋ	28	Jahai	dry	1	dry/1	k r i ŋ
+3443	ASLIAN	813	Kensiw	kasɛw	kasɛw	28	Kensiw	dry	2	dry/2	k a s ɛ w
+3444	ASLIAN	824	Kensiw	sat	sat	28	Kensiw	dry	3	dry/3	s a t
+3447	ASLIAN	824	Semai	soʊt	soʊt	28	Semai	dry	3	dry/3	s o ʊ t
+3448	ASLIAN	834	Semai	hɔɪt	hɔɪt	28	Semai	dry	4	dry/4	h ɔ ɪ t
+3450	ASLIAN	802	Semelai	kreŋ	kreŋ	28	Semelai	dry	1	dry/1	k r e ŋ
+3451	ASLIAN	802	Semnam	kjeːŋ	kjeːŋ	28	Semnam	dry	1	dry/1	k j eː ŋ
+3454	ASLIAN	867	Temiar	kaɹʌh	kaɹʌh	28	Temiar	dry	7	dry/7	k a ɹ ʌ h
+#
+3613	ASLIAN	871	Kensiw	ʔənteŋ	ʔənteŋ	29	Kensiw	ear	1	ear/1	ʔ ə n t e ŋ
+3614	ASLIAN	871	MahMeri	tə̤k	tə̤k	29	Mah-Meri	ear	1	ear/1	t ə̤ k
+3619	ASLIAN	871	Temiar	gɛntɔk	gɛntɔk	29	Temiar	ear	1	ear/1	g ɛ n t ɔ k
+3610	ASLIAN	871	CheqWong	hntaŋ	hntaŋ	29	Cheq-Wong	ear	1	ear/1	h n t a ŋ
+3611	ASLIAN	871	JahHut	ntaŋ	ntaŋ	29	Jah-Hut	ear	1	ear/1	n t a ŋ
+3612	ASLIAN	871	Jahai	ʔnteŋ	ʔnteŋ	29	Jahai	ear	1	ear/1	ʔ n t e ŋ
+3615	ASLIAN	871	Maniq	ʔantɛŋ	ʔantɛŋ	29	Maniq	ear	1	ear/1	ʔ a n t ɛ ŋ
+3616	ASLIAN	871	Semai	ntaʔ	ntaʔ	29	Semai	ear	1	ear/1	n t a ʔ
+3617	ASLIAN	871	Semelai	təŋ	təŋ	29	Semelai	ear	1	ear/1	t ə ŋ
+3618	ASLIAN	871	Semnam	kntɔK	kntɔK	29	Semnam	ear	1	ear/1	k n t ɔ K
+#
+3732	ASLIAN	886	CheqWong	tɛʔ	tɛʔ	30	Cheq-Wong	earth (soil)	1	earth (soil)/1	t ɛ ʔ
+3733	ASLIAN	886	JahHut	teʔ	teʔ	30	Jah-Hut	earth (soil)	1	earth (soil)/1	t e ʔ
+3734	ASLIAN	886	Jahai	teʔ	teʔ	30	Jahai	earth (soil)	1	earth (soil)/1	t e ʔ
+3735	ASLIAN	886	Kensiw	tieʔ	tieʔ	30	Kensiw	earth (soil)	1	earth (soil)/1	t i e ʔ
+3736	ASLIAN	886	MahMeri	teʔ	teʔ	30	Mah-Meri	earth (soil)	1	earth (soil)/1	t e ʔ
+3737	ASLIAN	886	Maniq	tieʔ	tieʔ	30	Maniq	earth (soil)	1	earth (soil)/1	t i e ʔ
+3738	ASLIAN	886	Semai	teːʔ	teːʔ	30	Semai	earth (soil)	1	earth (soil)/1	t eː ʔ
+3739	ASLIAN	886	Semelai	ʔatɛ	ʔatɛ	30	Semelai	earth (soil)	1	earth (soil)/1	ʔ a t ɛ
+3740	ASLIAN	897	Semnam	brɛh	brɛh	30	Semnam	earth (soil)	2	earth (soil)/2	b r ɛ h
+3741	ASLIAN	886	Temiar	tɛʔ	tɛʔ	30	Temiar	earth (soil)	1	earth (soil)/1	t ɛ ʔ
+#
+3859	ASLIAN	912	CheqWong	ktuət	ktuət	31	Cheq-Wong	egg	1	egg/1	k t u ə t
+3865	ASLIAN	931	Maniq	makɔʔ	makɔʔ	31	Maniq	egg	3	egg/3	m a k ɔ ʔ
+3868	ASLIAN	933	Semnam	tap	tap	31	Semnam	egg	5	egg/5	t a p
+3860	ASLIAN	923	JahHut	pŋloŋ	pŋloŋ	31	Jah-Hut	egg	2	egg/2	p ŋ l o ŋ
+3861	ASLIAN	930	Jahai	ktɨt	ktɨt	31	Jahai	egg	26	egg/26	k t ɨ t
+3862	ASLIAN	931	Jahai	makɔʔ	makɔʔ	31	Jahai	egg	3	egg/3	m a k ɔ ʔ
+3863	ASLIAN	931	Kensiw	makɔʔ	makɔʔ	31	Kensiw	egg	3	egg/3	m a k ɔ ʔ
+3864	ASLIAN	932	MahMeri	kəpɔh	kəpɔh	31	Mah-Meri	egg	4	egg/4	k ə p ɔ h
+3866	ASLIAN	923	Semai	pŋləːkŋ	pŋləːkŋ	31	Semai	egg	2	egg/2	p ŋ l əː k ŋ
+3867	ASLIAN	923	Semai	pʌŋløʔ	pʌŋløʔ	31	Semai	egg	2	egg/2	p ʌ ŋ l ø ʔ
+3869	ASLIAN	933	Temiar	tab	tab	31	Temiar	egg	5	egg/5	t a b
+#
+4629	ASLIAN	954	CheqWong	ʔoc	ʔoc	37	Cheq-Wong	excrement/shit	1	excrement/shit/1	ʔ o c
+4630	ASLIAN	954	JahHut	ʔɛc	ʔɛc	37	Jah-Hut	excrement/shit	1	excrement/shit/1	ʔ ɛ c
+4631	ASLIAN	954	Jahai	ʔɛc	ʔɛc	37	Jahai	excrement/shit	1	excrement/shit/1	ʔ ɛ c
+4632	ASLIAN	954	Kensiw	ʔe̝c	ʔe̝c	37	Kensiw	excrement/shit	1	excrement/shit/1	ʔ e̝ c
+4635	ASLIAN	954	Semai	ʔeɪʔ	ʔeɪʔ	37	Semai	excrement/shit	1	excrement/shit/1	ʔ e ɪ ʔ
+4636	ASLIAN	954	Semelai	ʔəc	ʔəc	37	Semelai	excrement/shit	1	excrement/shit/1	ʔ ə c
+4637	ASLIAN	954	Semnam	ʔec	ʔec	37	Semnam	excrement/shit	1	excrement/shit/1	ʔ e c
+4638	ASLIAN	954	Temiar	ʔʌiɟ	ʔʌiɟ	37	Temiar	excrement/shit	1	excrement/shit/1	ʔ ʌ i ɟ
+#
+4106	ASLIAN	969	CheqWong	mɛ̃t	mɛ̃t	33	Cheq-Wong	eye	1	eye/1	m ɛ̃ t
+4107	ASLIAN	969	JahHut	mat	mat	33	Jah-Hut	eye	1	eye/1	m a t
+4108	ASLIAN	969	Jahai	mit	mit	33	Jahai	eye	1	eye/1	m i t
+4109	ASLIAN	969	Kensiw	met	met	33	Kensiw	eye	1	eye/1	m e t
+4110	ASLIAN	969	MahMeri	mɛt	mɛt	33	Mah-Meri	eye	1	eye/1	m ɛ t
+4111	ASLIAN	969	Maniq	mɛt	mɛt	33	Maniq	eye	1	eye/1	m ɛ t
+4112	ASLIAN	969	Semai	mat	mat	33	Semai	eye	1	eye/1	m a t
+4113	ASLIAN	969	Semelai	mɔt	mɔt	33	Semelai	eye	1	eye/1	m ɔ t
+4114	ASLIAN	969	Semnam	mat	mat	33	Semnam	eye	1	eye/1	m a t
+4115	ASLIAN	969	Temiar	mad	mad	33	Temiar	eye	1	eye/1	m a d
+#
+4228	ASLIAN	972	CheqWong	con	con	34	Cheq-Wong	far/distant	1	far/distant/1	c o n
+4230	ASLIAN	983	Jahai	bɲɟɨʔ	bɲɟɨʔ	34	Jahai	far/distant	2	far/distant/2	b ɲ ɟ ɨ ʔ
+4231	ASLIAN	983	Kensiw	mʌnciʔ	mʌnciʔ	34	Kensiw	far/distant	2	far/distant/2	m ʌ n c i ʔ
+4232	ASLIAN	994	MahMeri	ləp	ləp	34	Mah-Meri	far/distant	3	far/distant/3	l ə p
+4237	ASLIAN	998	Temiar	ɟeɹɔʔ	ɟeɹɔʔ	34	Temiar	far/distant	6	far/distant/6	ɟ e ɹ ɔ ʔ
+4233	ASLIAN	996	Maniq	ʔamɛt	ʔamɛt	34	Maniq	far/distant	4	far/distant/4	ʔ a m ɛ t
+4229	ASLIAN	983	JahHut	lajuʔ	lajuʔ	34	Jah-Hut	far/distant	2	far/distant/2	l a j u ʔ
+4234	ASLIAN	997	Semai	ɲa	ɲa	34	Semai	far/distant	5	far/distant/5	ɲ a
+4235	ASLIAN	994	Semelai	ʔləp	ʔləp	34	Semelai	far/distant	3	far/distant/3	ʔ l ə p
+#
+4363	ASLIAN	1024	MahMeri	bəcuʔ	bəcuʔ	35	Mah-Meri	fat/oil/grease	3	fat/oil/grease/3	b ə c u ʔ
+4364	ASLIAN	1035	Maniq	ləpaj	ləpaj	35	Maniq	fat/oil/grease	4	fat/oil/grease/4	l ə p a j
+4365	ASLIAN	1002	Semai	lʔuːs	lʔuːs	35	Semai	fat/oil/grease	1	fat/oil/grease/1	l ʔ uː s
+4366	ASLIAN	1024	Semelai	bəcuʔ	bəcuʔ	35	Semelai	fat/oil/grease	3	fat/oil/grease/3	b ə c u ʔ
+4367	ASLIAN	1002	Semnam	lʔɔːs	lʔɔːs	35	Semnam	fat/oil/grease	1	fat/oil/grease/1	l ʔ ɔː s
+4368	ASLIAN	1002	Temiar	lɛnʔɔs	lɛnʔɔs	35	Temiar	fat/oil/grease	1	fat/oil/grease/1	l ɛ n ʔ ɔ s
+4358	ASLIAN	1002	CheqWong	lʔos	lʔos	35	Cheq-Wong	fat/oil/grease	1	fat/oil/grease/1	l ʔ o s
+4361	ASLIAN	1002	Jahai	ləʔɔs	ləʔɔs	35	Jahai	fat/oil/grease	1	fat/oil/grease/1	l ə ʔ ɔ s
+4362	ASLIAN	1013	Kensiw	tɔc	tɔc	35	Kensiw	fat/oil/grease	2	fat/oil/grease/2	t ɔ c
+#
+4503	ASLIAN	1043	CheqWong	hntɨŋ	hntɨŋ	36	Cheq-Wong	fear/afraid	1	fear/afraid/1	h n t ɨ ŋ
+4504	ASLIAN	1054	JahHut	bhɛc	bhɛc	36	Jah-Hut	fear/afraid	2	fear/afraid/2	bh ɛ c
+4505	ASLIAN	1065	Jahai	hgik / həgig	hgik	36	Jahai	fear/afraid	3	fear/afraid/3	h g i k
+4506	ASLIAN	1043	Kensiw	ʔantɯgŋ / ʔəntəŋ	ʔantɯgŋ	36	Kensiw	fear/afraid	1	fear/afraid/1	ʔ a n t ɯ g ŋ
+4507	ASLIAN	1074	MahMeri	gəliʔ	gəliʔ	36	Mah-Meri	fear/afraid	4	fear/afraid/4	g ə l i ʔ
+4508	ASLIAN	1043	Maniq	ʔantɨŋ	ʔantɨŋ	36	Maniq	fear/afraid	1	fear/afraid/1	ʔ a n t ɨ ŋ
+4509	ASLIAN	1074	Semai	gɹi	gɹi	36	Semai	fear/afraid	4	fear/afraid/4	g ɹ i
+4510	ASLIAN	1043	Semelai	bətʰɔŋ	bətʰɔŋ	36	Semelai	fear/afraid	1	fear/afraid/1	b ə tʰ ɔ ŋ
+4511	ASLIAN	1043	Semnam	tuːŋ	tuːŋ	36	Semnam	fear/afraid	1	fear/afraid/1	t uː ŋ
+4512	ASLIAN	1043	Temiar	tuʔ / tuːk	tuʔ	36	Temiar	fear/afraid	1	fear/afraid/1	t u ʔ
+#
+4882	ASLIAN	1107	Jahai	slaj	slaj	39	Jahai	field (swidden/hill)	1	field (swidden/hill)/1	s l a j
+4889	ASLIAN	1107	Temiar	sʌlai / səlaːj	sʌlai	39	Temiar	field (swidden/hill)	1	field (swidden/hill)/1	s ʌ l a i
+4886	ASLIAN	1107	Semai	sʌlai	sʌlai	39	Semai	field (swidden/hill)	1	field (swidden/hill)/1	s ʌ l a i
+4887	ASLIAN	1118	Semelai	dʔoh	dʔoh	39	Semelai	field (swidden/hill)	2	field (swidden/hill)/2	d ʔ o h
+4888	ASLIAN	1129	Semnam	huˈmaːʔ	huˈmaːʔ	39	Semnam	field (swidden/hill)	3	field (swidden/hill)/3	h u ˈm aː ʔ
+#
+5017	ASLIAN	1147	Semai	ɟaɹas	ɟaɹas	40	Semai	finger	1	finger/1	ɟ a ɹ a s
+#
+5139	ASLIAN	1194	CheqWong	ʔɔs	ʔɔs	41	Cheq-Wong	fire	1	fire/1	ʔ ɔ s
+5140	ASLIAN	1194	JahHut	ʔɔs	ʔɔs	41	Jah-Hut	fire	1	fire/1	ʔ ɔ s
+5141	ASLIAN	1194	Jahai	ʔɔs	ʔɔs	41	Jahai	fire	1	fire/1	ʔ ɔ s
+5142	ASLIAN	1194	Kensiw	met ʔɔs	met#ʔɔs	41	Kensiw	fire	1	fire/1	m e t # ʔ ɔ s
+5143	ASLIAN	1194	MahMeri	ʔus	ʔus	41	Mah-Meri	fire	1	fire/1	ʔ u s
+5144	ASLIAN	1194	Maniq	ʔɔs	ʔɔs	41	Maniq	fire	1	fire/1	ʔ ɔ s
+5145	ASLIAN	1194	Semai	ʔɔːs	ʔɔːs	41	Semai	fire	1	fire/1	ʔ ɔː s
+5146	ASLIAN	1194	Semelai	ʔus	ʔus	41	Semelai	fire	1	fire/1	ʔ u s
+5147	ASLIAN	1194	Semnam	ʔoːs	ʔoːs	41	Semnam	fire	1	fire/1	ʔ oː s
+5148	ASLIAN	1194	Temiar	ʔoːs	ʔoːs	41	Temiar	fire	1	fire/1	ʔ oː s
+#
+5262	ASLIAN	1214	CheqWong	kiəʔ	kiəʔ	42	Cheq-Wong	fish	1	fish/1	k i ə ʔ
+5263	ASLIAN	1214	JahHut	kaʔ	kaʔ	42	Jah-Hut	fish	1	fish/1	k a ʔ
+5264	ASLIAN	1214	Jahai	ʔikəʔ	ʔikəʔ	42	Jahai	fish	1	fish/1	ʔ i k ə ʔ
+5267	ASLIAN	1214	MahMeri	ka	ka	42	Mah-Meri	fish	1	fish/1	k a
+5269	ASLIAN	1214	Semai	ka	ka	42	Semai	fish	1	fish/1	k a
+5270	ASLIAN	1222	Semelai	crɛh	crɛh	42	Semelai	fish	2	fish/2	c r ɛ h
+5271	ASLIAN	1214	Semnam	kaːʔ	kaːʔ	42	Semnam	fish	1	fish/1	k aː ʔ
+5272	ASLIAN	1214	Temiar	kaːʔ	kaːʔ	42	Temiar	fish	1	fish/1	k aː ʔ
+#
+5394	ASLIAN	1230	Semelai	msɔŋ	msɔŋ	43	Semelai	five	1	five/1	ms ɔ ŋ
+#
+5510	ASLIAN	1236	CheqWong	sac	sac	44	Cheq-Wong	flesh/meat	1	flesh/meat/1	s a c
+5511	ASLIAN	1236	JahHut	sɛc	sɛc	44	Jah-Hut	flesh/meat	1	flesh/meat/1	s ɛ c
+5512	ASLIAN	1236	Jahai	sɛc	sɛc	44	Jahai	flesh/meat	1	flesh/meat/1	s ɛ c
+5513	ASLIAN	1236	Kensiw	sec	sec	44	Kensiw	flesh/meat	1	flesh/meat/1	s e c
+5514	ASLIAN	1247	MahMeri	dage̤k	dage̤k	44	Mah-Meri	flesh/meat	2	flesh/meat/2	d a g e̤ k
+5515	ASLIAN	1236	Maniq	sec	sec	44	Maniq	flesh/meat	1	flesh/meat/1	s e c
+5516	ASLIAN	1236	Semai	sɛc	sɛc	44	Semai	flesh/meat	1	flesh/meat/1	s ɛ c
+5517	ASLIAN	1236	Semelai	səc	səc	44	Semelai	flesh/meat	1	flesh/meat/1	s ə c
+5518	ASLIAN	1236	Semnam	sec	sec	44	Semnam	flesh/meat	1	flesh/meat/1	s e c
+5519	ASLIAN	1236	Temiar	seɟ	seɟ	44	Temiar	flesh/meat	1	flesh/meat/1	s e ɟ
+#
+5645	ASLIAN	1280	JahHut	bkaw	bkaw	45	Jah-Hut	flower	1	flower/1	b k a w
+5649	ASLIAN	1291	Maniq	hapɔŋ	hapɔŋ	45	Maniq	flower	2	flower/2	h a p ɔ ŋ
+5644	ASLIAN	1280	CheqWong	bkɑw	bkɑw	45	Cheq-Wong	flower	1	flower/1	b k ɑ w
+5646	ASLIAN	1280	Jahai	bukaw	bukaw	45	Jahai	flower	1	flower/1	b u k a w
+5650	ASLIAN	1301	Semai	pøh	pøh	45	Semai	flower	3	flower/3	p ø h
+5651	ASLIAN	1280	Semelai	bkaw	bkaw	45	Semelai	flower	1	flower/1	b k a w
+5653	ASLIAN	1301	Temiar	penapɔh	penapɔh	45	Temiar	flower	3	flower/3	p e n a p ɔ h
+#
+5769	ASLIAN	1307	CheqWong	cɑn	cɑn	46	Cheq-Wong	foot	1	foot/1	c ɑ n
+5770	ASLIAN	1311	JahHut	jɔŋ	jɔŋ	46	Jah-Hut	foot	2	foot/2	j ɔ ŋ
+5772	ASLIAN	1307	Kensiw	can	can	46	Kensiw	foot	1	foot/1	c a n
+5773	ASLIAN	1311	MahMeri	jɔ̤k	jɔ̤k	46	Mah-Meri	foot	2	foot/2	j ɔ̤ k
+5774	ASLIAN	1307	Maniq	can	can	46	Maniq	foot	1	foot/1	c a n
+5775	ASLIAN	1311	Semai	ɟʊʔ	ɟʊʔ	46	Semai	foot	2	foot/2	ɟ ʊ ʔ
+5776	ASLIAN	1311	Semelai	ɟɔŋ	ɟɔŋ	46	Semelai	foot	2	foot/2	ɟ ɔ ŋ
+5778	ASLIAN	1311	Temiar	ɟʊʔ	ɟʊʔ	46	Temiar	foot	2	foot/2	ɟ ʊ ʔ
+5771	ASLIAN	1307	Jahai	can	can	46	Jahai	foot	1	foot/1	c a n
+5777	ASLIAN	1311	Semnam	ɟuŋ	ɟuŋ	46	Semnam	foot	2	foot/2	ɟ u ŋ
+#
+5901	ASLIAN	1319	Semelai	pənpon	pənpon	47	Semelai	four	1	four/1	p ə n p o n
+#
+6020	ASLIAN	1359	Jahai	kmɛt	kmɛt	48	Jahai	frog	43	frog/43	k m ɛ t
+6021	ASLIAN	1360	Jahai	skŋuk	skŋuk	48	Jahai	frog	44	frog/44	s k ŋ u k
+6022	ASLIAN	1329	Jahai	caŋkɛ̃j	caŋkɛ̃j	48	Jahai	frog	15	frog/15	c a ŋ k ɛ̃ j
+6023	ASLIAN	1323	Kensiw	baliw	baliw	48	Kensiw	frog	1	frog/1	b a l i w
+6027	ASLIAN	1345	Semelai	puruʔ	puruʔ	48	Semelai	frog	3	frog/3	p u r u ʔ
+6028	ASLIAN	1355	Semnam	koːm	koːm	48	Semnam	frog	4	frog/4	k oː m
+6029	ASLIAN	1361	Temiar	senug	senug	48	Temiar	frog	5	frog/5	s e n u g
+6026	ASLIAN	1334	Semai	tabɛʔ	tabɛʔ	48	Semai	frog	2	frog/2	t a b ɛ ʔ
+#
+6164	ASLIAN	1373	Temiar	bʌɹʌʔ	bʌɹʌʔ	49	Temiar	fruit	4	fruit/4	b ʌ ɹ ʌ ʔ
+6155	ASLIAN	1366	CheqWong	ploʔ	ploʔ	49	Cheq-Wong	fruit	1	fruit/1	p l o ʔ
+6156	ASLIAN	1366	JahHut	pləʔ	pləʔ	49	Jah-Hut	fruit	1	fruit/1	p l ə ʔ
+6157	ASLIAN	1371	Jahai	kbɨʔ	kbɨʔ	49	Jahai	fruit	2	fruit/2	k b ɨ ʔ
+6158	ASLIAN	1371	Kensiw	kəbɚʔ	kəbɚʔ	49	Kensiw	fruit	2	fruit/2	k ə b ɚ ʔ
+6159	ASLIAN	1366	MahMeri	ple	ple	49	Mah-Meri	fruit	1	fruit/1	p l e
+6160	ASLIAN	1371	Maniq	kabɨʔ	kabɨʔ	49	Maniq	fruit	2	fruit/2	k a b ɨ ʔ
+6161	ASLIAN	1366	Semai	pɛlɛ	pɛlɛ	49	Semai	fruit	1	fruit/1	p ɛ l ɛ
+6162	ASLIAN	1366	Semelai	ple	ple	49	Semelai	fruit	1	fruit/1	p l e
+6163	ASLIAN	1372	Semnam	kmɔːʔ	kmɔːʔ	49	Semnam	fruit	3	fruit/3	k m ɔː ʔ
+#
+6288	ASLIAN	1379	Temiar	təbik	təbik	50	Temiar	full	1	full/1	t ə b i k
+6279	ASLIAN	1379	CheqWong	bək	bək	50	Cheq-Wong	full	1	full/1	b ə k
+6280	ASLIAN	1390	JahHut	pnoh	pnoh	50	Jah-Hut	full	2	full/2	p n o h
+6281	ASLIAN	1398	Jahai	səbem	səbem	50	Jahai	full	3	full/3	s ə b e m
+6282	ASLIAN	1399	Kensiw	hapudn	hapudn	50	Kensiw	full	4	full/4	h a p u d n
+6283	ASLIAN	1379	MahMeri	m̥bə̤c	m̥bə̤c	50	Mah-Meri	full	1	full/1	m̥ b ə̤ c
+6284	ASLIAN	1399	Maniq	habuɲ	habuɲ	50	Maniq	full	4	full/4	h a b u ɲ
+6285	ASLIAN	1379	Semai	təbeːk	təbeːk	50	Semai	full	1	full/1	t ə b eː k
+6286	ASLIAN	1379	Semelai	səbəɲ	səbəɲ	50	Semelai	full	1	full/1	s ə b ə ɲ
+6287	ASLIAN	1379	Semnam	tbiŋ	tbiŋ	50	Semnam	full	1	full/1	t b i ŋ
+#
+6405	ASLIAN	1405	Jahai	kaɲcɔʔ	kaɲcɔʔ	51	Jahai	grandchild	1	grandchild/1	k a ɲ c ɔ ʔ
+6406	ASLIAN	1405	Kensiw	ɟuɟɔʔ	ɟuɟɔʔ	51	Kensiw	grandchild	1	grandchild/1	ɟ u ɟ ɔ ʔ
+6407	ASLIAN	1405	MahMeri	cuʔ	cuʔ	51	Mah-Meri	grandchild	1	grandchild/1	c u ʔ
+6409	ASLIAN	1405	Semai	cʌno	cʌno	51	Semai	grandchild	1	grandchild/1	c ʌ n o
+6410	ASLIAN	1405	Semelai	cuʔ	cuʔ	51	Semelai	grandchild	1	grandchild/1	c u ʔ
+6411	ASLIAN	1405	Semnam	kaɲcɔːʔ	kaɲcɔːʔ	51	Semnam	grandchild	1	grandchild/1	k a ɲ c ɔː ʔ
+6412	ASLIAN	1405	Temiar	cacoʔ	cacoʔ	51	Temiar	grandchild	1	grandchild/1	c a c o ʔ
+#
+6533	ASLIAN	1429	Semelai	lalaŋ	lalaŋ	52	Semelai	grass	2	grass/2	l a l a ŋ
+6532	ASLIAN	1418	Semai	ɲoʊ	ɲoʊ	52	Semai	grass	1	grass/1	ɲ o ʊ
+6535	ASLIAN	1440	Temiar	ɹambaŋ	ɹambaŋ	52	Temiar	grass	3	grass/3	ɹ a m b a ŋ
+#
+6655	ASLIAN	1468	Jahai	hiɟɔw	hiɟɔw	53	Jahai	green	1	green/1	h i ɟ ɔ w
+6656	ASLIAN	1479	Kensiw	baʎʔuɟɲ	baʎʔuɟɲ	53	Kensiw	green	2	green/2	b a ʎ ʔ u ɟ ɲ
+6659	ASLIAN	1490	Semai	bʌlaʔaɹ / bʌlaʔøɹ	bʌlaʔaɹ	53	Semai	green	3	green/3	b ʌ l a ʔ a ɹ
+6660	ASLIAN	1468	Semelai	hiɟaw	hiɟaw	53	Semelai	green	1	green/1	h i ɟ a w
+6661	ASLIAN	1500	Semnam	blhəːj	blhəːj	53	Semnam	green	4	green/4	b lh əː j
+6662	ASLIAN	1509	Temiar	bʌlaʌg	bʌlaʌg	53	Temiar	green	5	green/5	b ʌ l a ʌ g
+#
+6783	ASLIAN	1520	CheqWong	sɔk	sɔk	54	Cheq-Wong	hair (head)	1	hair (head)/1	s ɔ k
+6784	ASLIAN	1520	JahHut	sɔk	sɔk	54	Jah-Hut	hair (head)	1	hair (head)/1	s ɔ k
+6785	ASLIAN	1520	Jahai	sɔk	sɔk	54	Jahai	hair (head)	1	hair (head)/1	s ɔ k
+6786	ASLIAN	1520	Kensiw	sok	sok	54	Kensiw	hair (head)	1	hair (head)/1	s o k
+6788	ASLIAN	1520	Maniq	sɔk	sɔk	54	Maniq	hair (head)	1	hair (head)/1	s ɔ k
+6789	ASLIAN	1520	Semai	soʊʔ	soʊʔ	54	Semai	hair (head)	1	hair (head)/1	s o ʊ ʔ
+6790	ASLIAN	1520	Semelai	suk	suk	54	Semelai	hair (head)	1	hair (head)/1	s u k
+6791	ASLIAN	1525	Semnam	sntɔːl	sntɔːl	54	Semnam	hair (head)	2	hair (head)/2	s n t ɔː l
+6792	ASLIAN	1520	Temiar	sɔg	sɔg	54	Temiar	hair (head)	1	hair (head)/1	s ɔ g
+6787	ASLIAN	1520	MahMeri	sup / suk	sup	54	Mah-Meri	hair (head)	1	hair (head)/1	s u p
+#
+6909	ASLIAN	1533	Kensiw	cas	cas	55	Kensiw	hand	1	hand/1	c a s
+6913	ASLIAN	1535	Semelai	tʰi	tʰi	55	Semelai	hand	3	hand/3	tʰ i
+6911	ASLIAN	1533	Maniq	cas	cas	55	Maniq	hand	1	hand/1	c a s
+6912	ASLIAN	1535	Semai	tʌʔ	tʌʔ	55	Semai	hand	3	hand/3	t ʌ ʔ
+6905	ASLIAN	1533	CheqWong	cɑs	cɑs	55	Cheq-Wong	hand	1	hand/1	c ɑ s
+6906	ASLIAN	1534	JahHut	tiŋ	tiŋ	55	Jah-Hut	hand	2	hand/2	t i ŋ
+6907	ASLIAN	1533	Jahai	cjas	cjas	55	Jahai	hand	1	hand/1	c j a s
+6908	ASLIAN	1533	Jahai	ciʔas	ciʔas	55	Jahai	hand	1	hand/1	c i ʔ a s
+6910	ASLIAN	1535	MahMeri	tʰi/ti	tʰi	55	Mah-Meri	hand	3	hand/3	tʰ i
+6914	ASLIAN	1534	Semnam	ti:ŋ	ti:ŋ	55	Semnam	hand	2	hand/2	t i: ŋ
+6915	ASLIAN	1535	Temiar	tiʔ	tiʔ	55	Temiar	hand	3	hand/3	t i ʔ
+#
+7030	ASLIAN	1539	Jahai	kuj	kuj	56	Jahai	head	1	head/1	k u j
+7031	ASLIAN	1539	Kensiw	kuj	kuj	56	Kensiw	head	1	head/1	k u j
+7032	ASLIAN	1539	MahMeri	koj	koj	56	Mah-Meri	head	1	head/1	k o j
+7033	ASLIAN	1539	Maniq	kuj	kuj	56	Maniq	head	1	head/1	k u j
+7028	ASLIAN	1539	CheqWong	kuj	kuj	56	Cheq-Wong	head	1	head/1	k u j
+7029	ASLIAN	1539	JahHut	kɔj	kɔj	56	Jah-Hut	head	1	head/1	k ɔ j
+7034	ASLIAN	1539	Semai	koːj	koːj	56	Semai	head	1	head/1	k oː j
+7035	ASLIAN	1539	Semelai	kʰoj	kʰoj	56	Semelai	head	1	head/1	kʰ o j
+7036	ASLIAN	1539	Semnam	kuj	kuj	56	Semnam	head	1	head/1	k u j
+7037	ASLIAN	1539	Temiar	kuj	kuj	56	Temiar	head	1	head/1	k u j
+#
+7160	ASLIAN	1596	MahMeri	ɟanto̤k	ɟanto̤k	57	Mah-Meri	heart	41	heart/41	ɟ a n t o̤ k
+7164	ASLIAN	1594	Semnam	hum	hum	57	Semnam	heart	4	heart/4	h u m
+7158	ASLIAN	1562	Jahai	klaŋis	klaŋis	57	Jahai	heart	1	heart/1	k l a ŋ i s
+7159	ASLIAN	1562	Kensiw	kalaŋɛs	kalaŋɛs	57	Kensiw	heart	1	heart/1	k a l a ŋ ɛ s
+7161	ASLIAN	1562	Maniq	kaŋɛs	kaŋɛs	57	Maniq	heart	1	heart/1	k a ŋ ɛ s
+7162	ASLIAN	1573	Semai	nɔs	nɔs	57	Semai	heart	2	heart/2	n ɔ s
+7163	ASLIAN	1584	Semelai	ɟantuŋ	ɟantuŋ	57	Semelai	heart	3	heart/3	ɟ a n t u ŋ
+7165	ASLIAN	1594	Temiar	hup	hup	57	Temiar	heart	4	heart/4	h u p
+#
+7290	ASLIAN	1624	MahMeri	ɲ̊jəh	ɲ̊jəh	58	Mah-Meri	heavy	3	heavy/3	ɲ̊ j ə h
+7291	ASLIAN	1602	Maniq	haɲut	haɲut	58	Maniq	heavy	1	heavy/1	h a ɲ u t
+7292	ASLIAN	1624	Semai	ɲøh	ɲøh	58	Semai	heavy	3	heavy/3	ɲ ø h
+7294	ASLIAN	1624	Semnam	ʔɲeh	ʔɲeh	58	Semnam	heavy	3	heavy/3	ʔ ɲ e h
+7286	ASLIAN	1602	CheqWong	hɲut	hɲut	58	Cheq-Wong	heavy	1	heavy/1	h ɲ u t
+7287	ASLIAN	1613	JahHut	hlɨk	hlɨk	58	Jah-Hut	heavy	2	heavy/2	h l ɨ k
+7288	ASLIAN	1602	Jahai	hɲɟut	hɲɟut	58	Jahai	heavy	1	heavy/1	h ɲ ɟ u t
+7289	ASLIAN	1602	Kensiw	hanjut	hanjut	58	Kensiw	heavy	1	heavy/1	h a n j u t
+7293	ASLIAN	1624	Semelai	kɟəh	kɟəh	58	Semelai	heavy	3	heavy/3	k ɟ ə h
+7295	ASLIAN	1624	Temiar	ʔʌnjuh	ʔʌnjuh	58	Temiar	heavy	3	heavy/3	ʔ ʌ n j u h
+#
+7418	ASLIAN	1634	Maniq	balɔŋ	balɔŋ	59	Maniq	horn	1	horn/1	b a l ɔ ŋ
+7422	ASLIAN	1634	Temiar	balɔk	balɔk	59	Temiar	horn	1	horn/1	b a l ɔ k
+#
+7539	ASLIAN	1651	Jahai	bkɨt	bkɨt	60	Jahai	hot/warm	1	hot/warm/1	b k ɨ t
+7543	ASLIAN	1651	Semai	bʌkɛt	bʌkɛt	60	Semai	hot/warm	1	hot/warm/1	b ʌ k ɛ t
+7544	ASLIAN	1673	Semelai	pret	pret	60	Semelai	hot/warm	3	hot/warm/3	p r e t
+7546	ASLIAN	1683	Temiar	bɨd	bɨd	60	Temiar	hot/warm	4	hot/warm/4	b ɨ d
+7538	ASLIAN	1683	JahHut	bɨt	bɨt	60	Jah-Hut	hot/warm	4	hot/warm/4	b ɨ t
+7541	ASLIAN	1662	MahMeri	haŋat	haŋat	60	Mah-Meri	hot/warm	2	hot/warm/2	h a ŋ a t
+7545	ASLIAN	1683	Semnam	bɨt	bɨt	60	Semnam	hot/warm	4	hot/warm/4	b ɨ t
+#
+7693	ASLIAN	1708	JahHut	sjɛ̃ʔ	sjɛ̃ʔ	61	Jah-Hut	house	1	house/1	s j ɛ̃ ʔ
+7694	ASLIAN	1708	Jahai	hajɛ̃ʔ	hajɛ̃ʔ	61	Jahai	house	1	house/1	h a j ɛ̃ ʔ
+7695	ASLIAN	1718	Kensiw	dəŋ	dəŋ	61	Kensiw	house	2	house/2	d ə ŋ
+7696	ASLIAN	1718	MahMeri	dṳk	dṳk	61	Mah-Meri	house	2	house/2	d ṳ k
+7698	ASLIAN	1718	Semai	dʌŋ	dʌŋ	61	Semai	house	2	house/2	d ʌ ŋ
+7699	ASLIAN	1718	Semai	døʔ	døʔ	61	Semai	house	2	house/2	d ø ʔ
+7700	ASLIAN	1718	Semelai	dɔl	dɔl	61	Semelai	house	2	house/2	d ɔ l
+7701	ASLIAN	1718	Semnam	deːŋ	deːŋ	61	Semnam	house	2	house/2	d eː ŋ
+7702	ASLIAN	1718	Temiar	dʌiʔ	dʌiʔ	61	Temiar	house	2	house/2	d ʌ i ʔ
+#
+8073	ASLIAN	1744	CheqWong	ʔac	ʔac	64	Cheq-Wong	intestine/gut	1	intestine/gut/1	ʔ a c
+8074	ASLIAN	1755	JahHut	ləpɛc	ləpɛc	64	Jah-Hut	intestine/gut	2	intestine/gut/2	l ə p ɛ c
+8075	ASLIAN	1760	Jahai	lmaʔ	lmaʔ	64	Jahai	intestine/gut	24	intestine/gut/24	l m a ʔ
+8076	ASLIAN	1744	Jahai	ʔec cəŋ	ʔec#cəŋ	64	Jahai	intestine/gut	1	intestine/gut/1	ʔ e c # c ə ŋ
+8077	ASLIAN	1744	Kensiw	ʔec ɲiat	ʔec#ɲiat	64	Kensiw	intestine/gut	1	intestine/gut/1	ʔ e c # ɲ i a t
+8078	ASLIAN	1744	MahMeri	ʔoʔoc	ʔoʔoc	64	Mah-Meri	intestine/gut	1	intestine/gut/1	ʔ o ʔ o c
+8079	ASLIAN	1761	Maniq	cɨŋ	cɨŋ	64	Maniq	intestine/gut	3	intestine/gut/3	c ɨ ŋ
+8080	ASLIAN	1762	Semai	ʔeɪt wẽt	ʔeɪt#wẽt	64	Semai	intestine/gut	4	intestine/gut/4	ʔ e ɪ t # w ẽ t
+8081	ASLIAN	1762	Semelai	wɛc	wɛc	64	Semelai	intestine/gut	4	intestine/gut/4	w ɛ c
+8082	ASLIAN	1762	Semnam	ʔec wɛ̃ːc	ʔec#wɛ̃ːc	64	Semnam	intestine/gut	4	intestine/gut/4	ʔ e c # w ɛ̃ː c
+8083	ASLIAN	1744	Temiar	ʔʌiɟ dʌl	ʔʌiɟ#dʌl	64	Temiar	intestine/gut	1	intestine/gut/1	ʔ ʌ i ɟ # d ʌ l
+#
+8320	ASLIAN	1794	CheqWong	haliʔ	haliʔ	66	Cheq-Wong	leaf	1	leaf/1	h a l i ʔ
+8321	ASLIAN	1794	JahHut	hlaʔ	hlaʔ	66	Jah-Hut	leaf	1	leaf/1	h l a ʔ
+8322	ASLIAN	1794	Jahai	haliʔ	haliʔ	66	Jahai	leaf	1	leaf/1	h a l i ʔ
+8323	ASLIAN	1794	Kensiw	haliʔ	haliʔ	66	Kensiw	leaf	1	leaf/1	h a l i ʔ
+8325	ASLIAN	1794	Maniq	haliʔ	haliʔ	66	Maniq	leaf	1	leaf/1	h a l i ʔ
+8329	ASLIAN	1794	Temiar	sʌla	sʌla	66	Temiar	leaf	1	leaf/1	s ʌ l a
+8326	ASLIAN	1794	Semai	sʌla	sʌla	66	Semai	leaf	1	leaf/1	s ʌ l a
+8328	ASLIAN	1794	Semnam	slaːʔ	slaːʔ	66	Semnam	leaf	1	leaf/1	s l aː ʔ
+#
+8450	ASLIAN	1821	Jahai	lajaʔ	lajaʔ	67	Jahai	leech (land)	20	leech (land)/20	l a j a ʔ
+8451	ASLIAN	1822	Jahai	lawɛ̃j	lawɛ̃j	67	Jahai	leech (land)	21	leech (land)/21	l a w ɛ̃ j
+8452	ASLIAN	1823	Kensiw	ʔis	ʔis	67	Kensiw	leech (land)	3	leech (land)/3	ʔ i s
+8458	ASLIAN	1810	Temiar	pʌlop	pʌlop	67	Temiar	leech (land)	1	leech (land)/1	p ʌ l o p
+8449	ASLIAN	1810	JahHut	pələm	pələm	67	Jah-Hut	leech (land)	1	leech (land)/1	p ə l ə m
+8453	ASLIAN	1810	MahMeri	klə̤p	klə̤p	67	Mah-Meri	leech (land)	1	leech (land)/1	k l ə̤ p
+8457	ASLIAN	1810	Semnam	plɔm	plɔm	67	Semnam	leech (land)	1	leech (land)/1	p l ɔ m
+#
+8573	ASLIAN	1830	CheqWong	jal	jal	68	Cheq-Wong	left (side)	1	left (side)/1	j a l
+8574	ASLIAN	1841	JahHut	kiriʔ	kiriʔ	68	Jah-Hut	left (side)	2	left (side)/2	k i r i ʔ
+8576	ASLIAN	1848	Kensiw	ɲɛ̃ʔ	ɲɛ̃ʔ	68	Kensiw	left (side)	4	left (side)/4	ɲ ɛ̃ ʔ
+8577	ASLIAN	1841	MahMeri	kiriʔ	kiriʔ	68	Mah-Meri	left (side)	2	left (side)/2	k i r i ʔ
+8578	ASLIAN	1848	Maniq	ɲɛʔ	ɲɛʔ	68	Maniq	left (side)	4	left (side)/4	ɲ ɛ ʔ
+8579	ASLIAN	1849	Semai	kʌŋwɪl	kʌŋwɪl	68	Semai	left (side)	5	left (side)/5	k ʌ ŋ w ɪ l
+8580	ASLIAN	1849	Semelai	sawɛl	sawɛl	68	Semelai	left (side)	5	left (side)/5	s a w ɛ l
+8582	ASLIAN	1830	Temiar	jel	jel	68	Temiar	left (side)	1	left (side)/1	j e l
+8583	ASLIAN	1850	Temiar	maɹʌh	maɹʌh	68	Temiar	left (side)	6	left (side)/6	m a ɹ ʌ h
+8581	ASLIAN	1849	Semnam	wɛːl	wɛːl	68	Semnam	left (side)	5	left (side)/5	w ɛː l
+8575	ASLIAN	1847	Jahai	wĩʔ	wĩʔ	68	Jahai	left (side)	3	left (side)/3	w ĩ ʔ
+#
+8699	ASLIAN	1854	Jahai	hatɔ̃p	hatɔ̃p	69	Jahai	light (weight)	1	light (weight)/1	h a t ɔ̃ p
+8700	ASLIAN	1865	Kensiw	pasɛw	pasɛw	69	Kensiw	light (weight)	2	light (weight)/2	p a s ɛ w
+8703	ASLIAN	1876	Semai	hajɔʔ	hajɔʔ	69	Semai	light (weight)	3	light (weight)/3	h a j ɔ ʔ
+8704	ASLIAN	1878	Semelai	hampɔŋ	hampɔŋ	69	Semelai	light (weight)	4	light (weight)/4	h a m p ɔ ŋ
+8705	ASLIAN	1876	Semnam	hajɔ̃ːʔ	hajɔ̃ːʔ	69	Semnam	light (weight)	3	light (weight)/3	h a j ɔ̃ː ʔ
+#
+8825	ASLIAN	1884	Jahai	ros	ros	70	Jahai	liver	1	liver/1	r o s
+8830	ASLIAN	1884	Semelai	gəres	gəres	70	Semelai	liver	1	liver/1	g ə r e s
+8832	ASLIAN	1884	Temiar	ʔɛnrɨs	ʔɛnrɨs	70	Temiar	liver	1	liver/1	ʔ ɛ n r ɨ s
+8823	ASLIAN	1884	CheqWong	ros	ros	70	Cheq-Wong	liver	1	liver/1	r o s
+8824	ASLIAN	1884	JahHut	rəs	rəs	70	Jah-Hut	liver	1	liver/1	r ə s
+8826	ASLIAN	1884	Kensiw	jos	jos	70	Kensiw	liver	1	liver/1	j o s
+8827	ASLIAN	1884	MahMeri	greh	greh	70	Mah-Meri	liver	1	liver/1	g r e h
+8828	ASLIAN	1884	Maniq	rus	rus	70	Maniq	liver	1	liver/1	r u s
+8829	ASLIAN	1884	Semai	ɹiːs	ɹiːs	70	Semai	liver	1	liver/1	ɹ iː s
+8831	ASLIAN	1884	Semnam	jiːs	jiːs	70	Semnam	liver	1	liver/1	j iː s
+#
+8946	ASLIAN	1900	CheqWong	jsɨŋ	jsɨŋ	71	Cheq-Wong	long	1	long/1	js ɨ ŋ
+8947	ASLIAN	1911	JahHut	crɨŋ	crɨŋ	71	Jah-Hut	long	2	long/2	c r ɨ ŋ
+8948	ASLIAN	1922	Jahai	btec	btec	71	Jahai	long	3	long/3	b t e c
+8949	ASLIAN	1922	Kensiw	bətuc	bətuc	71	Kensiw	long	3	long/3	b ə t u c
+8950	ASLIAN	1933	MahMeri	jələ̤k / jəlaŋ	jələ̤k	71	Mah-Meri	long	4	long/4	j ə l ə̤ k
+8951	ASLIAN	1922	Maniq	hatiek	hatiek	71	Maniq	long	3	long/3	h a t i e k
+8952	ASLIAN	1911	Semai	cʌɹʌʔ	cʌɹʌʔ	71	Semai	long	2	long/2	c ʌ ɹ ʌ ʔ
+8953	ASLIAN	1933	Semelai	ɟləŋ	ɟləŋ	71	Semelai	long	4	long/4	ɟ l ə ŋ
+8954	ASLIAN	1939	Semnam	ɟjeːʔ	ɟjeːʔ	71	Semnam	long	5	long/5	ɟ j eː ʔ
+8955	ASLIAN	1940	Semnam	liːw	liːw	71	Semnam	long	6	long/6	l iː w
+8956	ASLIAN	1911	Temiar	ɟəroʔ	ɟəroʔ	71	Temiar	long	2	long/2	ɟ ə r o ʔ
+#
+9078	ASLIAN	1944	CheqWong	cɛʔ	cɛʔ	72	Cheq-Wong	louse	1	louse/1	c ɛ ʔ
+9079	ASLIAN	1944	JahHut	cɛʔ	cɛʔ	72	Jah-Hut	louse	1	louse/1	c ɛ ʔ
+9080	ASLIAN	1944	Jahai	ciʔ	ciʔ	72	Jahai	louse	1	louse/1	c i ʔ
+9081	ASLIAN	1944	Kensiw	ceʔ	ceʔ	72	Kensiw	louse	1	louse/1	c e ʔ
+9082	ASLIAN	1944	MahMeri	ci	ci	72	Mah-Meri	louse	1	louse/1	c i
+9084	ASLIAN	1944	Semai	cɛ	cɛ	72	Semai	louse	1	louse/1	c ɛ
+9085	ASLIAN	1944	Semelai	ci	ci	72	Semelai	louse	1	louse/1	c i
+9087	ASLIAN	1944	Temiar	cɛʔ	cɛʔ	72	Temiar	louse	1	louse/1	c ɛ ʔ
+9086	ASLIAN	1944	Semnam	ceʔ	ceʔ	72	Semnam	louse	1	louse/1	c e ʔ
+#
+9201	ASLIAN	1964	JahHut	kaʔkɔɲ	kaʔkɔɲ	73	Jah-Hut	man (male human)	2	man (male human)/2	k a ʔ k ɔ ɲ
+9202	ASLIAN	1953	Jahai	tmkal	tmkal	73	Jahai	man (male human)	1	man (male human)/1	t m k a l
+9203	ASLIAN	1953	Kensiw	tamkaʎ	tamkaʎ	73	Kensiw	man (male human)	1	man (male human)/1	t a m k a ʎ
+9204	ASLIAN	1975	MahMeri	ləmɔl	ləmɔl	73	Mah-Meri	man (male human)	3	man (male human)/3	l ə m ɔ l
+9205	ASLIAN	1953	Maniq	təmkal	təmkal	73	Maniq	man (male human)	1	man (male human)/1	t ə m k a l
+9208	ASLIAN	1975	Semelai	rmɔl	rmɔl	73	Semelai	man (male human)	3	man (male human)/3	r m ɔ l
+9209	ASLIAN	1964	Semnam	ʔŋkoːɲ	ʔŋkoːɲ	73	Semnam	man (male human)	2	man (male human)/2	ʔ ŋ k oː ɲ
+9210	ASLIAN	1997	Temiar	bə	bə	73	Temiar	man (male human)	5	man (male human)/5	b ə
+9200	ASLIAN	1953	CheqWong	tuŋkal	tuŋkal	73	Cheq-Wong	man (male human)	1	man (male human)/1	t u ŋ k a l
+9206	ASLIAN	1986	Semai	kʌɹal	kʌɹal	73	Semai	man (male human)	4	man (male human)/4	k ʌ ɹ a l
+9207	ASLIAN	1997	Semai	bø / ʔibʌ	bø	73	Semai	man (male human)	5	man (male human)/5	b ø
+#
+9360	ASLIAN	2047	MahMeri	n̥ɔm	n̥ɔm	74	Mah-Meri	many	5	many/5	n̥ ɔ m
+9354	ASLIAN	2003	CheqWong	bsoʔ	bsoʔ	74	Cheq-Wong	many	1	many/1	bs o ʔ
+9355	ASLIAN	2014	JahHut	baʔlɨʔ	baʔlɨʔ	74	Jah-Hut	many	2	many/2	b a ʔ l ɨ ʔ
+9356	ASLIAN	2014	Jahai	bnolɛt	bnolɛt	74	Jahai	many	2	many/2	b n o l ɛ t
+9357	ASLIAN	2074	Jahai	brasaʔ	brasaʔ	74	Jahai	many	74	many/74	b r a s a ʔ
+9361	ASLIAN	2058	Maniq	bɛm	bɛm	74	Maniq	many	6	many/6	b ɛ m
+9362	ASLIAN	2069	Semai	ɟʌŋɔj	ɟʌŋɔj	74	Semai	many	7	many/7	ɟ ʌ ŋ ɔ j
+9364	ASLIAN	2075	Semelai	ʔrəj	ʔrəj	74	Semelai	many	8	many/8	ʔ r ə j
+9365	ASLIAN	2076	Semnam	lbɛh	lbɛh	74	Semnam	many	9	many/9	l b ɛ h
+9366	ASLIAN	2004	Temiar	ɟaɟe	ɟaɟe	74	Temiar	many	10	many/10	ɟ a ɟ e
+9367	ASLIAN	2005	Temiar	bigaʔ	bigaʔ	74	Temiar	many	11	many/11	b i g a ʔ
+9358	ASLIAN	2025	Jahai	kɔm	kɔm	74	Jahai	many	3	many/3	k ɔ m
+9359	ASLIAN	2036	Kensiw	ɟənuh	ɟənuh	74	Kensiw	many	4	many/4	ɟ ə n u h
+9363	ASLIAN	2069	Semai	ɟʔɔj	ɟʔɔj	74	Semai	many	7	many/7	ɟ ʔ ɔ j
+#
+9496	ASLIAN	2077	Semai	pʌŋlai	pʌŋlai	75	Semai	medicine	1	medicine/1	p ʌ ŋ l a i
+9499	ASLIAN	2077	Temiar	penlai	penlai	75	Temiar	medicine	1	medicine/1	p e n l a i
+#
+9614	ASLIAN	2126	JahHut	doŋ	doŋ	76	Jah-Hut	monkey/ape	28	monkey/ape/28	d o ŋ
+9616	ASLIAN	2106	Kensiw	wac	wac	76	Kensiw	monkey/ape	1	monkey/ape/1	w a c
+9617	ASLIAN	2117	MahMeri	jen	jen	76	Mah-Meri	monkey/ape	2	monkey/ape/2	j e n
+9619	ASLIAN	2128	Semai	dɔʔ	dɔʔ	76	Semai	monkey/ape	3	monkey/ape/3	d ɔ ʔ
+9620	ASLIAN	2135	Semelai	cloj	cloj	76	Semelai	monkey/ape	4	monkey/ape/4	c l o j
+9622	ASLIAN	2106	Temiar	bawaɟ	bawaɟ	76	Temiar	monkey/ape	1	monkey/ape/1	b a w a ɟ
+#
+9745	ASLIAN	2141	CheqWong	kcɛʔ	kcɛʔ	77	Cheq-Wong	moon	1	moon/1	k c ɛ ʔ
+9748	ASLIAN	2141	Kensiw	kʌcie̝ʔ	kʌcie̝ʔ	77	Kensiw	moon	1	moon/1	k ʌ c i e̝ ʔ
+9750	ASLIAN	2141	Maniq	kaceʔ	kaceʔ	77	Maniq	moon	1	moon/1	k a c e ʔ
+9754	ASLIAN	2141	Temiar	gʌceʔ	gʌceʔ	77	Temiar	moon	1	moon/1	g ʌ c e ʔ
+9747	ASLIAN	2141	Jahai	cʰɨj	cʰɨj	77	Jahai	moon	1	moon/1	cʰ ɨ j
+9751	ASLIAN	2141	Semai	gʌcɛ	gʌcɛ	77	Semai	moon	1	moon/1	g ʌ c ɛ
+#
+9876	ASLIAN	2186	Jahai	lsuŋ	lsuŋ	78	Jahai	mortar	3	mortar/3	ls u ŋ
+9877	ASLIAN	2184	Jahai	mutah	mutah	78	Jahai	mortar	23	mortar/23	m u t a h
+9878	ASLIAN	2169	Jahai	gul	gul	78	Jahai	mortar	1	mortar/1	g u l
+9879	ASLIAN	2180	Jahai	hɔʔ	hɔʔ	78	Jahai	mortar	2	mortar/2	h ɔ ʔ
+9880	ASLIAN	2180	Kensiw	hɔʔ	hɔʔ	78	Kensiw	mortar	2	mortar/2	h ɔ ʔ
+9883	ASLIAN	2187	Semai	saʔnɛh	saʔnɛh	78	Semai	mortar	4	mortar/4	s a ʔ n ɛ h
+9884	ASLIAN	2188	Semelai	lsoŋ	lsoŋ	78	Semelai	mortar	5	mortar/5	ls o ŋ
+9886	ASLIAN	2169	Temiar	gul	gul	78	Temiar	mortar	1	mortar/1	g u l
+#
+10000	ASLIAN	2193	CheqWong	mnĩm	mnĩm	79	Cheq-Wong	mountain	1	mountain/1	m n ĩ m
+10001	ASLIAN	2193	JahHut	bnɨm	bnɨm	79	Jah-Hut	mountain	1	mountain/1	b n ɨ m
+10002	ASLIAN	2204	Jahai	ɟlmɔl	ɟlmɔl	79	Jahai	mountain	2	mountain/2	ɟ l m ɔ l
+10003	ASLIAN	2215	Kensiw	ɟəpaʔ	ɟəpaʔ	79	Kensiw	mountain	3	mountain/3	ɟ ə p a ʔ
+10004	ASLIAN	2226	MahMeri	sɔ̤k	sɔ̤k	79	Mah-Meri	mountain	4	mountain/4	s ɔ̤ k
+10005	ASLIAN	2233	Maniq	batuʔ	batuʔ	79	Maniq	mountain	5	mountain/5	b a t u ʔ
+10006	ASLIAN	2234	Semai	lɔt	lɔt	79	Semai	mountain	6	mountain/6	l ɔ t
+10007	ASLIAN	2204	Semai	ɟʌlmɔl	ɟʌlmɔl	79	Semai	mountain	2	mountain/2	ɟ ʌ l m ɔ l
+10008	ASLIAN	2193	Semelai	bnʉm	bnʉm	79	Semelai	mountain	1	mountain/1	b n ʉ m
+10009	ASLIAN	2215	Semnam	pɔːʔ	pɔːʔ	79	Semnam	mountain	3	mountain/3	p ɔː ʔ
+10010	ASLIAN	2204	Temiar	ɟʌlmol	ɟʌlmol	79	Temiar	mountain	2	mountain/2	ɟ ʌ l m o l
+#
+10132	ASLIAN	2238	CheqWong	hɑɲ	hɑɲ	80	Cheq-Wong	mouth	1	mouth/1	h ɑ ɲ
+10134	ASLIAN	2238	Jahai	hɛɲ	hɛɲ	80	Jahai	mouth	1	mouth/1	h ɛ ɲ
+10135	ASLIAN	2238	Kensiw	hãɲ	hãɲ	80	Kensiw	mouth	1	mouth/1	h ã ɲ
+10137	ASLIAN	2238	Maniq	haɲ	haɲ	80	Maniq	mouth	1	mouth/1	h a ɲ
+10140	ASLIAN	2249	Semnam	camaːk	camaːk	80	Semnam	mouth	2	mouth/2	c a m aː k
+10141	ASLIAN	2260	Temiar	ɲaʔ / ɲaːg	ɲaʔ	80	Temiar	mouth	3	mouth/3	ɲ a ʔ
+#
+10269	ASLIAN	2298	Temiar	bəɹpog	bəɹpog	81	Temiar	mushroom/fungus	3	mushroom/fungus/3	b ə ɹ p o g
+10260	ASLIAN	2289	CheqWong	tes	tes	81	Cheq-Wong	mushroom/fungus	1	mushroom/fungus/1	t e s
+10262	ASLIAN	2289	Jahai	tis	tis	81	Jahai	mushroom/fungus	1	mushroom/fungus/1	t i s
+10263	ASLIAN	2289	Kensiw	tis	tis	81	Kensiw	mushroom/fungus	1	mushroom/fungus/1	t i s
+10264	ASLIAN	2289	MahMeri	pətih	pətih	81	Mah-Meri	mushroom/fungus	1	mushroom/fungus/1	p ə t i h
+10266	ASLIAN	2289	Semai	bʌtøs	bʌtøs	81	Semai	mushroom/fungus	1	mushroom/fungus/1	b ʌ t ø s
+10268	ASLIAN	2289	Semnam	tiːs	tiːs	81	Semnam	mushroom/fungus	1	mushroom/fungus/1	t iː s
+#
+10390	ASLIAN	2305	MahMeri	kɔkɔ̃t	kɔkɔ̃t	82	Mah-Meri	nail/claw	1	nail/claw/1	k ɔ k ɔ̃ t
+10391	ASLIAN	2305	Maniq	kukɔʔ	kukɔʔ	82	Maniq	nail/claw	1	nail/claw/1	k u k ɔ ʔ
+10392	ASLIAN	2315	Semai	cɛŋɹoʊs	cɛŋɹoʊs	82	Semai	nail/claw	2	nail/claw/2	c ɛ ŋ ɹ o ʊ s
+10394	ASLIAN	2315	Semnam	cnjɔːs	cnjɔːs	82	Semnam	nail/claw	2	nail/claw/2	c n j ɔː s
+10395	ASLIAN	2315	Temiar	cɛnrɔːs	cɛnrɔːs	82	Temiar	nail/claw	2	nail/claw/2	c ɛ n r ɔː s
+10384	ASLIAN	2305	CheqWong	skɔʔ / lkɔʔ	skɔʔ	82	Cheq-Wong	nail/claw	1	nail/claw/1	s k ɔ ʔ
+10385	ASLIAN	2315	JahHut	cuwes	cuwes	82	Jah-Hut	nail/claw	2	nail/claw/2	c u w e s
+10386	ASLIAN	2326	Jahai	katɔ̃ŋ	katɔ̃ŋ	82	Jahai	nail/claw	3	nail/claw/3	k a t ɔ̃ ŋ
+10387	ASLIAN	2305	Jahai	klkɔʔ	klkɔʔ	82	Jahai	nail/claw	1	nail/claw/1	k l k ɔ ʔ
+10388	ASLIAN	2315	Jahai	cnrɔs	cnrɔs	82	Jahai	nail/claw	2	nail/claw/2	c n r ɔ s
+10389	ASLIAN	2305	Kensiw	kalkɔʔ	kalkɔʔ	82	Kensiw	nail/claw	1	nail/claw/1	k a l k ɔ ʔ
+10393	ASLIAN	2315	Semelai	cəros	cəros	82	Semelai	nail/claw	2	nail/claw/2	c ə r o s
+#
+10518	ASLIAN	2334	CheqWong	coʔ	coʔ	83	Cheq-Wong	name	1	name/1	c o ʔ
+10519	ASLIAN	2345	JahHut	ʔaməh	ʔaməh	83	Jah-Hut	name	2	name/2	ʔ a m ə h
+10522	ASLIAN	2356	MahMeri	gəla	gəla	83	Mah-Meri	name	3	name/3	g ə l a
+10520	ASLIAN	2345	Jahai	knmɔh	knmɔh	83	Jahai	name	2	name/2	k n m ɔ h
+10521	ASLIAN	2334	Kensiw	ɟɔʔ	ɟɔʔ	83	Kensiw	name	1	name/1	ɟ ɔ ʔ
+10523	ASLIAN	2334	Maniq	cɔʔ	cɔʔ	83	Maniq	name	1	name/1	c ɔ ʔ
+10524	ASLIAN	2345	Semai	muh	muh	83	Semai	name	2	name/2	m u h
+10525	ASLIAN	2361	Semelai	gəŋlar	gəŋlar	83	Semelai	name	4	name/4	g ə ŋ l a r
+10526	ASLIAN	2345	Semnam	knmɔːh	knmɔːh	83	Semnam	name	2	name/2	k n m ɔː h
+10527	ASLIAN	2362	Temiar	kʌneh	kʌneh	83	Temiar	name	5	name/5	k ʌ n e h
+#
+10644	ASLIAN	2367	JahHut	tuʔ	tuʔ	84	Jah-Hut	navel	1	navel/1	t u ʔ
+10645	ASLIAN	2367	Jahai	dut	dut	84	Jahai	navel	1	navel/1	d u t
+10646	ASLIAN	2378	Kensiw	lus	lus	84	Kensiw	navel	2	navel/2	l u s
+10649	ASLIAN	2388	Semai	sɔʔ	sɔʔ	84	Semai	navel	3	navel/3	s ɔ ʔ
+#
+10767	ASLIAN	2399	CheqWong	dwah	dwah	85	Cheq-Wong	near	1	near/1	d w a h
+10770	ASLIAN	2421	Kensiw	tədeh	tədeh	85	Kensiw	near	3	near/3	t ə d e h
+10772	ASLIAN	2421	Maniq	tɛdɛh	tɛdɛh	85	Maniq	near	3	near/3	t ɛ d ɛ h
+10773	ASLIAN	2443	Semai	ɹø	ɹø	85	Semai	near	5	near/5	ɹ ø
+10774	ASLIAN	2421	Semelai	ddɛs	ddɛs	85	Semelai	near	3	near/3	d d ɛ s
+10775	ASLIAN	2421	Semnam	padəʔ	padəʔ	85	Semnam	near	3	near/3	p a d ə ʔ
+10776	ASLIAN	2454	Temiar	bʌʔ	bʌʔ	85	Temiar	near	6	near/6	b ʌ ʔ
+10768	ASLIAN	2410	JahHut	ɲcɛm	ɲcɛm	85	Jah-Hut	near	2	near/2	ɲ c ɛ m
+10771	ASLIAN	2432	MahMeri	miŋ	miŋ	85	Mah-Meri	near	4	near/4	m i ŋ
+10769	ASLIAN	2421	Jahai	pdəh	pdəh	85	Jahai	near	3	near/3	p d ə h
+#
+10898	ASLIAN	2460	CheqWong	lŋɛ̃ʔ	lŋɛ̃ʔ	86	Cheq-Wong	neck	1	neck/1	l ŋ ɛ̃ ʔ
+10899	ASLIAN	2460	JahHut	lŋɛʔ	lŋɛʔ	86	Jah-Hut	neck	1	neck/1	l ŋ ɛ ʔ
+10902	ASLIAN	2471	MahMeri	lehe	lehe	86	Mah-Meri	neck	2	neck/2	l e h e
+10905	ASLIAN	2460	Semai	lʌŋi	lʌŋi	86	Semai	neck	1	neck/1	l ʌ ŋ i
+10906	ASLIAN	2471	Semelai	lhɛr	lhɛr	86	Semelai	neck	2	neck/2	lh ɛ r
+10908	ASLIAN	2484	Temiar	taŋʌn	taŋʌn	86	Temiar	neck	4	neck/4	t a ŋ ʌ n
+10903	ASLIAN	2482	Maniq	hoh	hoh	86	Maniq	neck	3	neck/3	h o h
+#
+11147	ASLIAN	2515	CheqWong	rɛʔ	rɛʔ	88	Cheq-Wong	new	1	new/1	r ɛ ʔ
+11149	ASLIAN	2524	Jahai	paj	paj	88	Jahai	new	2	new/2	p a j
+11151	ASLIAN	2524	MahMeri	m̥paj	m̥paj	88	Mah-Meri	new	2	new/2	m̥ p a j
+11152	ASLIAN	2525	Maniq	kabi	kabi	88	Maniq	new	3	new/3	k a b i
+11153	ASLIAN	2524	Semai	paːj	paːj	88	Semai	new	2	new/2	p aː j
+11154	ASLIAN	2526	Semelai	ʔarɛh	ʔarɛh	88	Semelai	new	4	new/4	ʔ a r ɛ h
+11155	ASLIAN	2527	Semnam	bajuːʔ	bajuːʔ	88	Semnam	new	5	new/5	b a j uː ʔ
+11148	ASLIAN	2524	JahHut	paj	paj	88	Jah-Hut	new	2	new/2	p a j
+11150	ASLIAN	2525	Kensiw	kanabiʎ	kanabiʎ	88	Kensiw	new	3	new/3	k a n a b i ʎ
+11156	ASLIAN	2524	Temiar	paːj	paːj	88	Temiar	new	2	new/2	p aː j
+#
+11279	ASLIAN	2567	Temiar	lajɛg	lajɛg	89	Temiar	night	5	night/5	l a j ɛ g
+11270	ASLIAN	2532	CheqWong	btom	btom	89	Cheq-Wong	night	1	night/1	b t o m
+11271	ASLIAN	2543	JahHut	sŋat	sŋat	89	Jah-Hut	night	2	night/2	s ŋ a t
+11272	ASLIAN	2554	Jahai	hrkɨt	hrkɨt	89	Jahai	night	3	night/3	h r k ɨ t
+11273	ASLIAN	2554	Kensiw	hɛkut	hɛkut	89	Kensiw	night	3	night/3	h ɛ k u t
+11274	ASLIAN	2565	MahMeri	dəj	dəj	89	Mah-Meri	night	4	night/4	d ə j
+11275	ASLIAN	2554	Maniq	hakɔt	hakɔt	89	Maniq	night	3	night/3	h a k ɔ t
+11276	ASLIAN	2532	Semai	tøp / təpm	tøp	89	Semai	night	1	night/1	t ø p
+11277	ASLIAN	2532	Semelai	ptɔm	ptɔm	89	Semelai	night	1	night/1	p t ɔ m
+11278	ASLIAN	2543	Semnam	hŋɔːt	hŋɔːt	89	Semnam	night	2	night/2	h ŋ ɔː t
+#
+11520	ASLIAN	2588	CheqWong	mɔ̃h	mɔ̃h	91	Cheq-Wong	nose	1	nose/1	m ɔ̃ h
+11521	ASLIAN	2589	JahHut	hiduŋ	hiduŋ	91	Jah-Hut	nose	2	nose/2	h i d u ŋ
+11522	ASLIAN	2588	Jahai	mɔh	mɔh	91	Jahai	nose	1	nose/1	m ɔ h
+11523	ASLIAN	2588	Kensiw	mwõh	mwõh	91	Kensiw	nose	1	nose/1	m w õ h
+11524	ASLIAN	2588	MahMeri	muh	muh	91	Mah-Meri	nose	1	nose/1	m u h
+11525	ASLIAN	2588	Maniq	mɔh	mɔh	91	Maniq	nose	1	nose/1	m ɔ h
+11526	ASLIAN	2588	Semai	mɔh	mɔh	91	Semai	nose	1	nose/1	m ɔ h
+11527	ASLIAN	2588	Semelai	muh	muh	91	Semelai	nose	1	nose/1	m u h
+11528	ASLIAN	2588	Semnam	muh	muh	91	Semnam	nose	1	nose/1	m u h
+11529	ASLIAN	2588	Temiar	mɨh	mɨh	91	Temiar	nose	1	nose/1	m ɨ h
+#
+11643	ASLIAN	2605	JahHut	nɨgŋ	nɨgŋ	92	Jah-Hut	old	2	old/2	n ɨ g ŋ
+11644	ASLIAN	2616	Jahai	tʔtɨʔ	tʔtɨʔ	92	Jahai	old	3	old/3	t ʔ t ɨ ʔ
+11646	ASLIAN	2633	Kensiw	bido̝k	bido̝k	92	Kensiw	old	5	old/5	b i d o̝ k
+11642	ASLIAN	2595	CheqWong	manɨ̃h	manɨ̃h	92	Cheq-Wong	old	1	old/1	m a n ɨ̃ h
+11645	ASLIAN	2627	Kensiw	suwah	suwah	92	Kensiw	old	4	old/4	s u w a h
+11647	ASLIAN	2634	MahMeri	leʔ	leʔ	92	Mah-Meri	old	6	old/6	l e ʔ
+11648	ASLIAN	2635	Maniq	kasɛɲ	kasɛɲ	92	Maniq	old	7	old/7	k a s ɛ ɲ
+11649	ASLIAN	2595	Semai	manah	manah	92	Semai	old	1	old/1	m a n a h
+11650	ASLIAN	2636	Semelai	gdo	gdo	92	Semelai	old	8	old/8	g d o
+11651	ASLIAN	2633	Semnam	bidoːk	bidoːk	92	Semnam	old	5	old/5	b i d oː k
+11652	ASLIAN	2637	Temiar	lakəɹ	lakəɹ	92	Temiar	old	9	old/9	l a k ə ɹ
+#
+11807	ASLIAN	2638	Jahai	nɛj	nɛj	93	Jahai	one	1	one/1	n ɛ j
+11809	ASLIAN	2648	MahMeri	muj	muj	93	Mah-Meri	one	2	one/2	m u j
+11810	ASLIAN	2638	Maniq	naj	naj	93	Maniq	one	1	one/1	n a j
+11808	ASLIAN	2638	Kensiw	naj	naj	93	Kensiw	one	1	one/1	n a j
+11805	ASLIAN	2638	CheqWong	nɑ̃j	nɑ̃j	93	Cheq-Wong	one	1	one/1	n ɑ̃ j
+11806	ASLIAN	2638	JahHut	niwɛj	niwɛj	93	Jah-Hut	one	1	one/1	n i w ɛ j
+11811	ASLIAN	2638	Semai	nanəʔ	nanəʔ	93	Semai	one	1	one/1	n a n ə ʔ
+11812	ASLIAN	2648	Semelai	muj	muj	93	Semelai	one	2	one/2	m u j
+11813	ASLIAN	2653	Semnam	satuːh	satuːh	93	Semnam	one	3	one/3	s a t uː h
+11814	ASLIAN	2638	Temiar	nʌi	nʌi	93	Temiar	one	1	one/1	n ʌ i
+#
+11944	ASLIAN	2691	Temiar	tapaɹ	tapaɹ	94	Temiar	palm (of hand)	a	palm (of hand)/a	t a p a ɹ
+#
+12061	ASLIAN	2692	JahHut	lwɔʔ	lwɔʔ	95	Jah-Hut	penis	1	penis/1	l w ɔ ʔ
+12063	ASLIAN	2703	Kensiw	lo̝c	lo̝c	95	Kensiw	penis	2	penis/2	l o̝ c
+12066	ASLIAN	2692	Semai	loʊ	loʊ	95	Semai	penis	1	penis/1	l o ʊ
+12067	ASLIAN	2692	Semelai	loʔ	loʔ	95	Semelai	penis	1	penis/1	l o ʔ
+12068	ASLIAN	2714	Semnam	klaːw	klaːw	95	Semnam	penis	3	penis/3	k l aː w
+12062	ASLIAN	2692	Jahai	laʔ	laʔ	95	Jahai	penis	1	penis/1	l a ʔ
+12064	ASLIAN	2692	MahMeri	loʔ	loʔ	95	Mah-Meri	penis	1	penis/1	l o ʔ
+12069	ASLIAN	2725	Temiar	bakɔh	bakɔh	95	Temiar	penis	4	penis/4	b a k ɔ h
+#
+12193	ASLIAN	2731	CheqWong	briʔ / biʔ	briʔ	96	Cheq-Wong	person	1	person/1	b r i ʔ
+12194	ASLIAN	2742	JahHut	jah	jah	96	Jah-Hut	person	2	person/2	j a h
+12195	ASLIAN	2731	Jahai	mnraʔ	mnraʔ	96	Jahai	person	1	person/1	m n r a ʔ
+12196	ASLIAN	2753	Kensiw	maniʔ	maniʔ	96	Kensiw	person	3	person/3	m a n i ʔ
+12197	ASLIAN	2753	MahMeri	m̥aʔ	m̥aʔ	96	Mah-Meri	person	3	person/3	m̥ a ʔ
+12199	ASLIAN	2760	Semai	sʌŋɔɪ / sŋʔɔ̃ːj	sʌŋɔɪ	96	Semai	person	4	person/4	s ʌ ŋ ɔ ɪ
+12198	ASLIAN	2753	Maniq	maniʔ	maniʔ	96	Maniq	person	3	person/3	m a n i ʔ
+12200	ASLIAN	2753	Semelai	smaʔ	smaʔ	96	Semelai	person	3	person/3	s m a ʔ
+12201	ASLIAN	2753	Semnam	smaːʔ	smaːʔ	96	Semnam	person	3	person/3	s m aː ʔ
+12202	ASLIAN	2760	Temiar	sʌnɔi / sɛnʔɔːj	sʌnɔi	96	Temiar	person	4	person/4	s ʌ n ɔ i
+#
+12323	ASLIAN	2765	Jahai	gaw	gaw	97	Jahai	pig	1	pig/1	g a w
+12324	ASLIAN	2765	Kensiw	gaw	gaw	97	Kensiw	pig	1	pig/1	g a w
+12325	ASLIAN	2776	MahMeri	kətu	kətu	97	Mah-Meri	pig	2	pig/2	k ə t u
+12327	ASLIAN	2765	Semai	gaʊ	gaʊ	97	Semai	pig	1	pig/1	g a ʊ
+12328	ASLIAN	2784	Semelai	ɟalu	ɟalu	97	Semelai	pig	3	pig/3	ɟ a l u
+12330	ASLIAN	2765	Temiar	gau	gau	97	Temiar	pig	1	pig/1	g a u
+#
+12445	ASLIAN	2791	Jahai	bkɨk	bkɨk	98	Jahai	pigeon/dove	1	pigeon/dove/1	b k ɨ k
+12446	ASLIAN	2802	Kensiw	kɔcɔ͂k	kɔcɔ͂k	98	Kensiw	pigeon/dove	2	pigeon/dove/2	k ɔ c ɔ͂ k
+12449	ASLIAN	2813	Semai	pati	pati	98	Semai	pigeon/dove	3	pigeon/dove/3	p a t i
+12452	ASLIAN	2822	Semnam	punɛːj	punɛːj	98	Semnam	pigeon/dove	4	pigeon/dove/4	p u n ɛː j
+12453	ASLIAN	2791	Temiar	bʌhkɔ	bʌhkɔ	98	Temiar	pigeon/dove	1	pigeon/dove/1	b ʌ h k ɔ
+#
+12575	ASLIAN	2828	CheqWong	səm	səm	99	Cheq-Wong	rain	1	rain/1	s ə m
+12580	ASLIAN	2839	MahMeri	gəma	gəma	99	Mah-Meri	rain	2	rain/2	g ə m a
+12582	ASLIAN	2839	Semai	mani / maniːʔ	mani	99	Semai	rain	2	rain/2	m a n i
+12583	ASLIAN	2846	Semelai	ʔareʔ	ʔareʔ	99	Semelai	rain	4	rain/4	ʔ a r e ʔ
+12584	ASLIAN	2828	Semelai	lsəm	lsəm	99	Semelai	rain	1	rain/1	ls ə m
+12585	ASLIAN	2839	Semnam	miːʔ	miːʔ	99	Semnam	rain	2	rain/2	m iː ʔ
+12586	ASLIAN	2847	Temiar	tɨh	tɨh	99	Temiar	rain	5	rain/5	t ɨ h
+12576	ASLIAN	2839	JahHut	miʔ	miʔ	99	Jah-Hut	rain	2	rain/2	m i ʔ
+12577	ASLIAN	2845	Jahai	hĩc	hĩc	99	Jahai	rain	3	rain/3	h ĩ c
+12578	ASLIAN	2828	Jahai	lesem	lesem	99	Jahai	rain	1	rain/1	l e s e m
+#
+12706	ASLIAN	2852	Jahai	wawət	wawət	100	Jahai	rat/mouse	1	rat/mouse/1	w a w ə t
+12707	ASLIAN	2863	Kensiw	katogŋ	katogŋ	100	Kensiw	rat/mouse	2	rat/mouse/2	k a t o g ŋ
+12709	ASLIAN	2874	MahMeri	kanɛʔ	kanɛʔ	100	Mah-Meri	rat/mouse	3	rat/mouse/3	k a n ɛ ʔ
+12711	ASLIAN	2885	Semai	hʌlɔɪ	hʌlɔɪ	100	Semai	rat/mouse	4	rat/mouse/4	h ʌ l ɔ ɪ
+12713	ASLIAN	2891	Semnam	caʔɛ̃ʔ	caʔɛ̃ʔ	100	Semnam	rat/mouse	5	rat/mouse/5	c a ʔ ɛ̃ ʔ
+12714	ASLIAN	2863	Temiar	kʌdʌig	kʌdʌig	100	Temiar	rat/mouse	2	rat/mouse/2	k ʌ d ʌ i g
+#
+12839	ASLIAN	2896	CheqWong	suət	suət	101	Cheq-Wong	red	1	red/1	s u ə t
+12840	ASLIAN	2907	JahHut	rŋap	rŋap	101	Jah-Hut	red	2	red/2	r ŋ a p
+12841	ASLIAN	2918	Jahai	rhɨk	rhɨk	101	Jahai	red	3	red/3	rh ɨ k
+12842	ASLIAN	2929	Jahai	rgɔj	rgɔj	101	Jahai	red	6	red/6	r g ɔ j
+12843	ASLIAN	2926	Jahai	thɔ̃j	thɔ̃j	101	Jahai	red	37	red/37	th ɔ̃ j
+12844	ASLIAN	2927	Jahai	tahɔɲ	tahɔɲ	101	Jahai	red	4	red/4	t a h ɔ ɲ
+12845	ASLIAN	2927	Kensiw	təhɔ̃ɲ	təhɔ̃ɲ	101	Kensiw	red	4	red/4	t ə h ɔ̃ ɲ
+12846	ASLIAN	2928	MahMeri	mirah	mirah	101	Mah-Meri	red	5	red/5	m i r a h
+12847	ASLIAN	2929	Maniq	bagĩẽc	bagĩẽc	101	Maniq	red	6	red/6	b a g ĩ ẽ c
+12848	ASLIAN	2930	Semai	ɹʌŋain / rŋaːɲ	ɹʌŋain	101	Semai	red	7	red/7	ɹ ʌ ŋ a i n
+12849	ASLIAN	2928	Semelai	mirah	mirah	101	Semelai	red	5	red/5	m i r a h
+12850	ASLIAN	2927	Semnam	tʰuːɲ	tʰuːɲ	101	Semnam	red	4	red/4	tʰ uː ɲ
+12851	ASLIAN	2931	Temiar	cenleʔ / cələg	cenleʔ	101	Temiar	red	8	red/8	c e n l e ʔ
+#
+12967	ASLIAN	2933	CheqWong	beʔ	beʔ	102	Cheq-Wong	rice (cooked)	1	rice (cooked)/1	b e ʔ
+12968	ASLIAN	2933	JahHut	baʔ	baʔ	102	Jah-Hut	rice (cooked)	1	rice (cooked)/1	b a ʔ
+12970	ASLIAN	2968	Jahai	bap	bap	102	Jahai	rice (cooked)	41	rice (cooked)/41	b a p
+12972	ASLIAN	2933	MahMeri	beʔ	beʔ	102	Mah-Meri	rice (cooked)	1	rice (cooked)/1	b e ʔ
+12974	ASLIAN	2944	Semai	cana	cana	102	Semai	rice (cooked)	2	rice (cooked)/2	c a n a
+12975	ASLIAN	2955	Semelai	huc	huc	102	Semelai	rice (cooked)	3	rice (cooked)/3	h u c
+12977	ASLIAN	2944	Temiar	caʔna	caʔna	102	Temiar	rice (cooked)	2	rice (cooked)/2	c a ʔ n a
+#
+13095	ASLIAN	2974	CheqWong	beʔ	beʔ	103	Cheq-Wong	rice (unhusked)	1	rice (unhusked)/1	b e ʔ
+13096	ASLIAN	2974	JahHut	baʔ	baʔ	103	Jah-Hut	rice (unhusked)	1	rice (unhusked)/1	b a ʔ
+13098	ASLIAN	2991	Jahai	bap	bap	103	Jahai	rice (unhusked)	26	rice (unhusked)/26	b a p
+13100	ASLIAN	2974	MahMeri	beʔ	beʔ	103	Mah-Meri	rice (unhusked)	1	rice (unhusked)/1	b e ʔ
+13102	ASLIAN	2974	Semai	ba	ba	103	Semai	rice (unhusked)	1	rice (unhusked)/1	b a
+13103	ASLIAN	2974	Semelai	baba	baba	103	Semelai	rice (unhusked)	1	rice (unhusked)/1	b a b a
+13104	ASLIAN	2974	Semnam	baːʔ	baːʔ	103	Semnam	rice (unhusked)	1	rice (unhusked)/1	b aː ʔ
+13105	ASLIAN	2974	Temiar	ba	ba	103	Temiar	rice (unhusked)	1	rice (unhusked)/1	b a
+#
+13225	ASLIAN	2999	CheqWong	təm	təm	104	Cheq-Wong	right (side)	1	right (side)/1	t ə m
+13227	ASLIAN	2999	Jahai	tem	tem	104	Jahai	right (side)	1	right (side)/1	t e m
+13228	ASLIAN	2999	Kensiw	tebm	tebm	104	Kensiw	right (side)	1	right (side)/1	t e b m
+13230	ASLIAN	2999	Maniq	tɛm	tɛm	104	Maniq	right (side)	1	right (side)/1	t ɛ m
+13231	ASLIAN	2999	Semai	kɛntɔp	kɛntɔp	104	Semai	right (side)	1	right (side)/1	k ɛ n t ɔ p
+13232	ASLIAN	2999	Semelai	satɒm	satɒm	104	Semelai	right (side)	1	right (side)/1	s a t ɒ m
+13233	ASLIAN	2999	Semnam	təm	təm	104	Semnam	right (side)	1	right (side)/1	t ə m
+13234	ASLIAN	2999	Temiar	tʌp	tʌp	104	Temiar	right (side)	1	right (side)/1	t ʌ p
+#
+13351	ASLIAN	3018	Kensiw	tasek	tasek	105	Kensiw	ripe/cooked	1	ripe/cooked/1	t a s e k
+13352	ASLIAN	3023	MahMeri	hndṳp	hndṳp	105	Mah-Meri	ripe/cooked	2	ripe/cooked/2	h n d ṳ p
+13354	ASLIAN	3023	Semai	nøp	nøp	105	Semai	ripe/cooked	2	ripe/cooked/2	n ø p
+13355	ASLIAN	3023	Semelai	ʔnom	ʔnom	105	Semelai	ripe/cooked	2	ripe/cooked/2	ʔ n o m
+13357	ASLIAN	3024	Temiar	cɛt	cɛt	105	Temiar	ripe/cooked	3	ripe/cooked/3	c ɛ t
+#
+13505	ASLIAN	3072	JahHut	tow	tow	106	Jah-Hut	river	48	river/48	t o w
+13506	ASLIAN	3031	Jahai	tɔm	tɔm	106	Jahai	river	1	river/1	t ɔ m
+13507	ASLIAN	3041	Kensiw	bəte̝w naʔ ʔuʔ	bəte̝w#naʔ#ʔuʔ	106	Kensiw	river	2	river/2	b ə t e̝ w # n a ʔ # ʔ u ʔ
+13508	ASLIAN	3052	MahMeri	do gəndaʔ	do#gəndaʔ	106	Mah-Meri	river	3	river/3	d o # g ə n d a ʔ
+13510	ASLIAN	3063	Semai	bataŋ aɹi	bataŋ#aɹi	106	Semai	river	4	river/4	b a t a ŋ # a ɹ i
+13512	ASLIAN	3073	Semnam	ʔɔ̃ŋ	ʔɔ̃ŋ	106	Semnam	river	5	river/5	ʔ ɔ̃ ŋ
+13513	ASLIAN	3074	Temiar	was	was	106	Temiar	river	6	river/6	w a s
+#
+13644	ASLIAN	3089	CheqWong	səbəʔ	səbəʔ	107	Cheq-Wong	road/path	2	road/path/2	s ə b ə ʔ
+13645	ASLIAN	3100	JahHut	nuwə̃ŋ	nuwə̃ŋ	107	Jah-Hut	road/path	3	road/path/3	n u w ə̃ ŋ
+13652	ASLIAN	3110	Semelai	troŋ	troŋ	107	Semelai	road/path	8	road/path/8	t r o ŋ
+13653	ASLIAN	3109	Semnam	nuːŋ	nuːŋ	107	Semnam	road/path	7	road/path/7	n uː ŋ
+13643	ASLIAN	3078	CheqWong	baləj	baləj	107	Cheq-Wong	road/path	1	road/path/1	b a l ə j
+13649	ASLIAN	3107	MahMeri	kəlɔh	kəlɔh	107	Mah-Meri	road/path	5	road/path/5	k ə l ɔ h
+13651	ASLIAN	3109	Semai	nɔŋ / nuːŋ	nɔŋ	107	Semai	road/path	7	road/path/7	n ɔ ŋ
+13654	ASLIAN	3109	Temiar	noŋ	noŋ	107	Temiar	road/path	7	road/path/7	n o ŋ
+13646	ASLIAN	3108	Jahai	har	har	107	Jahai	road/path	6	road/path/6	h a r
+13647	ASLIAN	3106	Jahai	glɔŋ	glɔŋ	107	Jahai	road/path	4	road/path/4	g l ɔ ŋ
+13648	ASLIAN	3106	Kensiw	gəlɔŋ	gəlɔŋ	107	Kensiw	road/path	4	road/path/4	g ə l ɔ ŋ
+13650	ASLIAN	3108	Maniq	ha	ha	107	Maniq	road/path	6	road/path/6	h a
+#
+13778	ASLIAN	3112	CheqWong	jʔɛs	jʔɛs	108	Cheq-Wong	root	1	root/1	j ʔ ɛ s
+13780	ASLIAN	3112	Jahai	ɟʔes	ɟʔes	108	Jahai	root	1	root/1	ɟ ʔ e s
+13781	ASLIAN	3112	Kensiw	ʔije̝s	ʔije̝s	108	Kensiw	root	1	root/1	ʔ i j e̝ s
+13784	ASLIAN	3112	Semai	rəʔis / rʔeːs	rəʔis	108	Semai	root	1	root/1	r ə ʔ i s
+13785	ASLIAN	3112	Semelai	rɛs	rɛs	108	Semelai	root	1	root/1	r ɛ s
+13786	ASLIAN	3112	Semnam	jʔɛːs	jʔɛːs	108	Semnam	root	1	root/1	j ʔ ɛː s
+13787	ASLIAN	3115	Temiar	teːk	teːk	108	Temiar	root	2	root/2	t eː k
+13788	ASLIAN	3116	Temiar	cətiŋ	cətiŋ	108	Temiar	root	3	root/3	c ə t i ŋ
+#
+13908	ASLIAN	3123	Jahai	pɔk	pɔk	109	Jahai	round	1	round/1	p ɔ k
+13913	ASLIAN	3144	Semai	bɛlbul	bɛlbul	109	Semai	round	3	round/3	b ɛ l b u l
+13916	ASLIAN	3151	Temiar	tʌldel	tʌldel	109	Temiar	round	4	round/4	t ʌ l d e l
+13909	ASLIAN	3133	Kensiw	tɛlɛw	tɛlɛw	109	Kensiw	round	2	round/2	t ɛ l ɛ w
+#
+14045	ASLIAN	3157	JahHut	pɔl	pɔl	110	Jah-Hut	salt	1	salt/1	p ɔ l
+14048	ASLIAN	3175	Kensiw	siʔaʔ	siʔaʔ	110	Kensiw	salt	3	salt/3	s i ʔ a ʔ
+14050	ASLIAN	3175	Maniq	sijaʔ	sijaʔ	110	Maniq	salt	3	salt/3	s i j a ʔ
+14051	ASLIAN	3168	Semai	mpɔɪt	mpɔɪt	110	Semai	salt	2	salt/2	m p ɔ ɪ t
+14054	ASLIAN	3168	Temiar	ʔempoɟ	ʔempoɟ	110	Temiar	salt	2	salt/2	ʔ e m p o ɟ
+14046	ASLIAN	3168	Jahai	ʔmpɔc	ʔmpɔc	110	Jahai	salt	2	salt/2	ʔ m p ɔ c
+14053	ASLIAN	3168	Semnam	ʔmpɔːc	ʔmpɔːc	110	Semnam	salt	2	salt/2	ʔ m p ɔː c
+#
+14175	ASLIAN	3192	Semai	sɛmbeɪ	sɛmbeɪ	111	Semai	sand	2	sand/2	s ɛ m b e ɪ
+14178	ASLIAN	3192	Temiar	sembʌi	sembʌi	111	Temiar	sand	2	sand/2	s e m b ʌ i
+#
+14298	ASLIAN	3214	Jahai	biɟiʔ	biɟiʔ	112	Jahai	seed	1	seed/1	b i ɟ i ʔ
+14299	ASLIAN	3225	Jahai	mit ʔhəj	mit#ʔhəj	112	Jahai	seed	2	seed/2	m i t # ʔh ə j
+14300	ASLIAN	3236	Kensiw	mẽt	mẽt	112	Kensiw	seed	3	seed/3	m ẽ t
+14303	ASLIAN	3236	Semai	mat	mat	112	Semai	seed	3	seed/3	m a t
+14304	ASLIAN	3247	Semai	mʌnɛh	mʌnɛh	112	Semai	seed	4	seed/4	m ʌ n ɛ h
+14305	ASLIAN	3247	Semelai	bnih	bnih	112	Semelai	seed	4	seed/4	b n i h
+14306	ASLIAN	3255	Semnam	kmɔːʔ	kmɔːʔ	112	Semnam	seed	5	seed/5	k m ɔː ʔ
+14307	ASLIAN	3247	Temiar	mʌneh	mʌneh	112	Temiar	seed	4	seed/4	m ʌ n e h
+#
+14439	ASLIAN	3260	Semelai	təmpɔh	təmpɔh	113	Semelai	seven	1	seven/1	t ə m p ɔ h
+#
+14559	ASLIAN	3271	Jahai	laŋɔj	laŋɔj	114	Jahai	shade/shadow	1	shade/shadow/1	l a ŋ ɔ j
+14560	ASLIAN	3282	Kensiw	kaʎpɚʔ	kaʎpɚʔ	114	Kensiw	shade/shadow	2	shade/shadow/2	k a ʎ p ɚ ʔ
+14563	ASLIAN	3293	Semai	ɟʌgut	ɟʌgut	114	Semai	shade/shadow	3	shade/shadow/3	ɟ ʌ g u t
+14564	ASLIAN	3304	Semai	woʊʔ	woʊʔ	114	Semai	shade/shadow	4	shade/shadow/4	w o ʊ ʔ
+14565	ASLIAN	3315	Semelai	tduh	tduh	114	Semelai	shade/shadow	5	shade/shadow/5	t d u h
+14567	ASLIAN	3304	Temiar	wɔːʔ	wɔːʔ	114	Temiar	shade/shadow	4	shade/shadow/4	w ɔː ʔ
+14568	ASLIAN	3315	Temiar	sʌkul	sʌkul	114	Temiar	shade/shadow	5	shade/shadow/5	s ʌ k u l
+14569	ASLIAN	3324	Temiar	ɹʌdig	ɹʌdig	114	Temiar	shade/shadow	6	shade/shadow/6	ɹ ʌ d i g
+#
+14714	ASLIAN	3347	Temiar	ɹʌiwai	ɹʌiwai	115	Temiar	shame/ashamed	3	shame/ashamed/3	ɹ ʌ i w a i
+14707	ASLIAN	3328	Jahai	ʔɲsol	ʔɲsol	115	Jahai	shame/ashamed	1	shame/ashamed/1	ʔ ɲs o l
+14711	ASLIAN	3339	Semai	bʌsʌnɛl	bʌsʌnɛl	115	Semai	shame/ashamed	2	shame/ashamed/2	b ʌ s ʌ n ɛ l
+#
+14836	ASLIAN	3374	Kensiw	ɟamaʔ	ɟamaʔ	116	Kensiw	sharp (edged)	2	sharp (edged)/2	ɟ a m a ʔ
+14838	ASLIAN	3374	Maniq	cəmaʔ	cəmaʔ	116	Maniq	sharp (edged)	2	sharp (edged)/2	c ə m a ʔ
+14840	ASLIAN	3385	Semelai	ʔluh	ʔluh	116	Semelai	sharp (edged)	3	sharp (edged)/3	ʔ l u h
+14842	ASLIAN	3396	Temiar	pʌhenɟ	pʌhenɟ	116	Temiar	sharp (edged)	4	sharp (edged)/4	p ʌ h e n ɟ
+14833	ASLIAN	3364	CheqWong	cbɨt	cbɨt	116	Cheq-Wong	sharp (edged)	1	sharp (edged)/1	c b ɨ t
+14834	ASLIAN	3374	JahHut	cmaʔ	cmaʔ	116	Jah-Hut	sharp (edged)	2	sharp (edged)/2	c m a ʔ
+14835	ASLIAN	3374	Jahai	cmɛʔ	cmɛʔ	116	Jahai	sharp (edged)	2	sharp (edged)/2	c m ɛ ʔ
+#
+14964	ASLIAN	3414	JahHut	ɲaʔ	ɲaʔ	117	Jah-Hut	sick/ill	1	sick/ill/1	ɲ a ʔ
+14966	ASLIAN	3425	Kensiw	ɟɚpe̝s	ɟɚpe̝s	117	Kensiw	sick/ill	2	sick/ill/2	ɟ ɚ p e̝ s
+14967	ASLIAN	3414	Kensiw	ɟʌnɲieʔ	ɟʌnɲieʔ	117	Kensiw	sick/ill	1	sick/ill/1	ɟ ʌ n ɲ i e ʔ
+14969	ASLIAN	3436	MahMeri	sakit	sakit	117	Mah-Meri	sick/ill	3	sick/ill/3	s a k i t
+14971	ASLIAN	3414	Semai	ɲi	ɲi	117	Semai	sick/ill	1	sick/ill/1	ɲ i
+14972	ASLIAN	3414	Semelai	ʔɲih	ʔɲih	117	Semelai	sick/ill	1	sick/ill/1	ʔ ɲ i h
+14973	ASLIAN	3414	Semnam	ʔɲiʔ	ʔɲiʔ	117	Semnam	sick/ill	1	sick/ill/1	ʔ ɲ i ʔ
+14974	ASLIAN	3441	Temiar	ɟiʔ	ɟiʔ	117	Temiar	sick/ill	4	sick/ill/4	ɟ i ʔ
+#
+15103	ASLIAN	3447	Semelai	pruʔ	pruʔ	118	Semelai	six	1	six/1	p r u ʔ
+#
+15227	ASLIAN	3467	Maniq	katɨʔ	katɨʔ	119	Maniq	skin/bark	2	skin/bark/2	k a t ɨ ʔ
+15228	ASLIAN	3467	Semai	gʌtø	gʌtø	119	Semai	skin/bark	2	skin/bark/2	g ʌ t ø
+15222	ASLIAN	3456	CheqWong	hoʔ	hoʔ	119	Cheq-Wong	skin/bark	1	skin/bark/1	h o ʔ
+15223	ASLIAN	3467	JahHut	ktuʔ	ktuʔ	119	Jah-Hut	skin/bark	2	skin/bark/2	k t u ʔ
+15224	ASLIAN	3467	Jahai	ktɨʔ	ktɨʔ	119	Jahai	skin/bark	2	skin/bark/2	k t ɨ ʔ
+15225	ASLIAN	3467	Kensiw	kətɚʔ	kətɚʔ	119	Kensiw	skin/bark	2	skin/bark/2	k ə t ɚ ʔ
+15230	ASLIAN	3482	Semnam	katɛ̃ːk	katɛ̃ːk	119	Semnam	skin/bark	4	skin/bark/4	k a t ɛ̃ː k
+15231	ASLIAN	3483	Temiar	sempɔʔ	sempɔʔ	119	Temiar	skin/bark	5	skin/bark/5	s e m p ɔ ʔ
+#
+15353	ASLIAN	3488	Kensiw	mɛt katɔʔ	mɛt#katɔʔ	120	Kensiw	sky	1	sky/1	m ɛ t # k a t ɔ ʔ
+15357	ASLIAN	3510	Semai	suiʔ	suiʔ	120	Semai	sky	3	sky/3	s u i ʔ
+15352	ASLIAN	3488	Jahai	ktɔʔ	ktɔʔ	120	Jahai	sky	1	sky/1	k t ɔ ʔ
+15356	ASLIAN	3499	Maniq	kaʔej	kaʔej	120	Maniq	sky	2	sky/2	k a ʔ e j
+15358	ASLIAN	3521	Semelai	maleŋ	maleŋ	120	Semelai	sky	4	sky/4	m a l e ŋ
+15360	ASLIAN	3522	Temiar	baliːʔ	baliːʔ	120	Temiar	sky	5	sky/5	b a l iː ʔ
+#
+15490	ASLIAN	3527	Temiar	jaj	jaj	121	Temiar	smoke	1	smoke/1	j a j
+15481	ASLIAN	3527	CheqWong	sjaj	sjaj	121	Cheq-Wong	smoke	1	smoke/1	s j a j
+15485	ASLIAN	3549	MahMeri	jələk	jələk	121	Mah-Meri	smoke	3	smoke/3	j ə l ə k
+15482	ASLIAN	3538	JahHut	ʔasap	ʔasap	121	Jah-Hut	smoke	2	smoke/2	ʔ a s a p
+15483	ASLIAN	3527	Jahai	ʔəjʔej ʔɔs	ʔəjʔej#ʔɔs	121	Jahai	smoke	1	smoke/1	ʔ ə j ʔ e j # ʔ ɔ s
+15484	ASLIAN	3527	Kensiw	ʔijɛj	ʔijɛj	121	Kensiw	smoke	1	smoke/1	ʔ i j ɛ j
+15486	ASLIAN	3527	Maniq	ʔijɛj	ʔijɛj	121	Maniq	smoke	1	smoke/1	ʔ i j ɛ j
+15487	ASLIAN	3557	Semai	casoʊs / cas	casoʊs	121	Semai	smoke	4	smoke/4	c a s o ʊ s
+15488	ASLIAN	3549	Semelai	ɟlək	ɟlək	121	Semelai	smoke	3	smoke/3	ɟ l ə k
+15489	ASLIAN	3527	Semnam	gəːj ʔoːs	gəːj#ʔoːs	121	Semnam	smoke	1	smoke/1	g əː j # ʔ oː s
+#
+15614	ASLIAN	3574	Temiar	taɟuʔ	taɟuʔ	122	Temiar	snake	2	snake/2	t a ɟ u ʔ
+15605	ASLIAN	3563	CheqWong	talon	talon	122	Cheq-Wong	snake	1	snake/1	t a l o n
+15606	ASLIAN	3563	JahHut	talon	talon	122	Jah-Hut	snake	1	snake/1	t a l o n
+15607	ASLIAN	3574	Jahai	taɟuʔ	taɟuʔ	122	Jahai	snake	2	snake/2	t a ɟ u ʔ
+15609	ASLIAN	3574	MahMeri	tijaw	tijaw	122	Mah-Meri	snake	2	snake/2	t i j a w
+15610	ASLIAN	3575	Maniq	jəkɔp	jəkɔp	122	Maniq	snake	3	snake/3	j ə k ɔ p
+15608	ASLIAN	3575	Kensiw	ʔikɔp	ʔikɔp	122	Kensiw	snake	3	snake/3	ʔ i k ɔ p
+15611	ASLIAN	3574	Semai	tiɟi	tiɟi	122	Semai	snake	2	snake/2	t i ɟ i
+15612	ASLIAN	3574	Semelai	tiɟɔ	tiɟɔ	122	Semelai	snake	2	snake/2	t i ɟ ɔ
+15613	ASLIAN	3574	Semnam	taɟuːʔ	taɟuːʔ	122	Semnam	snake	2	snake/2	t a ɟ uː ʔ
+#
+15740	ASLIAN	3593	Semnam	lɲɔʔ	lɲɔʔ	123	Semnam	soft (touch)	2	soft (touch)/2	l ɲ ɔ ʔ
+15741	ASLIAN	3604	Temiar	pʌcɪʔ	pʌcɪʔ	123	Temiar	soft (touch)	3	soft (touch)/3	p ʌ c ɪ ʔ
+15738	ASLIAN	3582	Semai	ɟʌbuʔ	ɟʌbuʔ	123	Semai	soft (touch)	1	soft (touch)/1	ɟ ʌ b u ʔ
+#
+15875	ASLIAN	3627	Kensiw	pɚɟãs	pɚɟãs	124	Kensiw	sour	1	sour/1	p ɚ ɟ ã s
+15878	ASLIAN	3638	Semai	kʌʔøɹ	kʌʔøɹ	124	Semai	sour	2	sour/2	k ʌ ʔ ø ɹ
+15880	ASLIAN	3643	Semnam	bcuːɲ	bcuːɲ	124	Semnam	sour	3	sour/3	b c uː ɲ
+#
+15998	ASLIAN	3650	Jahai	prlɔj	prlɔj	125	Jahai	star	1	star/1	p r l ɔ j
+16003	ASLIAN	3650	Semai	prlɔːj	prlɔːj	125	Semai	star	1	star/1	p r l ɔː j
+16006	ASLIAN	3650	Temiar	pɛrlɔːj	pɛrlɔːj	125	Temiar	star	1	star/1	p ɛ r l ɔː j
+#
+16129	ASLIAN	3704	Semnam	tuŋkat	tuŋkat	126	Semnam	stick of wood	7	stick of wood/7	t u ŋ k a t
+16123	ASLIAN	3695	Jahai	ʔat	ʔat	126	Jahai	stick of wood	3	stick of wood/3	ʔ a t
+16121	ASLIAN	3674	CheqWong	tkəh	tkəh	126	Cheq-Wong	stick of wood	1	stick of wood/1	t k ə h
+16122	ASLIAN	3685	JahHut	kərəŋ	kərəŋ	126	Jah-Hut	stick of wood	2	stick of wood/2	k ə r ə ŋ
+16125	ASLIAN	3701	MahMeri	lɔ̤k	lɔ̤k	126	Mah-Meri	stick of wood	4	stick of wood/4	l ɔ̤ k
+16126	ASLIAN	3702	Maniq	ɲahuʔ	ɲahuʔ	126	Maniq	stick of wood	5	stick of wood/5	ɲ a h u ʔ
+16128	ASLIAN	3703	Semelai	dlɔŋ	dlɔŋ	126	Semelai	stick of wood	6	stick of wood/6	d l ɔ ŋ
+16130	ASLIAN	3695	Temiar	ʔaːd	ʔaːd	126	Temiar	stick of wood	3	stick of wood/3	ʔ aː d
+#
+16258	ASLIAN	3707	Semelai	təmu	təmu	127	Semelai	stone	1	stone/1	t ə m u
+16251	ASLIAN	3707	CheqWong	tmɔ̃ʔ	tmɔ̃ʔ	127	Cheq-Wong	stone	1	stone/1	t m ɔ̃ ʔ
+16252	ASLIAN	3707	JahHut	təmɔʔ	təmɔʔ	127	Jah-Hut	stone	1	stone/1	t ə m ɔ ʔ
+16253	ASLIAN	3718	Jahai	tuŋkɔ̃l	tuŋkɔ̃l	127	Jahai	stone	2	stone/2	t u ŋ k ɔ̃ l
+#
+16384	ASLIAN	3759	Semnam	mat jiːs	mat#jiːs	128	Semnam	sun/day	3	sun/day/3	m a t # j iː s
+16385	ASLIAN	3759	Temiar	ʔis	ʔis	128	Temiar	sun/day	3	sun/day/3	ʔ i s
+16378	ASLIAN	3737	Jahai	ktɔʔ	ktɔʔ	128	Jahai	sun/day	1	sun/day/1	k t ɔ ʔ
+16379	ASLIAN	3737	Kensiw	katɔʔ	katɔʔ	128	Kensiw	sun/day	1	sun/day/1	k a t ɔ ʔ
+16376	ASLIAN	3737	CheqWong	ktɔʔ	ktɔʔ	128	Cheq-Wong	sun/day	1	sun/day/1	k t ɔ ʔ
+16377	ASLIAN	3737	JahHut	ktɔʔ	ktɔʔ	128	Jah-Hut	sun/day	1	sun/day/1	k t ɔ ʔ
+16383	ASLIAN	3761	Semelai	ʔareʔ	ʔareʔ	128	Semelai	sun/day	4	sun/day/4	ʔ a r e ʔ
+16380	ASLIAN	3748	MahMeri	cohoj	cohoj	128	Mah-Meri	sun/day	2	sun/day/2	c o h o j
+16381	ASLIAN	3737	Maniq	katɔʔ	katɔʔ	128	Maniq	sun/day	1	sun/day/1	k a t ɔ ʔ
+16382	ASLIAN	3759	Semai	ɟis	ɟis	128	Semai	sun/day	3	sun/day/3	ɟ i s
+#
+16526	ASLIAN	3767	Jahai	bhɛt	bhɛt	129	Jahai	sweet	1	sweet/1	bh ɛ t
+16527	ASLIAN	3767	Kensiw	gɚhɛt	gɚhɛt	129	Kensiw	sweet	1	sweet/1	g ɚ h ɛ t
+16528	ASLIAN	3775	MahMeri	hɲit	hɲit	129	Mah-Meri	sweet	2	sweet/2	h ɲ i t
+16530	ASLIAN	3786	Semai	cʌʔɛt	cʌʔɛt	129	Semai	sweet	3	sweet/3	c ʌ ʔ ɛ t
+16531	ASLIAN	3792	Semelai	sɲɛk	sɲɛk	129	Semelai	sweet	4	sweet/4	s ɲ ɛ k
+16532	ASLIAN	3767	Semnam	bhɛt	bhɛt	129	Semnam	sweet	1	sweet/1	bh ɛ t
+16533	ASLIAN	3786	Temiar	cʌʔet	cʌʔet	129	Temiar	sweet	3	sweet/3	c ʌ ʔ e t
+16525	ASLIAN	3767	Jahai	bʔɨt	bʔɨt	129	Jahai	sweet	1	sweet/1	b ʔ ɨ t
+#
+16649	ASLIAN	3798	CheqWong	hateʔ	hateʔ	130	Cheq-Wong	tail	1	tail/1	h a t e ʔ
+16657	ASLIAN	3805	Semelai	pɒs	pɒs	130	Semelai	tail	2	tail/2	p ɒ s
+16658	ASLIAN	3798	Semnam	sntaːʔ	sntaːʔ	130	Semnam	tail	1	tail/1	s n t aː ʔ
+16659	ASLIAN	3798	Temiar	sʌntaːʔ	sʌntaːʔ	130	Temiar	tail	1	tail/1	s ʌ n t aː ʔ
+16650	ASLIAN	3798	JahHut	sntaʔ	sntaʔ	130	Jah-Hut	tail	1	tail/1	s n t a ʔ
+16651	ASLIAN	3798	Jahai	hatĩʔ	hatĩʔ	130	Jahai	tail	1	tail/1	h a t ĩ ʔ
+16652	ASLIAN	3798	Kensiw	hətiʔ	hətiʔ	130	Kensiw	tail	1	tail/1	h ə t i ʔ
+16654	ASLIAN	3798	Maniq	hatiʔ	hatiʔ	130	Maniq	tail	1	tail/1	h a t i ʔ
+16655	ASLIAN	3798	Semai	sɛnta / sntaːʔ	sɛnta	130	Semai	tail	1	tail/1	s ɛ n t a
+#
+16898	ASLIAN	3823	Jahai	tabɛl	tabɛl	132	Jahai	thick (object)	1	thick (object)/1	t a b ɛ l
+16899	ASLIAN	3834	Kensiw	gaʎpĩh	gaʎpĩh	132	Kensiw	thick (object)	2	thick (object)/2	g a ʎ p ĩ h
+16900	ASLIAN	3842	MahMeri	sǝɁ	sǝɁ	132	Mah-Meri	thick (object)	3	thick (object)/3	s ǝ Ɂ
+16903	ASLIAN	3842	Semelai	sɛ̃ʔ	sɛ̃ʔ	132	Semelai	thick (object)	3	thick (object)/3	s ɛ̃ ʔ
+16904	ASLIAN	3823	Semnam	tbaːl	tbaːl	132	Semnam	thick (object)	1	thick (object)/1	t b aː l
+16905	ASLIAN	3823	Temiar	tʌbal	tʌbal	132	Temiar	thick (object)	1	thick (object)/1	t ʌ b a l
+16896	ASLIAN	3823	CheqWong	tbəl	tbəl	132	Cheq-Wong	thick (object)	1	thick (object)/1	t b ə l
+#
+17023	ASLIAN	3849	CheqWong	stal	stal	133	Cheq-Wong	thin (object)	1	thin (object)/1	s t a l
+17026	ASLIAN	3884	Jahai	kurus	kurus	133	Jahai	thin (object)	43	thin (object)/43	k u r u s
+17027	ASLIAN	3849	Jahai	hatəl	hatəl	133	Jahai	thin (object)	1	thin (object)/1	h a t ə l
+17028	ASLIAN	3860	Kensiw	hɛtɛ	hɛtɛ	133	Kensiw	thin (object)	2	thin (object)/2	h ɛ t ɛ
+17029	ASLIAN	3871	MahMeri	sej	sej	133	Mah-Meri	thin (object)	3	thin (object)/3	s e j
+17030	ASLIAN	3880	Maniq	lakĩẽn	lakĩẽn	133	Maniq	thin (object)	4	thin (object)/4	l a k ĩ ẽ n
+17031	ASLIAN	3887	Semai	soʊɹ	soʊɹ	133	Semai	thin (object)	5	thin (object)/5	s o ʊ ɹ
+17032	ASLIAN	3871	Semelai	sej	sej	133	Semelai	thin (object)	3	thin (object)/3	s e j
+17033	ASLIAN	3888	Semnam	kbeːt	kbeːt	133	Semnam	thin (object)	6	thin (object)/6	k b eː t
+17034	ASLIAN	3889	Temiar	suaʔ	suaʔ	133	Temiar	thin (object)	7	thin (object)/7	s u a ʔ
+17035	ASLIAN	3887	Temiar	soːɹ	soːɹ	133	Temiar	thin (object)	5	thin (object)/5	s oː ɹ
+#
+17160	ASLIAN	3892	Jahai	ɟleʔ	ɟleʔ	134	Jahai	thorn	1	thorn/1	ɟ l e ʔ
+17161	ASLIAN	3892	Kensiw	ʔiliʔ	ʔiliʔ	134	Kensiw	thorn	1	thorn/1	ʔ i l i ʔ
+17162	ASLIAN	3903	MahMeri	duriɁ	duriɁ	134	Mah-Meri	thorn	2	thorn/2	d u r i Ɂ
+17164	ASLIAN	3892	Semai	ɟʌɹla	ɟʌɹla	134	Semai	thorn	1	thorn/1	ɟ ʌ ɹ l a
+17165	ASLIAN	3892	Semelai	ɟarla	ɟarla	134	Semelai	thorn	1	thorn/1	ɟ a r l a
+17166	ASLIAN	3892	Semnam	ɟilaːʔ	ɟilaːʔ	134	Semnam	thorn	1	thorn/1	ɟ i l aː ʔ
+17167	ASLIAN	3892	Temiar	ɟalaːʔ	ɟalaːʔ	134	Temiar	thorn	1	thorn/1	ɟ a l aː ʔ
+#
+17281	ASLIAN	3915	CheqWong	pɛt	pɛt	135	Cheq-Wong	three	1	three/1	p ɛ t
+17287	ASLIAN	3924	Semai	ni	ni	135	Semai	three	a	three/a	n i
+17288	ASLIAN	3915	Semelai	pɛʔ	pɛʔ	135	Semelai	three	1	three/1	p ɛ ʔ
+17290	ASLIAN	3916	Temiar	neʔ	neʔ	135	Temiar	three	2	three/2	n e ʔ
+17285	ASLIAN	3915	MahMeri	m̥peʔ	m̥peʔ	135	Mah-Meri	three	1	three/1	m̥ p e ʔ
+#
+17409	ASLIAN	3925	Kensiw	ʃeʎ siʔaʎ	ʃeʎ#siʔaʎ	136	Kensiw	to be born	1	to be born/1	ʃ e ʎ #s i ʔ a ʎ
+17410	ASLIAN	3936	MahMeri	ɟadiɁ	ɟadiɁ	136	Mah-Meri	to be born	2	to be born/2	ɟ a d i Ɂ
+17412	ASLIAN	3943	Semai	jos	jos	136	Semai	to be born	3	to be born/3	j o s
+17413	ASLIAN	3944	Semelai	cɒh	cɒh	136	Semelai	to be born	4	to be born/4	c ɒ h
+17415	ASLIAN	3945	Temiar	ɟʌnom	ɟʌnom	136	Temiar	to be born	5	to be born/5	ɟ ʌ n o m
+#
+17529	ASLIAN	3962	JahHut	rɛɲ	rɛɲ	137	Jah-Hut	to bite	2	to bite/2	r ɛ ɲ
+17530	ASLIAN	3951	Jahai	kap	kap	137	Jahai	to bite	1	to bite/1	k a p
+17531	ASLIAN	3951	Kensiw	kap	kap	137	Kensiw	to bite	1	to bite/1	k a p
+17532	ASLIAN	3972	MahMeri	gɛ̤k	gɛ̤k	137	Mah-Meri	to bite	3	to bite/3	g ɛ̤ k
+17533	ASLIAN	3951	Maniq	kap	kap	137	Maniq	to bite	1	to bite/1	k a p
+17534	ASLIAN	3951	Semai	kap	kap	137	Semai	to bite	1	to bite/1	k a p
+17535	ASLIAN	3972	Semelai	gɒɲ	gɒɲ	137	Semelai	to bite	3	to bite/3	g ɒ ɲ
+17536	ASLIAN	3951	Semnam	kap	kap	137	Semnam	to bite	1	to bite/1	k a p
+17537	ASLIAN	3951	Temiar	kab	kab	137	Temiar	to bite	1	to bite/1	k a b
+17528	ASLIAN	3951	CheqWong	kap	kap	137	Cheq-Wong	to bite	1	to bite/1	k a p
+#
+17656	ASLIAN	3980	JahHut	put	put	138	Jah-Hut	to blow	1	to blow/1	p u t
+17657	ASLIAN	3980	Jahai	pɨt	pɨt	138	Jahai	to blow	1	to blow/1	p ɨ t
+17658	ASLIAN	3982	Jahai	pʰos	pʰos	138	Jahai	to blow	2	to blow/2	pʰ o s
+17659	ASLIAN	3980	Kensiw	pət	pət	138	Kensiw	to blow	1	to blow/1	p ə t
+17660	ASLIAN	3993	MahMeri	kaʔɔh	kaʔɔh	138	Mah-Meri	to blow	3	to blow/3	k a ʔ ɔ h
+17661	ASLIAN	3980	Maniq	pɨt	pɨt	138	Maniq	to blow	1	to blow/1	p ɨ t
+17662	ASLIAN	3982	Semai	pɔɪ	pɔɪ	138	Semai	to blow	2	to blow/2	p ɔ ɪ
+17663	ASLIAN	3999	Semelai	pʰʉl	pʰʉl	138	Semelai	to blow	4	to blow/4	pʰ ʉ l
+17664	ASLIAN	3980	Semnam	tpəːt	tpəːt	138	Semnam	to blow	1	to blow/1	t p əː t
+17665	ASLIAN	3999	Temiar	təhoːl	təhoːl	138	Temiar	to blow	4	to blow/4	t ə h oː l
+17655	ASLIAN	3980	CheqWong	pət	pət	138	Cheq-Wong	to blow	1	to blow/1	p ə t
+#
+17788	ASLIAN	4025	MahMeri	trek napas	trek#napas	139	Mah-Meri	to breathe/breath	3	to breathe/breath/3	t r e k # n a p a s
+17789	ASLIAN	4006	Maniq	ɲkɲɛk	ɲkɲɛk	139	Maniq	to breathe/breath	1	to breathe/breath/1	ɲ k ɲ ɛ k
+17790	ASLIAN	4017	Semai	pɹʌŋhʌm	pɹʌŋhʌm	139	Semai	to breathe/breath	2	to breathe/breath/2	p ɹ ʌ ŋh ʌ m
+17791	ASLIAN	4017	Semelai	ʔahɔm	ʔahɔm	139	Semelai	to breathe/breath	2	to breathe/breath/2	ʔ a h ɔ m
+17792	ASLIAN	4006	Semnam	nkʰɛ̃ːk	nkʰɛ̃ːk	139	Semnam	to breathe/breath	1	to breathe/breath/1	n kʰ ɛ̃ː k
+17793	ASLIAN	4017	Temiar	hʌnʊm	hʌnʊm	139	Temiar	to breathe/breath	2	to breathe/breath/2	h ʌ n ʊ m
+17784	ASLIAN	4006	CheqWong	hnjɨk	hnjɨk	139	Cheq-Wong	to breathe/breath	1	to breathe/breath/1	h n j ɨ k
+17785	ASLIAN	4017	JahHut	tarek nəhɔm / hɔm	tarek#nəhɔm	139	Jah-Hut	to breathe/breath	2	to breathe/breath/2	t a r e k # n ə h ɔ m
+#
+17916	ASLIAN	4032	Jahai	ɟɨʔ	ɟɨʔ	140	Jahai	to burn (tr.)	1	to burn (tr.)/1	ɟ ɨ ʔ
+17917	ASLIAN	4043	Jahai	cɔm	cɔm	140	Jahai	to burn (tr.)	2	to burn (tr.)/2	c ɔ m
+17918	ASLIAN	4032	Kensiw	cɯʔ	cɯʔ	140	Kensiw	to burn (tr.)	1	to burn (tr.)/1	c ɯ ʔ
+17919	ASLIAN	4054	MahMeri	tut	tut	140	Mah-Meri	to burn (tr.)	3	to burn (tr.)/3	t u t
+17921	ASLIAN	4043	Semai	ɟɔp	ɟɔp	140	Semai	to burn (tr.)	2	to burn (tr.)/2	ɟ ɔ p
+17922	ASLIAN	4065	Semelai	cʰɔr	cʰɔr	140	Semelai	to burn (tr.)	4	to burn (tr.)/4	cʰ ɔ r
+17923	ASLIAN	4043	Semnam	coːm	coːm	140	Semnam	to burn (tr.)	2	to burn (tr.)/2	c oː m
+17924	ASLIAN	4074	Temiar	gʌiɟ / guɟ	gʌiɟ	140	Temiar	to burn (tr.)	5	to burn (tr.)/5	g ʌ i ɟ
+#
+18176	ASLIAN	4112	JahHut	wec	wec	142	Jah-Hut	to climb/ascend	1	to climb/ascend/1	w e c
+18177	ASLIAN	4151	Jahai	ciweh	ciweh	142	Jahai	to climb/ascend	45	to climb/ascend/45	c i w e h
+18178	ASLIAN	4123	Kensiw	celɔj	celɔj	142	Kensiw	to climb/ascend	2	to climb/ascend/2	c e l ɔ j
+18179	ASLIAN	4134	MahMeri	jal	jal	142	Mah-Meri	to climb/ascend	3	to climb/ascend/3	j a l
+18181	ASLIAN	4145	Semai	cat	cat	142	Semai	to climb/ascend	4	to climb/ascend/4	c a t
+18182	ASLIAN	4154	Semai	huit	huit	142	Semai	to climb/ascend	5	to climb/ascend/5	h u i t
+18183	ASLIAN	4155	Semelai	jɒr	jɒr	142	Semelai	to climb/ascend	6	to climb/ascend/6	j ɒ r
+18184	ASLIAN	4112	Semnam	ʔuːc	ʔuːc	142	Semnam	to climb/ascend	1	to climb/ascend/1	ʔ uː c
+18185	ASLIAN	4112	Temiar	neɟoɟ / oɟ	neɟoɟ	142	Temiar	to climb/ascend	1	to climb/ascend/1	n e ɟ o ɟ
+#
+18312	ASLIAN	4206	Jahai	pʔak	pʔak	143	Jahai	to cook/boil	52	to cook/boil/52	p ʔ a k
+18313	ASLIAN	4159	Jahai	pgoʔ	pgoʔ	143	Jahai	to cook/boil	1	to cook/boil/1	p g o ʔ
+18314	ASLIAN	4166	Jahai	ʔɲcen	ʔɲcen	143	Jahai	to cook/boil	16	to cook/boil/16	ʔ ɲ c e n
+18318	ASLIAN	4170	Semai	gap	gap	143	Semai	to cook/boil	2	to cook/boil/2	g a p
+18319	ASLIAN	4181	Semelai	ɟraŋ	ɟraŋ	143	Semelai	to cook/boil	3	to cook/boil/3	ɟ r a ŋ
+18321	ASLIAN	4170	Temiar	gap	gap	143	Temiar	to cook/boil	2	to cook/boil/2	g a p
+#
+18457	ASLIAN	4212	Jahai	ʔoh	ʔoh	144	Jahai	to cough	1	to cough/1	ʔ o h
+18461	ASLIAN	4226	Semai	kʌhɔl	kʌhɔl	144	Semai	to cough	3	to cough/3	k ʌ h ɔ l
+18463	ASLIAN	4226	Semnam	kʰɔl	kʰɔl	144	Semnam	to cough	3	to cough/3	kʰ ɔ l
+18464	ASLIAN	4226	Temiar	kʌhol	kʌhol	144	Temiar	to cough	3	to cough/3	k ʌ h o l
+18458	ASLIAN	4222	Kensiw	ɟəto̝h	ɟəto̝h	144	Kensiw	to cough	2	to cough/2	ɟ ə t o̝ h
+#
+18582	ASLIAN	4233	Jahai	ɟim	ɟim	145	Jahai	to cry/weep	1	to cry/weep/1	ɟ i m
+18583	ASLIAN	4233	Kensiw	cɪbm	cɪbm	145	Kensiw	to cry/weep	1	to cry/weep/1	c ɪ b m
+18584	ASLIAN	4233	MahMeri	ja̤p	ja̤p	145	Mah-Meri	to cry/weep	1	to cry/weep/1	j a̤ p
+18586	ASLIAN	4233	Semai	ɟaːp	ɟaːp	145	Semai	to cry/weep	1	to cry/weep/1	ɟ aː p
+18587	ASLIAN	4233	Semelai	ʔjam	ʔjam	145	Semelai	to cry/weep	1	to cry/weep/1	ʔ j a m
+18588	ASLIAN	4233	Semnam	jaːm	jaːm	145	Semnam	to cry/weep	1	to cry/weep/1	j aː m
+18589	ASLIAN	4233	Temiar	jaːp	jaːp	145	Temiar	to cry/weep	1	to cry/weep/1	j aː p
+#
+18712	ASLIAN	4272	MahMeri	cǝlǝj	cǝlǝj	146	Mah-Meri	to descend	3	to descend/3	c ǝ l ǝ j
+18715	ASLIAN	4276	Semelai	pʰʉl	pʰʉl	146	Semelai	to descend	4	to descend/4	pʰ ʉ l
+18716	ASLIAN	4277	Semnam	jiŋ	jiŋ	146	Semnam	to descend	5	to descend/5	j i ŋ
+18717	ASLIAN	4278	Temiar	ɹik	ɹik	146	Temiar	to descend	6	to descend/6	ɹ i k
+18709	ASLIAN	4251	Jahai	gɨs / gɛs	gɨs	146	Jahai	to descend	1	to descend/1	g ɨ s
+18710	ASLIAN	4274	Jahai	ɟlʔɨl	ɟlʔɨl	146	Jahai	to descend	31	to descend/31	ɟ l ʔ ɨ l
+18711	ASLIAN	4262	Kensiw	sa	sa	146	Kensiw	to descend	2	to descend/2	s a
+18714	ASLIAN	4272	Semai	cʌlʌh	cʌlʌh	146	Semai	to descend	3	to descend/3	c ʌ l ʌ h
+#
+18837	ASLIAN	4295	Semai	datn	datn	147	Semai	to die	3	to die/3	d a t n
+18838	ASLIAN	4282	Semelai	kʰəbəs	kʰəbəs	147	Semelai	to die	1	to die/1	kʰ ə b ə s
+18831	ASLIAN	4282	CheqWong	kbɨs	kbɨs	147	Cheq-Wong	to die	1	to die/1	k b ɨ s
+18832	ASLIAN	4282	JahHut	kbɨs	kbɨs	147	Jah-Hut	to die	1	to die/1	k b ɨ s
+18833	ASLIAN	4282	Jahai	kbis	kbis	147	Jahai	to die	1	to die/1	k b i s
+18834	ASLIAN	4282	Kensiw	gabis	gabis	147	Kensiw	to die	1	to die/1	g a b i s
+18835	ASLIAN	4282	MahMeri	kəbəs	kəbəs	147	Mah-Meri	to die	1	to die/1	k ə b ə s
+18836	ASLIAN	4293	Maniq	sɔʔ	sɔʔ	147	Maniq	to die	2	to die/2	s ɔ ʔ
+18839	ASLIAN	4282	Semnam	kbəs	kbəs	147	Semnam	to die	1	to die/1	k b ə s
+18840	ASLIAN	4282	Temiar	kəbəs	kəbəs	147	Temiar	to die	1	to die/1	k ə b ə s
+#
+18954	ASLIAN	4302	CheqWong	bɑj	bɑj	148	Cheq-Wong	to dig	1	to dig/1	b ɑ j
+18955	ASLIAN	4313	JahHut	cwɔm	cwɔm	148	Jah-Hut	to dig	2	to dig/2	c w ɔ m
+18956	ASLIAN	4302	Jahai	baj	baj	148	Jahai	to dig	1	to dig/1	b a j
+18957	ASLIAN	4302	Kensiw	baj	baj	148	Kensiw	to dig	1	to dig/1	b a j
+18958	ASLIAN	4323	MahMeri	kokoc	kokoc	148	Mah-Meri	to dig	3	to dig/3	k o k o c
+18960	ASLIAN	4313	Semai	coʊp	coʊp	148	Semai	to dig	2	to dig/2	c o ʊ p
+18961	ASLIAN	4302	Semelai	bɒj	bɒj	148	Semelai	to dig	1	to dig/1	b ɒ j
+18963	ASLIAN	4333	Temiar	pʊg / puʔ	pʊg	148	Temiar	to dig	5	to dig/5	p ʊ g
+18959	ASLIAN	4332	Maniq	ce	ce	148	Maniq	to dig	4	to dig/4	c e
+18962	ASLIAN	4302	Semnam	baːj	baːj	148	Semnam	to dig	1	to dig/1	b aː j
+#
+19088	ASLIAN	4338	Jahai	jɲjɛɲ	jɲjɛɲ	149	Jahai	to dream	1	to dream/1	j ɲ j ɛ ɲ
+19089	ASLIAN	4344	Kensiw	ʔipaʔ	ʔipaʔ	149	Kensiw	to dream	2	to dream/2	ʔ i p a ʔ
+19092	ASLIAN	4346	Semai	mpoʊ	mpoʊ	149	Semai	to dream	4	to dream/4	m p o ʊ
+19093	ASLIAN	4346	Semelai	po	po	149	Semelai	to dream	4	to dream/4	p o
+19095	ASLIAN	4346	Temiar	poʔ	poʔ	149	Temiar	to dream	4	to dream/4	p o ʔ
+19090	ASLIAN	4345	MahMeri	mamaj	mamaj	149	Mah-Meri	to dream	3	to dream/3	m a m a j
+19094	ASLIAN	4346	Semnam	tapɔʔ	tapɔʔ	149	Semnam	to dream	4	to dream/4	t a p ɔ ʔ
+#
+19209	ASLIAN	4352	CheqWong	ʔuh	ʔuh	150	Cheq-Wong	to drink (water)	1	to drink (water)/1	ʔ u h
+19210	ASLIAN	4352	JahHut	wəh	wəh	150	Jah-Hut	to drink (water)	1	to drink (water)/1	w ə h
+19211	ASLIAN	4363	Jahai	huc	huc	150	Jahai	to drink (water)	2	to drink (water)/2	h u c
+19212	ASLIAN	4374	Kensiw	buʔ	buʔ	150	Kensiw	to drink (water)	3	to drink (water)/3	b u ʔ
+19213	ASLIAN	4385	MahMeri	cado	cado	150	Mah-Meri	to drink (water)	4	to drink (water)/4	c a d o
+19214	ASLIAN	4374	Maniq	buʔ	buʔ	150	Maniq	to drink (water)	3	to drink (water)/3	b u ʔ
+19215	ASLIAN	4386	Semai	ŋɔːt / ɲɔːʔ	ŋɔːt	150	Semai	to drink (water)	5	to drink (water)/5	ŋ ɔː t
+19216	ASLIAN	4352	Semelai	ɟʔɔh	ɟʔɔh	150	Semelai	to drink (water)	1	to drink (water)/1	ɟ ʔ ɔ h
+19218	ASLIAN	4387	Temiar	ʔɔːk	ʔɔːk	150	Temiar	to drink (water)	6	to drink (water)/6	ʔ ɔː k
+#
+19340	ASLIAN	4408	Maniq	hãw	hãw	151	Maniq	to eat	3	to eat/3	h ã w
+19342	ASLIAN	4391	Semelai	ca	ca	151	Semelai	to eat	1	to eat/1	c a
+19334	ASLIAN	4391	CheqWong	cəʔ	cəʔ	151	Cheq-Wong	to eat	1	to eat/1	c ə ʔ
+19335	ASLIAN	4391	JahHut	caʔ	caʔ	151	Jah-Hut	to eat	1	to eat/1	c a ʔ
+19336	ASLIAN	4400	Jahai	ɲɛm	ɲɛm	151	Jahai	to eat	2	to eat/2	ɲ ɛ m
+19337	ASLIAN	4409	Jahai	gej	gej	151	Jahai	to eat	4	to eat/4	g e j
+19338	ASLIAN	4391	Kensiw	ciʔ	ciʔ	151	Kensiw	to eat	1	to eat/1	c i ʔ
+19339	ASLIAN	4391	MahMeri	naca	naca	151	Mah-Meri	to eat	1	to eat/1	n a c a
+19341	ASLIAN	4391	Semai	ca	ca	151	Semai	to eat	1	to eat/1	c a
+19343	ASLIAN	4409	Semnam	gɛːj	gɛːj	151	Semnam	to eat	4	to eat/4	g ɛː j
+19344	ASLIAN	4391	Temiar	caːʔ	caːʔ	151	Temiar	to eat	1	to eat/1	c aː ʔ
+#
+19479	ASLIAN	4433	Semnam	wieːŋ	wieːŋ	152	Semnam	to extinguish/put out	3	to extinguish/put out/3	w i eː ŋ
+19477	ASLIAN	4426	Semai	pʌɹlɛt	pʌɹlɛt	152	Semai	to extinguish/put out	2	to extinguish/put out/2	p ʌ ɹ l ɛ t
+19478	ASLIAN	4426	Semelai	ʔlət	ʔlət	152	Semelai	to extinguish/put out	2	to extinguish/put out/2	ʔ l ə t
+19480	ASLIAN	4415	Temiar	pʌd	pʌd	152	Temiar	to extinguish/put out	1	to extinguish/put out/1	p ʌ d
+19473	ASLIAN	4415	Jahai	pɨt	pɨt	152	Jahai	to extinguish/put out	1	to extinguish/put out/1	p ɨ t
+19474	ASLIAN	4426	Kensiw	pilit	pilit	152	Kensiw	to extinguish/put out	2	to extinguish/put out/2	p i l i t
+19475	ASLIAN	4426	MahMeri	pǝlǝt	pǝlǝt	152	Mah-Meri	to extinguish/put out	2	to extinguish/put out/2	p ǝ l ǝ t
+#
+19606	ASLIAN	4508	Semelai	grək	grək	153	Semelai	to fall	8	to fall/8	g r ə k
+19607	ASLIAN	4462	Semnam	kəl	kəl	153	Semnam	to fall	3	to fall/3	k ə l
+19609	ASLIAN	4509	Temiar	kʌlɨʔ	kʌlɨʔ	153	Temiar	to fall	9	to fall/9	k ʌ l ɨ ʔ
+19596	ASLIAN	4440	CheqWong	ras	ras	153	Cheq-Wong	to fall	1	to fall/1	r a s
+19597	ASLIAN	4440	JahHut	crəh	crəh	153	Jah-Hut	to fall	1	to fall/1	c r ə h
+19598	ASLIAN	4451	Jahai	gibal	gibal	153	Jahai	to fall	2	to fall/2	g i b a l
+19599	ASLIAN	4462	Jahai	kulkil	kulkil	153	Jahai	to fall	3	to fall/3	k u l k i l
+19600	ASLIAN	4440	Jahai	rɛs	rɛs	153	Jahai	to fall	1	to fall/1	r ɛ s
+19601	ASLIAN	4473	Kensiw	katɔh	katɔh	153	Kensiw	to fall	4	to fall/4	k a t ɔ h
+19602	ASLIAN	4440	Kensiw	hɔ̃s	hɔ̃s	153	Kensiw	to fall	1	to fall/1	h ɔ̃ s
+19603	ASLIAN	4484	MahMeri	gwɔ̤c	gwɔ̤c	153	Mah-Meri	to fall	5	to fall/5	g w ɔ̤ c
+19604	ASLIAN	4495	Maniq	jəmpɨh	jəmpɨh	153	Maniq	to fall	6	to fall/6	j ə m p ɨ h
+19605	ASLIAN	4505	Semai	ɟuʌɹ	ɟuʌɹ	153	Semai	to fall	7	to fall/7	ɟ u ʌ ɹ
+19608	ASLIAN	4440	Temiar	ɹɔh	ɹɔh	153	Temiar	to fall	1	to fall/1	ɹ ɔ h
+#
+19759	ASLIAN	4510	CheqWong	dəʔ	dəʔ	154	Cheq-Wong	to flee/run (away)	1	to flee/run (away)/1	d ə ʔ
+19760	ASLIAN	4510	JahHut	duɁ	duɁ	154	Jah-Hut	to flee/run (away)	1	to flee/run (away)/1	d u Ɂ
+19761	ASLIAN	4521	Jahai	lɔj	lɔj	154	Jahai	to flee/run (away)	2	to flee/run (away)/2	l ɔ j
+19762	ASLIAN	4532	Kensiw	paŋ	paŋ	154	Kensiw	to flee/run (away)	3	to flee/run (away)/3	p a ŋ
+19763	ASLIAN	4510	MahMeri	duɁ	duɁ	154	Mah-Meri	to flee/run (away)	1	to flee/run (away)/1	d u Ɂ
+19765	ASLIAN	4510	Semai	dadø	dadø	154	Semai	to flee/run (away)	1	to flee/run (away)/1	d a d ø
+19766	ASLIAN	4543	Semai	ɟaɹ	ɟaɹ	154	Semai	to flee/run (away)	4	to flee/run (away)/4	ɟ a ɹ
+19767	ASLIAN	4554	Semelai	paloh	paloh	154	Semelai	to flee/run (away)	5	to flee/run (away)/5	p a l o h
+19768	ASLIAN	4554	Semelai	brhluh	brhluh	154	Semelai	to flee/run (away)	5	to flee/run (away)/5	b rh l u h
+19769	ASLIAN	4510	Semnam	deʔ	deʔ	154	Semnam	to flee/run (away)	1	to flee/run (away)/1	d e ʔ
+19770	ASLIAN	4510	Temiar	dɨ / doʔ	dɨ	154	Temiar	to flee/run (away)	1	to flee/run (away)/1	d ɨ
+#
+19910	ASLIAN	4572	Jahai	kapɨj	kapɨj	155	Jahai	to fly	1	to fly/1	k a p ɨ j
+19911	ASLIAN	4583	Jahai	halaʔ	halaʔ	155	Jahai	to fly	2	to fly/2	h a l a ʔ
+19912	ASLIAN	4572	Kensiw	kapɨj	kapɨj	155	Kensiw	to fly	1	to fly/1	k a p ɨ j
+19913	ASLIAN	4587	MahMeri	thiŋ	thiŋ	155	Mah-Meri	to fly	3	to fly/3	th i ŋ
+19914	ASLIAN	4588	MahMeri	toc	toc	155	Mah-Meri	to fly	4	to fly/4	t o c
+19916	ASLIAN	4589	Semai	hɛːkŋ / heɪʔ	hɛːkŋ	155	Semai	to fly	5	to fly/5	h ɛː k ŋ
+19917	ASLIAN	4572	Semelai	pər	pər	155	Semelai	to fly	1	to fly/1	p ə r
+19918	ASLIAN	4589	Semnam	hɛːŋ	hɛːŋ	155	Semnam	to fly	5	to fly/5	h ɛː ŋ
+19919	ASLIAN	4589	Temiar	heːg / heːʔ	heːg	155	Temiar	to fly	5	to fly/5	h eː g
+#
+20037	ASLIAN	4594	Jahai	krlep	krlep	156	Jahai	to forget	1	to forget/1	k r l e p
+20041	ASLIAN	4605	Semai	seɪp	seɪp	156	Semai	to forget	2	to forget/2	s e ɪ p
+20043	ASLIAN	4594	Semnam	kilɛːp	kilɛːp	156	Semnam	to forget	1	to forget/1	k i l ɛː p
+20044	ASLIAN	4616	Temiar	wʌl	wʌl	156	Temiar	to forget	3	to forget/3	w ʌ l
+#
+20171	ASLIAN	4661	Semelai	ɟon	ɟon	157	Semelai	to give	5	to give/5	ɟ o n
+20162	ASLIAN	4632	CheqWong	ʔak	ʔak	157	Cheq-Wong	to give	1	to give/1	ʔ a k
+20163	ASLIAN	4632	JahHut	ʔɔk	ʔɔk	157	Jah-Hut	to give	1	to give/1	ʔ ɔ k
+20164	ASLIAN	4632	Jahai	ʔɛk	ʔɛk	157	Jahai	to give	1	to give/1	ʔ ɛ k
+20165	ASLIAN	4632	Kensiw	ʔek	ʔek	157	Kensiw	to give	1	to give/1	ʔ e k
+20166	ASLIAN	4643	MahMeri	jə̤t	jə̤t	157	Mah-Meri	to give	2	to give/2	j ə̤ t
+20167	ASLIAN	4632	Maniq	ʔɛk	ʔɛk	157	Maniq	to give	1	to give/1	ʔ ɛ k
+20168	ASLIAN	4632	Semai	ʔɔːk	ʔɔːk	157	Semai	to give	1	to give/1	ʔ ɔː k
+20169	ASLIAN	4654	Semelai	haʔgiʔ	haʔgiʔ	157	Semelai	to give	3	to give/3	h a ʔ g i ʔ
+20170	ASLIAN	4660	Semelai	turɟoʔ	turɟoʔ	157	Semelai	to give	4	to give/4	t u r ɟ o ʔ
+20172	ASLIAN	4632	Semnam	ʔok	ʔok	157	Semnam	to give	1	to give/1	ʔ o k
+20173	ASLIAN	4632	Temiar	ʔog	ʔog	157	Temiar	to give	1	to give/1	ʔ o g
+#
+20294	ASLIAN	4677	JahHut	tiŋɔj	tiŋɔj	158	Jah-Hut	to hear	2	to hear/2	t i ŋ ɔ j
+20293	ASLIAN	4666	CheqWong	kɟəŋ	kɟəŋ	158	Cheq-Wong	to hear	1	to hear/1	k ɟ ə ŋ
+20295	ASLIAN	4688	Jahai	ken	ken	158	Jahai	to hear	3	to hear/3	k e n
+20296	ASLIAN	4666	Jahai	kɟeŋ	kɟeŋ	158	Jahai	to hear	1	to hear/1	k ɟ e ŋ
+20297	ASLIAN	4666	Kensiw	gɚɟe̝gŋ	gɚɟe̝gŋ	158	Kensiw	to hear	1	to hear/1	g ɚ ɟ e̝ g ŋ
+20298	ASLIAN	4666	MahMeri	kajə̤k	kajə̤k	158	Mah-Meri	to hear	1	to hear/1	k a j ə̤ k
+20299	ASLIAN	4666	Maniq	kajeŋ	kajeŋ	158	Maniq	to hear	1	to hear/1	k a j e ŋ
+20300	ASLIAN	4699	Semai	gʌɹtøʔ	gʌɹtøʔ	158	Semai	to hear	4	to hear/4	g ʌ ɹ t ø ʔ
+20301	ASLIAN	4666	Semelai	Ɂjəŋ	Ɂjəŋ	158	Semelai	to hear	1	to hear/1	Ɂ j ə ŋ
+20302	ASLIAN	4666	Semnam	jɔŋ	jɔŋ	158	Semnam	to hear	1	to hear/1	j ɔ ŋ
+20303	ASLIAN	4666	Temiar	kʌjok / kioʔ	kʌjok	158	Temiar	to hear	1	to hear/1	k ʌ j o k
+#
+20432	ASLIAN	4764	Temiar	tʌɹpot	tʌɹpot	159	Temiar	to hide/conceal (tr.)	7	to hide/conceal (tr.)/7	t ʌ ɹ p o t
+20424	ASLIAN	4709	Jahai	dol / pidol	dol	159	Jahai	to hide/conceal (tr.)	1	to hide/conceal (tr.)/1	d o l
+20425	ASLIAN	4720	Kensiw	kitiŋ	kitiŋ	159	Kensiw	to hide/conceal (tr.)	2	to hide/conceal (tr.)/2	k i t i ŋ
+20426	ASLIAN	4731	MahMeri	kǝndeɁ	kǝndeɁ	159	Mah-Meri	to hide/conceal (tr.)	3	to hide/conceal (tr.)/3	k ǝ n d e Ɂ
+20428	ASLIAN	4742	Semai	cʌɹnʌm	cʌɹnʌm	159	Semai	to hide/conceal (tr.)	4	to hide/conceal (tr.)/4	c ʌ ɹ n ʌ m
+20429	ASLIAN	4753	Semai	bʌɹcøp	bʌɹcøp	159	Semai	to hide/conceal (tr.)	5	to hide/conceal (tr.)/5	b ʌ ɹ c ø p
+20430	ASLIAN	4763	Semelai	ʔɔɲ	ʔɔɲ	159	Semelai	to hide/conceal (tr.)	6	to hide/conceal (tr.)/6	ʔ ɔ ɲ
+20431	ASLIAN	4764	Semnam	tipoːn	tipoːn	159	Semnam	to hide/conceal (tr.)	7	to hide/conceal (tr.)/7	t i p oː n
+#
+20563	ASLIAN	4767	Jahai	sam	sam	160	Jahai	to hunt	1	to hunt/1	s a m
+20564	ASLIAN	4778	Kensiw	pədɔʔ	pədɔʔ	160	Kensiw	to hunt	2	to hunt/2	p ə d ɔ ʔ
+20565	ASLIAN	4789	MahMeri	Ɂintaj	Ɂintaj	160	Mah-Meri	to hunt	3	to hunt/3	Ɂ i n t a j
+20567	ASLIAN	4800	Semai	hoh	hoh	160	Semai	to hunt	4	to hunt/4	h o h
+20568	ASLIAN	4789	Semelai	brintaj	brintaj	160	Semelai	to hunt	3	to hunt/3	b r i n t a j
+20569	ASLIAN	4778	Semnam	pdɔːʔ	pdɔːʔ	160	Semnam	to hunt	2	to hunt/2	p d ɔː ʔ
+20570	ASLIAN	4811	Semnam	tktũːk	tktũːk	160	Semnam	to hunt	5	to hunt/5	t k t ũː k
+20571	ASLIAN	4822	Temiar	dʌp	dʌp	160	Temiar	to hunt	6	to hunt/6	d ʌ p
+#
+20698	ASLIAN	4843	Kensiw	bəɲaɲ	bəɲaɲ	161	Kensiw	to itch/itchy	2	to itch/itchy/2	b ə ɲ a ɲ
+20699	ASLIAN	4854	Kensiw	bəraɲ	bəraɲ	161	Kensiw	to itch/itchy	3	to itch/itchy/3	b ə r a ɲ
+20700	ASLIAN	4860	MahMeri	gatal	gatal	161	Mah-Meri	to itch/itchy	4	to itch/itchy/4	g a t a l
+20702	ASLIAN	4861	Semai	bʌheɪt	bʌheɪt	161	Semai	to itch/itchy	5	to itch/itchy/5	b ʌ h e ɪ t
+20703	ASLIAN	4843	Semelai	miɲaŋ	miɲaŋ	161	Semelai	to itch/itchy	2	to itch/itchy/2	m i ɲ a ŋ
+20704	ASLIAN	4854	Semelai	mrəɲ	mrəɲ	161	Semelai	to itch/itchy	3	to itch/itchy/3	m r ə ɲ
+20706	ASLIAN	4862	Temiar	bʌhʌic	bʌhʌic	161	Temiar	to itch/itchy	6	to itch/itchy/6	b ʌ h ʌ i c
+#
+20827	ASLIAN	4866	MahMeri	tǝnda̤k	tǝnda̤k	162	Mah-Meri	to kick	1	to kick/1	t ǝ n d a̤ k
+20829	ASLIAN	4877	Semai	cʌgoʔ	cʌgoʔ	162	Semai	to kick	2	to kick/2	c ʌ g o ʔ
+20831	ASLIAN	4888	Semnam	tət	tət	162	Semnam	to kick	3	to kick/3	t ə t
+20832	ASLIAN	4899	Temiar	bʌhod	bʌhod	162	Temiar	to kick	4	to kick/4	b ʌ h o d
+#
+20965	ASLIAN	4935	Jahai	kə̃s	kə̃s	163	Jahai	to kill	25	to kill/25	k ə̃ s
+20967	ASLIAN	4918	MahMeri	pɔ̤k	pɔ̤k	163	Mah-Meri	to kill	1	to kill/1	p ɔ̤ k
+20968	ASLIAN	4929	MahMeri	kəmbəs	kəmbəs	163	Mah-Meri	to kill	2	to kill/2	k ə m b ə s
+20970	ASLIAN	4936	Semai	pərdat	pərdat	163	Semai	to kill	3	to kill/3	p ə r d a t
+20972	ASLIAN	4929	Semnam	kjibəs	kjibəs	163	Semnam	to kill	2	to kill/2	k j i b ə s
+20973	ASLIAN	4929	Temiar	kʌɹbɨs	kʌɹbɨs	163	Temiar	to kill	2	to kill/2	k ʌ ɹ b ɨ s
+#
+21088	ASLIAN	4943	CheqWong	harən	harən	164	Cheq-Wong	to know	1	to know/1	h a r ə n
+21089	ASLIAN	4954	JahHut	sərəʔ	sərəʔ	164	Jah-Hut	to know	2	to know/2	s ə r ə ʔ
+21090	ASLIAN	4965	Jahai	ʔtʔet	ʔtʔet	164	Jahai	to know	3	to know/3	ʔ t ʔ e t
+21091	ASLIAN	4976	Kensiw	haɟɯp	haɟɯp	164	Kensiw	to know	4	to know/4	h a ɟ ɯ p
+21092	ASLIAN	4954	MahMeri	sərəʔ	sərəʔ	164	Mah-Meri	to know	2	to know/2	s ə r ə ʔ
+21093	ASLIAN	4976	Maniq	haʔɨp	haʔɨp	164	Maniq	to know	4	to know/4	h a ʔ ɨ p
+21095	ASLIAN	4987	Semai	panɛj	panɛj	164	Semai	to know	5	to know/5	p a n ɛ j
+21096	ASLIAN	4998	Semelai	kʰɛʔ	kʰɛʔ	164	Semelai	to know	6	to know/6	kʰ ɛ ʔ
+21097	ASLIAN	4999	Semnam	liːp	liːp	164	Semnam	to know	7	to know/7	l iː p
+21098	ASLIAN	5000	Temiar	leʔ	leʔ	164	Temiar	to know	8	to know/8	l e ʔ
+#
+21235	ASLIAN	5002	Semnam	lkluk	lkluk	165	Semnam	to laugh	1	to laugh/1	l k l u k
+21236	ASLIAN	5002	Temiar	lug	lug	165	Temiar	to laugh	1	to laugh/1	l u g
+21227	ASLIAN	5031	Jahai	sitkət	sitkət	165	Jahai	to laugh	36	to laugh/36	s i t k ə t
+21228	ASLIAN	5002	Jahai	lkluk	lkluk	165	Jahai	to laugh	1	to laugh/1	l k l u k
+21230	ASLIAN	5013	Kensiw	ɟihah	ɟihah	165	Kensiw	to laugh	2	to laugh/2	ɟ i h a h
+21232	ASLIAN	5002	Maniq	pikluk	pikluk	165	Maniq	to laugh	1	to laugh/1	p i k l u k
+21233	ASLIAN	5002	Semai	luʔ	luʔ	165	Semai	to laugh	1	to laugh/1	l u ʔ
+#
+21353	ASLIAN	5038	Jahai	kal	kal	166	Jahai	to lick	1	to lick/1	k a l
+21354	ASLIAN	5049	Jahai	blɛk	blɛk	166	Jahai	to lick	2	to lick/2	b l ɛ k
+21355	ASLIAN	5060	Kensiw	but	but	166	Kensiw	to lick	3	to lick/3	b u t
+21358	ASLIAN	5063	Semai	bøit	bøit	166	Semai	to lick	4	to lick/4	b ø i t
+21359	ASLIAN	5049	Semelai	lek	lek	166	Semelai	to lick	2	to lick/2	l e k
+21361	ASLIAN	5063	Temiar	bɔɟ	bɔɟ	166	Temiar	to lick	4	to lick/4	b ɔ ɟ
+#
+21478	ASLIAN	5069	CheqWong	bɨl	bɨl	167	Cheq-Wong	to rub/wipe	1	to rub/wipe/1	b ɨ l
+21479	ASLIAN	5080	JahHut	kwak	kwak	167	Jah-Hut	to rub/wipe	2	to rub/wipe/2	k w a k
+21480	ASLIAN	5091	Jahai	hakat	hakat	167	Jahai	to rub/wipe	3	to rub/wipe/3	h a k a t
+21482	ASLIAN	5113	Kensiw	ɟəd	ɟəd	167	Kensiw	to rub/wipe	5	to rub/wipe/5	ɟ ə d
+21483	ASLIAN	5124	MahMeri	tampɔs	tampɔs	167	Mah-Meri	to rub/wipe	6	to rub/wipe/6	t a m p ɔ s
+21484	ASLIAN	5130	Maniq	cet	cet	167	Maniq	to rub/wipe	7	to rub/wipe/7	c e t
+21485	ASLIAN	5131	Semai	tasaʔ	tasaʔ	167	Semai	to rub/wipe	8	to rub/wipe/8	t a s a ʔ
+21488	ASLIAN	5070	Temiar	gaɲap	gaɲap	167	Temiar	to rub/wipe	10	to rub/wipe/10	g a ɲ a p
+21487	ASLIAN	5132	Semnam	tɨːn	tɨːn	167	Semnam	to rub/wipe	9	to rub/wipe/9	t ɨː n
+21489	ASLIAN	5071	Temiar	giːd	giːd	167	Temiar	to rub/wipe	11	to rub/wipe/11	g iː d
+21481	ASLIAN	5102	Kensiw	kɔsɔʔ	kɔsɔʔ	167	Kensiw	to rub/wipe	4	to rub/wipe/4	k ɔ s ɔ ʔ
+#
+21657	ASLIAN	5174	Jahai	pŋsɛŋ	pŋsɛŋ	168	Jahai	to say/speak	4	to say/speak/4	p ŋs ɛ ŋ
+21658	ASLIAN	5185	Kensiw	sɛmagŋ	sɛmagŋ	168	Kensiw	to say/speak	5	to say/speak/5	s ɛ m a g ŋ
+21659	ASLIAN	5196	MahMeri	kədɔ	kədɔ	168	Mah-Meri	to say/speak	6	to say/speak/6	k ə d ɔ
+21660	ASLIAN	5207	Maniq	bijɔh	bijɔh	168	Maniq	to say/speak	7	to say/speak/7	b i j ɔ h
+21661	ASLIAN	5218	Semai	ʔuɹoʊʔ	ʔuɹoʊʔ	168	Semai	to say/speak	8	to say/speak/8	ʔ u ɹ o ʊ ʔ
+21662	ASLIAN	5229	Semai	pʌdiɹ	pʌdiɹ	168	Semai	to say/speak	9	to say/speak/9	p ʌ d i ɹ
+21663	ASLIAN	5134	Semai	bʌdɔɪ	bʌdɔɪ	168	Semai	to say/speak	10	to say/speak/10	b ʌ d ɔ ɪ
+21664	ASLIAN	5143	Semelai	cəl	cəl	168	Semelai	to say/speak	11	to say/speak/11	c ə l
+21665	ASLIAN	5144	Semelai	cɒkɒp	cɒkɒp	168	Semelai	to say/speak	12	to say/speak/12	c ɒ k ɒ p
+21666	ASLIAN	5145	Semnam	pihbəːh	pihbəːh	168	Semnam	to say/speak	13	to say/speak/13	p i h b əː h
+21667	ASLIAN	5146	Temiar	bʌcag	bʌcag	168	Temiar	to say/speak	14	to say/speak/14	b ʌ c a g
+21668	ASLIAN	5147	Temiar	baɹkui	baɹkui	168	Temiar	to say/speak	15	to say/speak/15	b a ɹ k u i
+21654	ASLIAN	5133	CheqWong	bət	bət	168	Cheq-Wong	to say/speak	1	to say/speak/1	b ə t
+21655	ASLIAN	5152	JahHut	wajat	wajat	168	Jah-Hut	to say/speak	2	to say/speak/2	w a j a t
+21656	ASLIAN	5163	Jahai	kdɨh	kdɨh	168	Jahai	to say/speak	3	to say/speak/3	k d ɨ h
+#
+21839	ASLIAN	5251	Maniq	hijet	hijet	169	Maniq	to scratch/scrape	2	to scratch/scrape/2	h i j e t
+21832	ASLIAN	5240	CheqWong	kɑc	kɑc	169	Cheq-Wong	to scratch/scrape	1	to scratch/scrape/1	k ɑ c
+21834	ASLIAN	5240	Jahai	kac	kac	169	Jahai	to scratch/scrape	1	to scratch/scrape/1	k a c
+21836	ASLIAN	5240	Jahai	hakat	hakat	169	Jahai	to scratch/scrape	1	to scratch/scrape/1	h a k a t
+21837	ASLIAN	5240	Kensiw	kat / kac	kat	169	Kensiw	to scratch/scrape	1	to scratch/scrape/1	k a t
+21838	ASLIAN	5240	MahMeri	kakac	kakac	169	Mah-Meri	to scratch/scrape	1	to scratch/scrape/1	k a k a c
+21840	ASLIAN	5262	Semai	guɹɪs / gih	guɹɪs	169	Semai	to scratch/scrape	3	to scratch/scrape/3	g u ɹ ɪ s
+21842	ASLIAN	5262	Semelai	geh	geh	169	Semelai	to scratch/scrape	3	to scratch/scrape/3	g e h
+21844	ASLIAN	5262	Temiar	giːs	giːs	169	Temiar	to scratch/scrape	3	to scratch/scrape/3	g iː s
+21833	ASLIAN	5240	JahHut	kac	kac	169	Jah-Hut	to scratch/scrape	1	to scratch/scrape/1	k a c
+21835	ASLIAN	5262	Jahai	kɔ̃s	kɔ̃s	169	Jahai	to scratch/scrape	3	to scratch/scrape/3	k ɔ̃ s
+21841	ASLIAN	5273	Semelai	rabac	rabac	169	Semelai	to scratch/scrape	4	to scratch/scrape/4	r a b a c
+21843	ASLIAN	5262	Semnam	giːh	giːh	169	Semnam	to scratch/scrape	3	to scratch/scrape/3	g iː h
+21845	ASLIAN	5240	Temiar	keːɟ	keːɟ	169	Temiar	to scratch/scrape	1	to scratch/scrape/1	k eː ɟ
+#
+22005	ASLIAN	5311	Maniq	dɛŋ	dɛŋ	170	Maniq	to see	3	to see/3	d ɛ ŋ
+21999	ASLIAN	5289	CheqWong	jow	jow	170	Cheq-Wong	to see	1	to see/1	j o w
+22000	ASLIAN	5300	JahHut	dlɛh	dlɛh	170	Jah-Hut	to see	2	to see/2	d l ɛ h
+22003	ASLIAN	5311	Kensiw	dɛgŋ	dɛgŋ	170	Kensiw	to see	3	to see/3	d ɛ g ŋ
+22004	ASLIAN	5322	MahMeri	kaje	kaje	170	Mah-Meri	to see	4	to see/4	k a j e
+22006	ASLIAN	5333	Semai	nɛŋ	nɛŋ	170	Semai	to see	5	to see/5	n ɛ ŋ
+22007	ASLIAN	5322	Semelai	ʔje	ʔje	170	Semelai	to see	4	to see/4	ʔ j e
+22008	ASLIAN	5344	Semelai	reŋ	reŋ	170	Semelai	to see	6	to see/6	r e ŋ
+22009	ASLIAN	5311	Semnam	daŋ	daŋ	170	Semnam	to see	3	to see/3	d a ŋ
+22010	ASLIAN	5350	Temiar	neh	neh	170	Temiar	to see	7	to see/7	n e h
+22011	ASLIAN	5351	Temiar	hʌmbɔ	hʌmbɔ	170	Temiar	to see	8	to see/8	h ʌ m b ɔ
+#
+22266	ASLIAN	5380	Kensiw	ɟɔk bʌncɔʔ	ɟɔk#bʌncɔʔ	172	Kensiw	to sew	1	to sew/1	ɟ ɔ k # b ʌ n c ɔ ʔ
+22269	ASLIAN	5391	Semai	ceɪʔ	ceɪʔ	172	Semai	to sew	2	to sew/2	c e ɪ ʔ
+22270	ASLIAN	5401	Semelai	ɟwər	ɟwər	172	Semelai	to sew	3	to sew/3	ɟ w ə r
+22271	ASLIAN	5411	Semnam	cɔːj	cɔːj	172	Semnam	to sew	4	to sew/4	c ɔː j
+#
+22392	ASLIAN	5428	JahHut	pəʔput	pəʔput	173	Jah-Hut	to shoot	2	to shoot/2	p ə ʔ p u t
+22393	ASLIAN	5429	Jahai	pɛɲ	pɛɲ	173	Jahai	to shoot	3	to shoot/3	p ɛ ɲ
+22394	ASLIAN	5430	Jahai	haluh	haluh	173	Jahai	to shoot	4	to shoot/4	h a l u h
+22395	ASLIAN	5429	Kensiw	pe̝dn	pe̝dn	173	Kensiw	to shoot	3	to shoot/3	p e̝ d n
+22396	ASLIAN	5430	MahMeri	ləh	ləh	173	Mah-Meri	to shoot	4	to shoot/4	l ə h
+22397	ASLIAN	5430	Maniq	haluh	haluh	173	Maniq	to shoot	4	to shoot/4	h a l u h
+22398	ASLIAN	5428	Semai	puːt	puːt	173	Semai	to shoot	2	to shoot/2	p uː t
+22399	ASLIAN	5431	Semelai	ʔɔh	ʔɔh	173	Semelai	to shoot	5	to shoot/5	ʔ ɔ h
+22400	ASLIAN	5432	Semnam	bdeːl	bdeːl	173	Semnam	to shoot	6	to shoot/6	b d eː l
+22401	ASLIAN	5430	Temiar	sʌluh	sʌluh	173	Temiar	to shoot	4	to shoot/4	s ʌ l u h
+22391	ASLIAN	5417	CheqWong	haput	haput	173	Cheq-Wong	to shoot	1	to shoot/1	h a p u t
+#
+22517	ASLIAN	5436	CheqWong	ŋɔ̃k	ŋɔ̃k	174	Cheq-Wong	to sit	1	to sit/1	ŋ ɔ̃ k
+22518	ASLIAN	5436	JahHut	ŋəʔŋɔk	ŋəʔŋɔk	174	Jah-Hut	to sit	1	to sit/1	ŋ ə ʔ ŋ ɔ k
+22519	ASLIAN	5436	Jahai	ŋɔk	ŋɔk	174	Jahai	to sit	1	to sit/1	ŋ ɔ k
+22520	ASLIAN	5447	Jahai	rɨn	rɨn	174	Jahai	to sit	2	to sit/2	r ɨ n
+22521	ASLIAN	5436	Kensiw	ŋɔk	ŋɔk	174	Kensiw	to sit	1	to sit/1	ŋ ɔ k
+22522	ASLIAN	5458	MahMeri	kʰo̤p	kʰo̤p	174	Mah-Meri	to sit	3	to sit/3	kʰ o̤ p
+22523	ASLIAN	5436	Maniq	ŋɔk	ŋɔk	174	Maniq	to sit	1	to sit/1	ŋ ɔ k
+22524	ASLIAN	5469	Semai	gøi	gøi	174	Semai	to sit	4	to sit/4	g ø i
+22525	ASLIAN	5474	Semelai	kmkʰom	kmkʰom	174	Semelai	to sit	5	to sit/5	k m kʰ o m
+22526	ASLIAN	5475	Semnam	kɔɲ	kɔɲ	174	Semnam	to sit	6	to sit/6	k ɔ ɲ
+22527	ASLIAN	5476	Temiar	gɨl	gɨl	174	Temiar	to sit	7	to sit/7	g ɨ l
+#
+22642	ASLIAN	5479	CheqWong	ʔɑm	ʔɑm	175	Cheq-Wong	to sleep/lie down	1	to sleep/lie down/1	ʔ ɑ m
+22643	ASLIAN	5490	JahHut	cjɛk	cjɛk	175	Jah-Hut	to sleep/lie down	2	to sleep/lie down/2	c j ɛ k
+22644	ASLIAN	5490	Jahai	tek	tek	175	Jahai	to sleep/lie down	2	to sleep/lie down/2	t e k
+22645	ASLIAN	5490	Kensiw	tijek	tijek	175	Kensiw	to sleep/lie down	2	to sleep/lie down/2	t i j e k
+22646	ASLIAN	5490	MahMeri	gətek	gətek	175	Mah-Meri	to sleep/lie down	2	to sleep/lie down/2	g ə t e k
+22647	ASLIAN	5490	Maniq	tiek	tiek	175	Maniq	to sleep/lie down	2	to sleep/lie down/2	t i e k
+22648	ASLIAN	5490	Semai	gtəːʔ	gtəːʔ	175	Semai	to sleep/lie down	2	to sleep/lie down/2	g t əː ʔ
+22649	ASLIAN	5501	Semai	bɛt	bɛt	175	Semai	to sleep/lie down	3	to sleep/lie down/3	b ɛ t
+22650	ASLIAN	5490	Semelai	ɟtɛk	ɟtɛk	175	Semelai	to sleep/lie down	2	to sleep/lie down/2	ɟ t ɛ k
+22651	ASLIAN	5490	Semnam	tɛːk	tɛːk	175	Semnam	to sleep/lie down	2	to sleep/lie down/2	t ɛː k
+22652	ASLIAN	5508	Temiar	sʌlog / səlɔg	sʌlog	175	Temiar	to sleep/lie down	4	to sleep/lie down/4	s ʌ l o g
+#
+22777	ASLIAN	5514	CheqWong	ʔɔ̃ɲ	ʔɔ̃ɲ	176	Cheq-Wong	to smell (receive odor)	1	to smell (receive odor)/1	ʔ ɔ̃ ɲ
+22778	ASLIAN	5514	JahHut	ʔɔ̃ɲ	ʔɔ̃ɲ	176	Jah-Hut	to smell (receive odor)	1	to smell (receive odor)/1	ʔ ɔ̃ ɲ
+22779	ASLIAN	5514	Jahai	ʔɔ̃ɲ	ʔɔ̃ɲ	176	Jahai	to smell (receive odor)	1	to smell (receive odor)/1	ʔ ɔ̃ ɲ
+22780	ASLIAN	5514	Kensiw	ʔɔɲ	ʔɔɲ	176	Kensiw	to smell (receive odor)	1	to smell (receive odor)/1	ʔ ɔ ɲ
+22781	ASLIAN	5525	MahMeri	hɔn	hɔn	176	Mah-Meri	to smell (receive odor)	2	to smell (receive odor)/2	h ɔ n
+22782	ASLIAN	5514	Maniq	ʔɔ̃ɲ	ʔɔ̃ɲ	176	Maniq	to smell (receive odor)	1	to smell (receive odor)/1	ʔ ɔ̃ ɲ
+22783	ASLIAN	5536	Semai	bʌɹŋɔɪ	bʌɹŋɔɪ	176	Semai	to smell (receive odor)	3	to smell (receive odor)/3	b ʌ ɹ ŋ ɔ ɪ
+22784	ASLIAN	5547	Semelai	ɲam	ɲam	176	Semelai	to smell (receive odor)	4	to smell (receive odor)/4	ɲ a m
+22785	ASLIAN	5514	Semnam	ʔɔ̃ːɲ	ʔɔ̃ːɲ	176	Semnam	to smell (receive odor)	1	to smell (receive odor)/1	ʔ ɔ̃ː ɲ
+22786	ASLIAN	5536	Temiar	bʌɹŋɔi	bʌɹŋɔi	176	Temiar	to smell (receive odor)	3	to smell (receive odor)/3	b ʌ ɹ ŋ ɔ i
+#
+22905	ASLIAN	5554	CheqWong	kbac	kbac	177	Cheq-Wong	to spit	1	to spit/1	k b a c
+22906	ASLIAN	5565	JahHut	təhujɛ̃ŋ	təhujɛ̃ŋ	177	Jah-Hut	to spit	2	to spit/2	t ə h u j ɛ̃ ŋ
+22907	ASLIAN	5568	Jahai	tuɸ	tuɸ	177	Jahai	to spit	3	to spit/3	t u ɸ
+22908	ASLIAN	5554	Kensiw	be̝c	be̝c	177	Kensiw	to spit	1	to spit/1	b e̝ c
+22909	ASLIAN	5569	MahMeri	batʰɔj	batʰɔj	177	Mah-Meri	to spit	4	to spit/4	b a tʰ ɔ j
+22910	ASLIAN	5568	Maniq	tiɸ	tiɸ	177	Maniq	to spit	3	to spit/3	t i ɸ
+22912	ASLIAN	5568	Semelai	tʰɔh	tʰɔh	177	Semelai	to spit	3	to spit/3	tʰ ɔ h
+22913	ASLIAN	5570	Semnam	ktɔm	ktɔm	177	Semnam	to spit	5	to spit/5	k t ɔ m
+22914	ASLIAN	5568	Temiar	gətɔh	gətɔh	177	Temiar	to spit	3	to spit/3	g ə t ɔ h
+22911	ASLIAN	5568	Semai	tɔh	tɔh	177	Semai	to spit	3	to spit/3	t ɔ h
+#
+23038	ASLIAN	5575	CheqWong	hɲaɲ	hɲaɲ	178	Cheq-Wong	to stand	1	to stand/1	h ɲ a ɲ
+23041	ASLIAN	5575	Kensiw	hənɟadn	hənɟadn	178	Kensiw	to stand	1	to stand/1	h ə n ɟ a d n
+23042	ASLIAN	5591	MahMeri	jɯ̤k	jɯ̤k	178	Mah-Meri	to stand	3	to stand/3	j ɯ̤ k
+23047	ASLIAN	5593	Temiar	təd	təd	178	Temiar	to stand	5	to stand/5	t ə d
+23044	ASLIAN	5575	Semai	ɟiɲɟək	ɟiɲɟək	178	Semai	to stand	1	to stand/1	ɟ i ɲ ɟ ə k
+23045	ASLIAN	5592	Semelai	ʔuwʔaw	ʔuwʔaw	178	Semelai	to stand	4	to stand/4	ʔ u w ʔ a w
+23046	ASLIAN	5593	Semnam	tət	tət	178	Semnam	to stand	5	to stand/5	t ə t
+23039	ASLIAN	5586	JahHut	niʔjuwɔŋ	niʔjuwɔŋ	178	Jah-Hut	to stand	2	to stand/2	n i ʔ j u w ɔ ŋ
+23040	ASLIAN	5575	Jahai	hɲɟaɲ	hɲɟaɲ	178	Jahai	to stand	1	to stand/1	h ɲ ɟ a ɲ
+23043	ASLIAN	5575	Maniq	həɲjaɲ	həɲjaɲ	178	Maniq	to stand	1	to stand/1	h ə ɲ j a ɲ
+#
+23171	ASLIAN	5609	Semai	siʔsʌit	siʔsʌit	179	Semai	to steal	2	to steal/2	s i ʔs ʌ i t
+23174	ASLIAN	5609	Temiar	sʌit	sʌit	179	Temiar	to steal	2	to steal/2	s ʌ i t
+23166	ASLIAN	5598	Jahai	takuʔ / ʔakuʔ	takuʔ	179	Jahai	to steal	1	to steal/1	t a k u ʔ
+23168	ASLIAN	5609	Kensiw	sʌt siʔe̝c	sʌt#siʔe̝c	179	Kensiw	to steal	2	to steal/2	s ʌ t #s i ʔ e̝ c
+23172	ASLIAN	5609	Semelai	sɛc	sɛc	179	Semelai	to steal	2	to steal/2	s ɛ c
+23173	ASLIAN	5609	Semnam	sɛːc	sɛːc	179	Semnam	to steal	2	to steal/2	s ɛː c
+#
+23299	ASLIAN	5670	MahMeri	bək	bək	180	Mah-Meri	to tie/bind	5	to tie/bind/5	b ə k
+23293	ASLIAN	5628	CheqWong	siat	siat	180	Cheq-Wong	to tie/bind	1	to tie/bind/1	s i a t
+23296	ASLIAN	5651	Jahai	rbɛt	rbɛt	180	Jahai	to tie/bind	3	to tie/bind/3	r b ɛ t
+23297	ASLIAN	5662	Jahai	rət	rət	180	Jahai	to tie/bind	4	to tie/bind/4	r ə t
+23301	ASLIAN	5670	Semai	bʌʔ	bʌʔ	180	Semai	to tie/bind	5	to tie/bind/5	b ʌ ʔ
+23302	ASLIAN	5670	Semelai	bək	bək	180	Semelai	to tie/bind	5	to tie/bind/5	b ə k
+23303	ASLIAN	5670	Semnam	bək	bək	180	Semnam	to tie/bind	5	to tie/bind/5	b ə k
+23304	ASLIAN	5670	Temiar	bʌg	bʌg	180	Temiar	to tie/bind	5	to tie/bind/5	b ʌ g
+23295	ASLIAN	5639	Jahai	kəl	kəl	180	Jahai	to tie/bind	2	to tie/bind/2	k ə l
+#
+23441	ASLIAN	5675	Jahai	knɔm	knɔm	181	Jahai	to urinate/urine	1	to urinate/urine/1	k n ɔ m
+23442	ASLIAN	5675	Kensiw	kanɔm	kanɔm	181	Kensiw	to urinate/urine	1	to urinate/urine/1	k a n ɔ m
+23443	ASLIAN	5675	MahMeri	manum	manum	181	Mah-Meri	to urinate/urine	1	to urinate/urine/1	m a n u m
+23446	ASLIAN	5675	Semai	nʌŋnɔm	nʌŋnɔm	181	Semai	to urinate/urine	1	to urinate/urine/1	n ʌ ŋ n ɔ m
+23447	ASLIAN	5686	Semelai	dak ɟɒr	dak#ɟɒr	181	Semelai	to urinate/urine	2	to urinate/urine/2	d a k # ɟ ɒ r
+23448	ASLIAN	5675	Semnam	knɔːm	knɔːm	181	Semnam	to urinate/urine	1	to urinate/urine/1	k n ɔː m
+23449	ASLIAN	5675	Semnam	ʔɔ̃ŋ knɔːm	ʔɔ̃ŋ#knɔːm	181	Semnam	to urinate/urine	1	to urinate/urine/1	ʔ ɔ̃ ŋ # k n ɔː m
+23450	ASLIAN	5675	Temiar	kʌnoːm	kʌnoːm	181	Temiar	to urinate/urine	1	to urinate/urine/1	k ʌ n oː m
+#
+23566	ASLIAN	5697	CheqWong	kəʔ	kəʔ	182	Cheq-Wong	to vomit	1	to vomit/1	k ə ʔ
+23567	ASLIAN	5697	JahHut	kʔkuʔ	kʔkuʔ	182	Jah-Hut	to vomit	1	to vomit/1	k ʔ k u ʔ
+23568	ASLIAN	5697	Jahai	kɨʔ	kɨʔ	182	Jahai	to vomit	1	to vomit/1	k ɨ ʔ
+23569	ASLIAN	5697	Kensiw	kɚʔ	kɚʔ	182	Kensiw	to vomit	1	to vomit/1	k ɚ ʔ
+23570	ASLIAN	5697	MahMeri	kuʔ	kuʔ	182	Mah-Meri	to vomit	1	to vomit/1	k u ʔ
+23571	ASLIAN	5697	Maniq	kɨʔ	kɨʔ	182	Maniq	to vomit	1	to vomit/1	k ɨ ʔ
+23572	ASLIAN	5697	Semai	kakø	kakø	182	Semai	to vomit	1	to vomit/1	k a k ø
+23573	ASLIAN	5697	Semelai	kʰuʔ	kʰuʔ	182	Semelai	to vomit	1	to vomit/1	kʰ u ʔ
+23574	ASLIAN	5697	Semnam	koʔ	koʔ	182	Semnam	to vomit	1	to vomit/1	k o ʔ
+23575	ASLIAN	5697	Temiar	kɔʔ	kɔʔ	182	Temiar	to vomit	1	to vomit/1	k ɔ ʔ
+#
+23696	ASLIAN	5732	JahHut	hiʔhəj	hiʔhəj	183	Jah-Hut	to wake up/awaken	2	to wake up/awaken/2	h i ʔh ə j
+23697	ASLIAN	5773	Jahai	muŋkɛr	muŋkɛr	183	Jahai	to wake up/awaken	57	to wake up/awaken/57	m u ŋ k ɛ r
+23699	ASLIAN	5754	Kensiw	pɯh	pɯh	183	Kensiw	to wake up/awaken	4	to wake up/awaken/4	p ɯ h
+23698	ASLIAN	5743	Jahai	briwis	briwis	183	Jahai	to wake up/awaken	3	to wake up/awaken/3	b r i w i s
+23700	ASLIAN	5765	MahMeri	lek	lek	183	Mah-Meri	to wake up/awaken	5	to wake up/awaken/5	l e k
+23702	ASLIAN	5775	Semai	jɔl	jɔl	183	Semai	to wake up/awaken	6	to wake up/awaken/6	j ɔ l
+23703	ASLIAN	5776	Semelai	srdər	srdər	183	Semelai	to wake up/awaken	7	to wake up/awaken/7	s r d ə r
+23705	ASLIAN	5778	Temiar	səɹŋɪl	səɹŋɪl	183	Temiar	to wake up/awaken	9	to wake up/awaken/9	s ə ɹ ŋ ɪ l
+23704	ASLIAN	5777	Semnam	wɔːk	wɔːk	183	Semnam	to wake up/awaken	8	to wake up/awaken/8	w ɔː k
+#
+23825	ASLIAN	5779	CheqWong	cɨp	cɨp	184	Cheq-Wong	to walk/go	1	to walk/go/1	c ɨ p
+23826	ASLIAN	5779	JahHut	cip	cip	184	Jah-Hut	to walk/go	1	to walk/go/1	c i p
+23827	ASLIAN	5790	Jahai	gagah	gagah	184	Jahai	to walk/go	2	to walk/go/2	g a g a h
+23828	ASLIAN	5801	Jahai	rop	rop	184	Jahai	to walk/go	3	to walk/go/3	r o p
+23829	ASLIAN	5779	Kensiw	ɟɯp	ɟɯp	184	Kensiw	to walk/go	1	to walk/go/1	ɟ ɯ p
+23830	ASLIAN	5812	MahMeri	cɔʔ	cɔʔ	184	Mah-Meri	to walk/go	4	to walk/go/4	c ɔ ʔ
+23831	ASLIAN	5823	Maniq	wa	wa	184	Maniq	to walk/go	5	to walk/go/5	w a
+23832	ASLIAN	5779	Semai	cip	cip	184	Semai	to walk/go	1	to walk/go/1	c i p
+23833	ASLIAN	5834	Semelai	bpngiɁ	bpngiɁ	184	Semelai	to walk/go	6	to walk/go/6	b p n g i Ɂ
+23834	ASLIAN	5779	Semnam	ciːp ɟuŋ	ciːp#ɟuŋ	184	Semnam	to walk/go	1	to walk/go/1	c iː p # ɟ u ŋ
+23835	ASLIAN	5779	Temiar	cib	cib	184	Temiar	to walk/go	1	to walk/go/1	c i b
+#
+23967	ASLIAN	5842	CheqWong	mamũh	mamũh	185	Cheq-Wong	to wash (hands, things)	1	to wash (hands, things)/1	m a m ũ h
+23968	ASLIAN	5842	JahHut	maʔmuh	maʔmuh	185	Jah-Hut	to wash (hands, things)	1	to wash (hands, things)/1	m a ʔ m u h
+23969	ASLIAN	5853	Jahai	soc	soc	185	Jahai	to wash (hands, things)	2	to wash (hands, things)/2	s o c
+23970	ASLIAN	5853	Kensiw	so̝c	so̝c	185	Kensiw	to wash (hands, things)	2	to wash (hands, things)/2	s o̝ c
+23971	ASLIAN	5864	MahMeri	hum	hum	185	Mah-Meri	to wash (hands, things)	3	to wash (hands, things)/3	h u m
+23972	ASLIAN	5874	Maniq	kɔp	kɔp	185	Maniq	to wash (hands, things)	4	to wash (hands, things)/4	k ɔ p
+23973	ASLIAN	5853	Semai	suit	suit	185	Semai	to wash (hands, things)	2	to wash (hands, things)/2	s u i t
+23974	ASLIAN	5881	Semelai	basuh	basuh	185	Semelai	to wash (hands, things)	5	to wash (hands, things)/5	b a s u h
+23975	ASLIAN	5882	Semnam	ɟəm	ɟəm	185	Semnam	to wash (hands, things)	6	to wash (hands, things)/6	ɟ ə m
+23976	ASLIAN	5883	Semnam	biːm	biːm	185	Semnam	to wash (hands, things)	7	to wash (hands, things)/7	b iː m
+23977	ASLIAN	5853	Semnam	sɔc	sɔc	185	Semnam	to wash (hands, things)	2	to wash (hands, things)/2	s ɔ c
+23978	ASLIAN	5853	Temiar	suɟ	suɟ	185	Temiar	to wash (hands, things)	2	to wash (hands, things)/2	s u ɟ
+#
+24108	ASLIAN	5886	JahHut	ljɛp	ljɛp	186	Jah-Hut	to weave	1	to weave/1	l j ɛ p
+24109	ASLIAN	5890	JahHut	taɲ	taɲ	186	Jah-Hut	to weave	2	to weave/2	t a ɲ
+24110	ASLIAN	5890	Jahai	teɲ	teɲ	186	Jahai	to weave	2	to weave/2	t e ɲ
+24111	ASLIAN	5891	Kensiw	bia	bia	186	Kensiw	to weave	3	to weave/3	b i a
+24113	ASLIAN	5892	MahMeri	hidas	hidas	186	Mah-Meri	to weave	4	to weave/4	h i d a s
+24115	ASLIAN	5890	Semai	tait	tait	186	Semai	to weave	2	to weave/2	t a i t
+24116	ASLIAN	5893	Semai	coʊs	coʊs	186	Semai	to weave	5	to weave/5	c o ʊ s
+24117	ASLIAN	5890	Semelai	taɲ	taɲ	186	Semelai	to weave	2	to weave/2	t a ɲ
+24119	ASLIAN	5890	Temiar	taɟ	taɟ	186	Temiar	to weave	2	to weave/2	t a ɟ
+#
+24232	ASLIAN	5898	CheqWong	latek	latek	187	Cheq-Wong	tongue	1	tongue/1	l a t e k
+24233	ASLIAN	5898	JahHut	lntak	lntak	187	Jah-Hut	tongue	1	tongue/1	l n t a k
+24234	ASLIAN	5898	Jahai	lntek	lntek	187	Jahai	tongue	1	tongue/1	l n t e k
+24235	ASLIAN	5898	Kensiw	latik	latik	187	Kensiw	tongue	1	tongue/1	l a t i k
+24237	ASLIAN	5898	Maniq	latik	latik	187	Maniq	tongue	1	tongue/1	l a t i k
+24238	ASLIAN	5898	Semai	lʌntaʔ / lntaːk	lʌntaʔ	187	Semai	tongue	1	tongue/1	l ʌ n t a ʔ
+24239	ASLIAN	5900	Semelai	lpɛs	lpɛs	187	Semelai	tongue	2	tongue/2	l p ɛ s
+24240	ASLIAN	5898	Semnam	lntaːk	lntaːk	187	Semnam	tongue	1	tongue/1	l n t aː k
+24241	ASLIAN	5898	Temiar	lentag / lɛntaːg	lentag	187	Temiar	tongue	1	tongue/1	l e n t a g
+#
+24357	ASLIAN	5921	Kensiw	ɲũʃ	ɲũʃ	188	Kensiw	tooth	3	tooth/3	ɲ ũ ʃ
+24354	ASLIAN	5908	CheqWong	lmũɲ	lmũɲ	188	Cheq-Wong	tooth	1	tooth/1	l m ũ ɲ
+24355	ASLIAN	5908	JahHut	lmuɲ	lmuɲ	188	Jah-Hut	tooth	1	tooth/1	l m u ɲ
+24356	ASLIAN	5919	Jahai	hɛ̃ɲ	hɛ̃ɲ	188	Jahai	tooth	2	tooth/2	h ɛ̃ ɲ
+24358	ASLIAN	5922	MahMeri	jəmɔj	jəmɔj	188	Mah-Meri	tooth	4	tooth/4	j ə m ɔ j
+24359	ASLIAN	5908	Maniq	lamiɲ	lamiɲ	188	Maniq	tooth	1	tooth/1	l a m i ɲ
+24360	ASLIAN	5908	Semai	lʌmuin / lmuːɲ	lʌmuin	188	Semai	tooth	1	tooth/1	l ʌ m u i n
+24361	ASLIAN	5908	Semelai	lmɔɲ	lmɔɲ	188	Semelai	tooth	1	tooth/1	l m ɔ ɲ
+24362	ASLIAN	5908	Semnam	lmɔɲ	lmɔɲ	188	Semnam	tooth	1	tooth/1	l m ɔ ɲ
+24363	ASLIAN	5908	Temiar	mɔinɟ / mɔɲ	mɔinɟ	188	Temiar	tooth	1	tooth/1	m ɔ i n ɟ
+#
+24476	ASLIAN	5928	CheqWong	jhũʔ	jhũʔ	189	Cheq-Wong	tree	1	tree/1	jh ũ ʔ
+24477	ASLIAN	5928	JahHut	nɔhɔ̃ʔ	nɔhɔ̃ʔ	189	Jah-Hut	tree	1	tree/1	n ɔ h ɔ̃ ʔ
+24478	ASLIAN	5928	Jahai	ɟhũʔ	ɟhũʔ	189	Jahai	tree	1	tree/1	ɟh ũ ʔ
+24479	ASLIAN	5928	Kensiw	ʔihũʔ	ʔihũʔ	189	Kensiw	tree	1	tree/1	ʔ i h ũ ʔ
+24480	ASLIAN	5939	MahMeri	təkɔh	təkɔh	189	Mah-Meri	tree	2	tree/2	t ə k ɔ h
+24481	ASLIAN	5928	Maniq	ɲahuʔ	ɲahuʔ	189	Maniq	tree	1	tree/1	ɲ a h u ʔ
+24482	ASLIAN	5928	Semai	ɟʌhu / ɟhuʔ	ɟʌhu	189	Semai	tree	1	tree/1	ɟ ʌ h u
+24483	ASLIAN	5943	Semelai	dlɔŋ	dlɔŋ	189	Semelai	tree	3	tree/3	d l ɔ ŋ
+24484	ASLIAN	5928	Semnam	ɲhũʔ	ɲhũʔ	189	Semnam	tree	1	tree/1	ɲh ũ ʔ
+24485	ASLIAN	5928	Temiar	ɟʌhuʔ	ɟʌhuʔ	189	Temiar	tree	1	tree/1	ɟ ʌ h u ʔ
+#
+24604	ASLIAN	5950	CheqWong	ber	ber	190	Cheq-Wong	two	1	two/1	b e r
+24605	ASLIAN	5951	JahHut	nar	nar	190	Jah-Hut	two	2	two/2	n a r
+24608	ASLIAN	5950	Kensiw	bije	bije	190	Kensiw	two	1	two/1	b i j e
+24609	ASLIAN	5950	MahMeri	m̥ba	m̥ba	190	Mah-Meri	two	1	two/1	m̥ b a
+24610	ASLIAN	5952	Maniq	kəmam	kəmam	190	Maniq	two	3	two/3	k ə m a m
+24614	ASLIAN	5951	Semnam	naːj	naːj	190	Semnam	two	2	two/2	n aː j
+24611	ASLIAN	5951	Semai	naɹ	naɹ	190	Semai	two	2	two/2	n a ɹ
+24615	ASLIAN	5951	Temiar	naɹ	naɹ	190	Temiar	two	2	two/2	n a ɹ
+#
+24859	ASLIAN	5989	CheqWong	tɑm	tɑm	192	Cheq-Wong	water	1	water/1	t ɑ m
+24860	ASLIAN	5989	JahHut	tow	tow	192	Jah-Hut	water	1	water/1	t o w
+24861	ASLIAN	5989	Jahai	tɔm	tɔm	192	Jahai	water	1	water/1	t ɔ m
+24862	ASLIAN	5996	Jahai	ʔɔ̃ŋ	ʔɔ̃ŋ	192	Jahai	water	2	water/2	ʔ ɔ̃ ŋ
+24864	ASLIAN	5998	MahMeri	do	do	192	Mah-Meri	water	4	water/4	d o
+24865	ASLIAN	5997	Maniq	batew	batew	192	Maniq	water	3	water/3	b a t e w
+24866	ASLIAN	5999	Semai	teɪu	teɪu	192	Semai	water	5	water/5	t e ɪ u
+24867	ASLIAN	6000	Semelai	dak	dak	192	Semelai	water	6	water/6	d a k
+24869	ASLIAN	6001	Semnam	ʔajiːh	ʔajiːh	192	Semnam	water	7	water/7	ʔ a j iː h
+24863	ASLIAN	5997	Kensiw	bətew	bətew	192	Kensiw	water	3	water/3	b ə t e w
+24868	ASLIAN	5996	Semnam	ʔɔ̃ŋ	ʔɔ̃ŋ	192	Semnam	water	2	water/2	ʔ ɔ̃ ŋ
+24870	ASLIAN	5996	Temiar	oŋ / ʔɔːk	oŋ	192	Temiar	water	2	water/2	o ŋ
+#
+24986	ASLIAN	6004	Kensiw	baʎtaw	baʎtaw	193	Kensiw	white	1	white/1	b a ʎ t a w
+24988	ASLIAN	6015	Maniq	paliek	paliek	193	Maniq	white	2	white/2	p a l i e k
+24989	ASLIAN	6026	Semai	biɛʔ	biɛʔ	193	Semai	white	3	white/3	b i ɛ ʔ
+24991	ASLIAN	6004	Semnam	pltaːw	pltaːw	193	Semnam	white	1	white/1	p l t aː w
+24992	ASLIAN	6026	Temiar	biʔug / bəjuːg	biʔug	193	Temiar	white	3	white/3	b i ʔ u g
+#
+25113	ASLIAN	6036	CheqWong	hɔŋ	hɔŋ	194	Cheq-Wong	wind/air	1	wind/air/1	h ɔ ŋ
+25114	ASLIAN	6036	JahHut	mhɔŋ	mhɔŋ	194	Jah-Hut	wind/air	1	wind/air/1	mh ɔ ŋ
+25119	ASLIAN	6057	Semai	pinɔɪ	pinɔɪ	194	Semai	wind/air	3	wind/air/3	p i n ɔ ɪ
+25121	ASLIAN	6058	Semnam	sjaːk	sjaːk	194	Semnam	wind/air	4	wind/air/4	s j aː k
+25122	ASLIAN	6059	Temiar	nelhul	nelhul	194	Temiar	wind/air	5	wind/air/5	n e lh u l
+25115	ASLIAN	6047	Jahai	brwaʔ	brwaʔ	194	Jahai	wind/air	2	wind/air/2	b r w a ʔ
+25116	ASLIAN	6047	Kensiw	pɛwaʔ	pɛwaʔ	194	Kensiw	wind/air	2	wind/air/2	p ɛ w a ʔ
+25117	ASLIAN	6047	MahMeri	buwaʔ	buwaʔ	194	Mah-Meri	wind/air	2	wind/air/2	b u w a ʔ
+25118	ASLIAN	6047	Maniq	buwaʔ	buwaʔ	194	Maniq	wind/air	2	wind/air/2	b u w a ʔ
+#
+25237	ASLIAN	6064	CheqWong	prac	prac	195	Cheq-Wong	wing	1	wing/1	p r a c
+25238	ASLIAN	6075	JahHut	kpaʔ	kpaʔ	195	Jah-Hut	wing	2	wing/2	k p a ʔ
+25241	ASLIAN	6080	MahMeri	kəmpɛ̤k	kəmpɛ̤k	195	Mah-Meri	wing	3	wing/3	k ə m p ɛ̤ k
+25242	ASLIAN	6064	Maniq	paʔec	paʔec	195	Maniq	wing	1	wing/1	p a ʔ e c
+25243	ASLIAN	6081	Semai	kʌŋjɛʔ	kʌŋjɛʔ	195	Semai	wing	4	wing/4	k ʌ ŋ j ɛ ʔ
+25244	ASLIAN	6064	Semelai	prəc	prəc	195	Semelai	wing	1	wing/1	p r ə c
+25245	ASLIAN	6064	Semnam	pjec	pjec	195	Semnam	wing	1	wing/1	p j e c
+25246	ASLIAN	6081	Temiar	kenjeg	kenjeg	195	Temiar	wing	4	wing/4	k e n j e g
+#
+25368	ASLIAN	6120	Semai	kʌɹdoɹ	kʌɹdoɹ	196	Semai	woman	4	woman/4	k ʌ ɹ d o ɹ
+25362	ASLIAN	6087	CheqWong	koŋ	koŋ	196	Cheq-Wong	woman	1	woman/1	k o ŋ
+25363	ASLIAN	6087	JahHut	kaʔkəŋ	kaʔkəŋ	196	Jah-Hut	woman	1	woman/1	k a ʔ k ə ŋ
+25364	ASLIAN	6098	Jahai	baboʔ	baboʔ	196	Jahai	woman	2	woman/2	b a b o ʔ
+25365	ASLIAN	6098	Kensiw	mabɛ	mabɛ	196	Kensiw	woman	2	woman/2	m a b ɛ
+25369	ASLIAN	6120	Semelai	kdor	kdor	196	Semelai	woman	4	woman/4	k d o r
+25370	ASLIAN	6098	Semnam	baboːʔ	baboːʔ	196	Semnam	woman	2	woman/2	b a b oː ʔ
+25371	ASLIAN	6098	Temiar	babɔ	babɔ	196	Temiar	woman	2	woman/2	b a b ɔ
+25372	ASLIAN	6129	Temiar	leh	leh	196	Temiar	woman	5	woman/5	l e h
+25366	ASLIAN	6109	MahMeri	kədo	kədo	196	Mah-Meri	woman	3	woman/3	k ə d o
+25367	ASLIAN	6120	Maniq	bɛdɔn	bɛdɔn	196	Maniq	woman	4	woman/4	b ɛ d ɔ n
+#
+25642	ASLIAN	6159	Temiar	bʌladeɹ	bʌladeɹ	198	Temiar	yellow	2	yellow/2	b ʌ l a d e ɹ
+25638	ASLIAN	6148	Semai	pʌhoʔ	pʌhoʔ	198	Semai	yellow	1	yellow/1	p ʌ h o ʔ
+25639	ASLIAN	6148	Semai	ɹʌhɔɪ	ɹʌhɔɪ	198	Semai	yellow	1	yellow/1	ɹ ʌ h ɔ ɪ
+#
+25760	ASLIAN	6178	CheqWong	jin	jin	199	Cheq-Wong	you (pl.)	1	you (pl.)/1	j i n
+25761	ASLIAN	6178	JahHut	jɔn	jɔn	199	Jah-Hut	you (pl.)	1	you (pl.)/1	j ɔ n
+25762	ASLIAN	6189	Jahai	gin	gin	199	Jahai	you (pl.)	2	you (pl.)/2	g i n
+25763	ASLIAN	6200	Kensiw	bɔʔ	bɔʔ	199	Kensiw	you (pl.)	3	you (pl.)/3	b ɔ ʔ
+25764	ASLIAN	6204	MahMeri	hiʔ	hiʔ	199	Mah-Meri	you (pl.)	4	you (pl.)/4	h i ʔ
+25765	ASLIAN	6205	Maniq	mɔh	mɔh	199	Maniq	you (pl.)	5	you (pl.)/5	m ɔ h
+25767	ASLIAN	6206	Semelai	ɟe-ʔen	ɟeʔen	199	Semelai	you (pl.)	6	you (pl.)/6	ɟ e ʔ e n
+25768	ASLIAN	6207	Semnam	juːh	juːh	199	Semnam	you (pl.)	7	you (pl.)/7	j uː h
+25769	ASLIAN	6208	Temiar	ɲob	ɲob	199	Temiar	you (pl.)	8	you (pl.)/8	ɲ o b
+#
+25883	ASLIAN	6210	CheqWong	mɨ̃ʔ	mɨ̃ʔ	200	Cheq-Wong	you (sing.)	1	you (sing.)/1	m ɨ̃ ʔ
+25884	ASLIAN	6220	JahHut	ʔimah	ʔimah	200	Jah-Hut	you (sing.)	2	you (sing.)/2	ʔ i m a h
+25885	ASLIAN	6210	Jahai	miʔ	miʔ	200	Jahai	you (sing.)	1	you (sing.)/1	m i ʔ
+25886	ASLIAN	6227	Kensiw	bɔʔ	bɔʔ	200	Kensiw	you (sing.)	3	you (sing.)/3	b ɔ ʔ
+25888	ASLIAN	6220	Maniq	mɔh	mɔh	200	Maniq	you (sing.)	2	you (sing.)/2	m ɔ h
+25889	ASLIAN	6228	Semai	hɛ	hɛ	200	Semai	you (sing.)	4	you (sing.)/4	h ɛ
+25890	ASLIAN	6229	Semai	ɟʌn	ɟʌn	200	Semai	you (sing.)	5	you (sing.)/5	ɟ ʌ n
+25891	ASLIAN	6230	Semelai	kɒ	kɒ	200	Semelai	you (sing.)	6	you (sing.)/6	k ɒ
+25892	ASLIAN	6220	Semnam	miːh	miːh	200	Semnam	you (sing.)	2	you (sing.)/2	m iː h
+25893	ASLIAN	6228	Temiar	haː	haː	200	Temiar	you (sing.)	4	you (sing.)/4	h aː
+25887	ASLIAN	6228	MahMeri	hiʔ	hiʔ	200	Mah-Meri	you (sing.)	4	you (sing.)/4	h i ʔ
