@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>.pc-tooltip {display: block;}</style>
+    <script type="application/javascript" src="PhyloCanvas.js"></script>
+    <script type="application/javascript">
+      window.onload = function() {
+        // Initializing tree object
+	var phylocanvas = new PhyloCanvas.Tree('phylocanvasDiv');
+	phylocanvas.treeType = "rectangular";
+	phylocanvas.root = "root";
+	phylocanvas.nodeAlign = true;
+        var newick_str = "((a:2,b:2)ab:3,((c:1,d:1)cd:2,e:3)cde:4)root;";
+        phylocanvas.load(newick_str);
+	console.log(phylocanvas);
+	console.log(phylocanvas.branches.a);
+	phylocanvas.branches.a['label'] = "hunger";
+	phylocanvas.branches.ab['label'] = 'labelab';
+      }
+    </script>
+  </head>
+  <body>
+    <div id="phylocanvasDiv"></div>
+  </body>
+</html>
