@@ -10,11 +10,14 @@
 .node-container {
   display: flex;
   flex-direction: row;
-  border: 0px solid white;
+  border: 0px solid gray;
   padding: 0px;
-  margin: 0px;
+  margin-bottom: 5px;
+  margin-top: 5px;
   align-content: stretch; 
   align-items: center;
+  background: rgba(0,0,0,0.10);
+  border-radius: 50px;
 }
 .node-label {
   display: flex;
@@ -32,9 +35,9 @@
 .node-content {
   display: flex;
   flex-direction: column;
-  border: 0px dotted Crimson;
+  border-left: 0px dotted Crimson;
   padding: 0px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   flex-grow: 2;
   flex-shrink: 2;
 }
@@ -50,54 +53,89 @@
 }
 
   </style>
-  <div class="node-container">
-    <div class="node-label">
-      Germanic
-    </div>
-    <div class="node-content">
-      <div class="node-container">
-	<div class="node-label">
-	  West-Germanic
-	</div>
-	<div class="node-content">
-	  <div class="node-container">
-	    <div class="node-label">
-	      Anglo-Frisian
-	    </div>
-	    <div class="node-content">
-	      <div class="node-leave">
-		English
+  <div class="node-content">
+    <div class="node-container">
+      <div class="node-label">
+	Germanic
+      </div>
+      <div class="node-content">
+	<div class="node-container">
+	  <div class="node-label">
+	    West-Germanic
+	  </div>
+	  <div class="node-content">
+	    <div class="node-container">
+	      <div class="node-label">
+		Anglo-Frisian
 	      </div>
-	      <div class="node-leave">
-		Frisian
+	      <div class="node-content">
+		<div class="node-leave">
+		  English
+		</div>
+		<div class="node-leave">
+		  Frisian
+		</div>
+	      </div>
+	    </div>
+	    <div class="node-container">
+	      <div class="node-label">
+		Mainland-Germanic
+	      </div>
+	      <div class="node-content">
+		<div class="node-leave">
+		  German
+		</div>
+		<div class="node-leave">
+		  Dutch
+		</div>
 	      </div>
 	    </div>
 	  </div>
-	  <div class="node-container">
-	    <div class="node-label">
-	      Mainland-Germanic
+	</div>
+	<div class="node-container">
+	  <div class="node-label">
+	    North-Germanic
+	  </div>
+	  <div class="node-content">
+	    <div class="node-leave">
+	      Swedish
 	    </div>
-	    <div class="node-content">
-	      <div class="node-leave">
-		German
-	      </div>
-	      <div class="node-leave">
-		Dutch
-	      </div>
+	    <div class="node-leave">
+	      Danish
 	    </div>
 	  </div>
 	</div>
       </div>
-      <div class="node-container">
-	<div class="node-label">
-	  North-Germanic
-	</div>
-	<div class="node-content">
-	  <div class="node-leave">
-	    Swedish
+    </div>
+    <div class="node-container">
+      <div class="node-label">
+	Romance
+      </div>
+      <div class="node-content">
+	<div class="node-container">
+	  <div class="node-label">
+	    Gallo-Romance
 	  </div>
-	  <div class="node-leave">
-	    Danish
+	  <div class="node-content">
+	    <div class="node-leave">
+	      French
+	    </div>
+	    <div class="node-leave">
+	      Provencal
+	    </div>
+	  </div>
+	</div>
+	<div class="node-container">
+	  <div class="node-label">
+	    Ibero-Romance
+	  </div>
+	  <div class="node-content">
+	    <div class="node-leave">
+	      Spanish
+	    </div>
+	    <div class="node-leave">
+	      Portuguese
+	    </div>
 	  </div>
 	</div>
       </div>
